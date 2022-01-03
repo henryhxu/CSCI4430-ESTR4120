@@ -56,6 +56,10 @@ Click on the date to view the video recording. Click on the topic to access the 
 | Week | Monday | Wednesday | ESTR | Other |
 | :--- | :--- | :--- | :--- | :--- | 
 | 1 (Jan 10) | [Intro and Overview](lec/L01.pdf) |  
+| 2 (Jan 17) |  | 
+| 3 (Jan 24) |  | 
+| 4 (Jan 10) |  | 
+| 5 (Feb 7) |  | 
 
 
 ### Tutorial and Assignments
