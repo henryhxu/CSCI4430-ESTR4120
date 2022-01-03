@@ -21,7 +21,7 @@
 | [Zheng, Chuanyang](mailto:cyzheng21@cse.cuhk.edu.hk) | TA | 
 
 ### Piazza
-The Piazza page for this course is [here](http://piazza.com/cuhk.edu.hk/fall2021/engg2760aestr2018/home).
+The Piazza page for this course is [here](piazza.com/cuhk.edu.hk/spring2022/csci4430).
 All communication about this course is done over Piazza. This includes questions, discussions, announcements, as well as private messages.
 
 ## Course outline
