@@ -1,4 +1,4 @@
-# CSCI4430-ESTR4120, Computer Networks (Spring 2022)
+# CSCI4430, Computer Networks (Spring 2022)
 
 ## Administrivia
 
