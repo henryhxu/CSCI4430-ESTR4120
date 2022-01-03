@@ -5,7 +5,7 @@
 ### Schedule
 - Lectures: 
   * Mon 12:30pm -- 2:15pm, ERB LT
-  * Tue 4pm -- 5:15pm, ERB LT
+  * Tue 4:30pm -- 5:15pm, ERB LT
 - ESTR lectures: 
   * Tue 5:30pm -- 6:15pm, LSB G34
 - Tutorials:
