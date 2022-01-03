@@ -22,7 +22,8 @@
 
 ### Piazza
 The Piazza page for this course is [here](piazza.com/cuhk.edu.hk/spring2022/csci4430).
-All communication about this course is done over Piazza. This includes questions, discussions, announcements, as well as private messages.
+All communication about this course is done over Piazza. This includes questions, discussions, announcements, as well as private messages. 
+The self-signup code is "4430 rocks!".
 
 ## Course outline
 CSCI 4430 takes a top-down approach to explore how networks operate and how network applications work. We study how popular distributed systems such as video streaming, content distribution networks (CDNs), and cloud computing systems work in the application layer. We explore how these applications transfer data between their components and end users over the Internet using transport layer protocols such as TCP and UDP. We go deeper to understand what keeps the transport layer running; specifically, we look at how packets are routed and how routers work. Finally, we dive one more layer down to understand how the link layer transfer packets using Ethernet. In addition to cutting through the layers and covering the basics, we learn about the state-of-the-art topics in networking such as datacenter networks, software-defined networking (SDN), and (time permits) programmable networks.
@@ -67,12 +68,9 @@ Click on the date to view the video recording. Click on the topic to access the 
 
 ## Course policies
 - *Special teaching arrangement* for students who cannot enter HK:
-  * ENGG 2760A: both live Zoom sessions and recordings will be provided on this site for each lecture and tutorial. Recordings will also be available on Blackboard.
-  * ESTR 2018: both live Zoom sessions and recordings will be provided on this site for each lecture and tutorial.
+  * Recordings will be provided for each lecture or tutorial session. No live lecture will be provided.
   * Inform the course instructor, Henry, **immediately** when you can physically attend the class, so we can avoid the hassle of hybrid mode teaching.
 - Homework and project: 
-  * Submit via Blackboard. You are automatically enrolled in the Blackboard course. We will create entries specifically for each item, and they will close automatically after the deadline. Marks will be available by end of weekend also on Blackboard.
-  * Submit PDF files only. Other file format will be marked as zero. You can handwrite and scan as PDF, or simply write your solution using [LaTeX](https://www.latex-project.org/) (All our homework and solutions are written in LaTeX).
   * No late submission. No exception.
   * According to the University’s regulation, every assignment must be accompanied by a signed declaration of originality; submissions without it will receive zero mark.
   * The declaration form is available [here](declaration_en.doc).
