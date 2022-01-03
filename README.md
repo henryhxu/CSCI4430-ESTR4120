@@ -59,9 +59,10 @@ Click on the date to view the video recording. Click on the topic to access the 
 
 ### Tutorial and Assignments
 
-| Week | Topic | Recording | Assignments | Due | 
+| Week | Topic | Recording | Assignment | Due | 
 | :--- | :--- | :--- | :--- | :--- |
-| 1 | [Socket programming]() | [link](https://cuhk.zoom.us/rec/share/h00aGv0tbYVQHCdJtx4E2ynAkcYM3rimBF1UknTUJ_3qukPhPTEJ29zi_ozx8-Y.29JL4sHc4zyCDbps?startTime=1631176905000) | 
+| 1 | [Socket programming]() | [link]() | 
+| 2 | [Performance metrics]() | [link]() | 
 
 
 ## Course policies
