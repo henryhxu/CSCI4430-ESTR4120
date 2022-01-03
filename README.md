@@ -53,7 +53,7 @@ Click on the date to view the video recording. Click on the topic to access the 
 
 ### Lecture (subject to change, espcially ESTR topics)
 | Week | Monday | Wednesday | ESTR | Other |
-| :---------------- | :--- | :--- | :--- | :--- | :--- | :--- |
+| :--- | :--- | :--- | :--- | :--- | 
 | 1 (Jan 10) | [Intro and Overview](lec/L01.pdf) |  
 
 
