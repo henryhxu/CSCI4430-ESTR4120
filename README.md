@@ -52,9 +52,9 @@ Projects details will be announced in a later time.
 Click on the date to view the video recording. Click on the topic to access the slides.
 
 ### Lecture (subject to change, espcially ESTR topics)
-| Week | Date | Topic | Material | ESTR Date  | ESTR Topic | Other |
+| Week | Monday | Wednesday | ESTR | Other |
 | :---------------- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 1 | [Sep 6](https://cuhk.zoom.us/rec/share/KfoOy761W1jd20qXpN6waGCELMCwK7L97cJ_j6dJkB0nCsDSJH8H626wJfk7G90.xp_FvsVqiiAIAAIn) (passcode 3+k!5B0i) | Intro; [Probability and counting](lec/L01-Probability.pdf) | §1.1, 1.6 | [Sep 8]() | [Random walk](lec/E01.pdf) ([clean notes](lec/E01-clean.pdf)) | [Jupyter notebook](lec/E01.ipynb)
+| 1 (Jan 10) | [Intro and Overview](lec/L01.pdf) |  
 
 
 ### Tutorial and Assignments
