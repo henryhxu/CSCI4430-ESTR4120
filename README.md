@@ -16,7 +16,7 @@
 | Member | Role | Office Hours |
 | :---------------- | :--- | :----------- |
 | [Xu, Hong (Henry)](https://henryhxu.github.io/) | Prof | Tue 1-3 pm, SHB 914. **By appointments only.**
-| [Hu, Junliang](mailto:jihu@cse.cuhk.edu.hk) | Head TA |  
+| [Hu, Junliang](mailto:jlhu@cse.cuhk.edu.hk) | Head TA |  
 | [Song, Qingyu](mailto:qysong21@cse.cuhk.edu.hk) | TA | Thu 2:30-4:30 pm, SHB 117. 
 | [Zheng, Chuanyang](mailto:cyzheng21@cse.cuhk.edu.hk) | TA | 
 
