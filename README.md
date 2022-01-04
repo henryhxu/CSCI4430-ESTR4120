@@ -10,7 +10,7 @@
   * Tue 5:30pm -- 6:15pm, LSB G34
 - Tutorials:
   * Thu 8:30am -- 9:15am, MMW 710
-  * Thu 12:30pm -- 1:15am, MMW 703
+  * Thu 12:30pm -- 1:15pm, MMW 703
 
 ### Team
 | Member | Role | Office Hours |
