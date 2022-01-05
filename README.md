@@ -21,7 +21,7 @@
 | [Zheng, Chuanyang](mailto:cyzheng21@cse.cuhk.edu.hk) | TA | Fri 9:30-11:30 am, SHB 1024.
 
 ### Piazza
-The Piazza page for this course is [here](piazza.com/cuhk.edu.hk/spring2022/csci4430).
+The Piazza page for this course is [here](https://piazza.com/cuhk.edu.hk/spring2022/csci4430).
 All communication about this course is done over Piazza. This includes questions, discussions, announcements, as well as private messages. 
 The self-signup code is "4430 rocks!".
 
