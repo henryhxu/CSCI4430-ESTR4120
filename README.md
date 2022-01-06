@@ -37,9 +37,9 @@ The course materials are based upon the following classic textbook of Kurose and
 ### Grading
 | Assessment item | ENGG Weight | ESTR Weight
 | :---------------- | :--- | :--- | 
-| Assignments | 55% | 45%
+| Assignments | 55% | 55%
 | Tutorial Quizzes* | 5% | 5%
-| Final Exam | 40% | 40%
+| Final Exam | 40% | 30%
 | Project | - | 10%
 
 \*: To encourage tutorial participation, quiz will be conducted at the tutorials randomly. We will randomly pick 5 tutorials and perform a quiz at the end of the tutorial. Each quiz is worth one mark.
