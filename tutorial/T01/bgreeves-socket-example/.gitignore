@@ -1,0 +1,4 @@
+*.o
+*.dSYM
+client
+server
