@@ -58,7 +58,7 @@ New connection 4
 Client 4 says "hello server"
 ```
 
-### Tip: SSH-ing into the same CAEN machine from different terminals
+### Tip: SSH-ing into the CSE servers from different terminals
 Connect to one particular CSE server (replace X with a linux server number):
 ```
 $ ssh yourCSELinuxID@linuxX.cse.cuhk.edu.hk
