@@ -55,7 +55,7 @@ Click on the date to view the video recording. Click on the topic to access the 
 ### Lecture (subject to change, espcially ESTR topics)
 | Week | Monday | Tuesday | ESTR | Other |
 | :--- | :--- | :--- | :--- | :--- | 
-| 1 (Jan 10) | [Intro and Overview](lecture/lec1.pptx) ([recording](https://cuhk.zoom.us/rec/share/GMBuuyiGyLKiHf_dbTPYC1KZXTIFAOdwfq7bcpUrsU-QyzugFh0g9iMErY3SsSrW.YS3CeSVtEPexD0F1)) | [Intro and Overview](lecture/lec1.pptx) ([recording](https://cuhk.zoom.us/rec/share/88tdIlzjsMBhNQxtWYdd6TB--z-L4uEZBVBQvVXYdaDLQ8c0kXVH1zTNizqc193u.ZO8WyP5rvFng777j)) | [Internet](lecture/estr1.pptx) 
+| 1 (Jan 10) | [Intro and Overview](lecture/lec1.pptx) ([recording](https://cuhk.zoom.us/rec/share/GMBuuyiGyLKiHf_dbTPYC1KZXTIFAOdwfq7bcpUrsU-QyzugFh0g9iMErY3SsSrW.YS3CeSVtEPexD0F1)) | [Intro and Overview](lecture/lec1.pptx) ([recording](https://cuhk.zoom.us/rec/share/88tdIlzjsMBhNQxtWYdd6TB--z-L4uEZBVBQvVXYdaDLQ8c0kXVH1zTNizqc193u.ZO8WyP5rvFng777j)) | [Internet](lecture/estr1.pptx) ([recording](https://cuhk.zoom.us/rec/share/3SZewEFYrPtDs01sjRwfKvTSSavGl65htD0RBTSy4v9jEgeZHdk38FHHhaZAx_zC.We45sM8DXlSAhJvj))
 | 2 (Jan 17) |  | 
 | 3 (Jan 24) |  | 
 | 4 (Feb 7) |  | 
