@@ -58,7 +58,7 @@ New connection 4
 Client 4 says "hello server"
 ```
 
-### Tip: SSH-ing into the same CAEN machine from different terminals
+<!-- ### Tip: SSH-ing into the same CAEN machine from different terminals
 
 In order to run a server and a client in two separate terminals over SSH, you have to be connected to the same CAEN machine.
 
@@ -73,5 +73,5 @@ caen-vnc-vmXX.engin.umich.edu
 Then you can SSH directly into this machine from another terminal:
 
 ```
-$ ssh you@caen-vnc-vmXX.engin.umich.edu
-```
+$ ssh you@caen-vnc-vmXX.engin.umich.edu 
+``` -->
