@@ -35,7 +35,7 @@ The course materials are based upon the following classic textbook of Kurose and
 - Computer Networking: A Top-Down Approach, 7th. (or earlier editions), by Jim Kurose and Keith Ross, 2016. ISBN 978-0133594140.
 
 ### Grading
-| Assessment item | ENGG Weight | ESTR Weight
+| Assessment item | CSCI Weight | ESTR Weight
 | :---------------- | :--- | :--- | 
 | Assignments | 55% | 55%
 | Tutorial Quizzes* | 5% | 5%
@@ -53,9 +53,9 @@ Projects details will be announced in a later time.
 Click on the date to view the video recording. Click on the topic to access the slides.
 
 ### Lecture (subject to change, espcially ESTR topics)
-| Week | Monday | Wednesday | ESTR | Other |
+| Week | Monday | Tuesday | ESTR | Other |
 | :--- | :--- | :--- | :--- | :--- | 
-| 1 (Jan 10) | [Intro and Overview](lecture/lec1.pptx) ([recording](https://cuhk.zoom.us/rec/share/GMBuuyiGyLKiHf_dbTPYC1KZXTIFAOdwfq7bcpUrsU-QyzugFh0g9iMErY3SsSrW.YS3CeSVtEPexD0F1)) | [Intro and Overview](lecture/lec1.pptx) | [Internet](lecture/estr1.pptx) 
+| 1 (Jan 10) | [Intro and Overview](lecture/lec1.pptx) ([recording](https://cuhk.zoom.us/rec/share/GMBuuyiGyLKiHf_dbTPYC1KZXTIFAOdwfq7bcpUrsU-QyzugFh0g9iMErY3SsSrW.YS3CeSVtEPexD0F1)) | [Intro and Overview](lecture/lec1.pptx) ([recording](https://cuhk.zoom.us/rec/share/88tdIlzjsMBhNQxtWYdd6TB--z-L4uEZBVBQvVXYdaDLQ8c0kXVH1zTNizqc193u.ZO8WyP5rvFng777j)) | [Internet](lecture/estr1.pptx) 
 | 2 (Jan 17) |  | 
 | 3 (Jan 24) |  | 
 | 4 (Feb 7) |  | 
