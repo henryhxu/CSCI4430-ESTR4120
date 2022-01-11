@@ -58,20 +58,21 @@ New connection 4
 Client 4 says "hello server"
 ```
 
-<!-- ### Tip: SSH-ing into the same CAEN machine from different terminals
-
-In order to run a server and a client in two separate terminals over SSH, you have to be connected to the same CAEN machine.
-
-To do this, first, from one terminal, SSH into CAEN normally and determine the hostname of the machine you logged into:
-
+### Tip: SSH-ing into the same CAEN machine from different terminals
+Connect to one particular CSE server (replace X with a linux server number):
 ```
-$ ssh you@oncampus-course.engin.umich.edu
-$ hostname
-caen-vnc-vmXX.engin.umich.edu
+$ ssh yourCSELinuxID@linuxX.cse.cuhk.edu.hk
+$ ./server 8888
+...
 ```
 
-Then you can SSH directly into this machine from another terminal:
-
+Connect to another CSE server:
 ```
-$ ssh you@caen-vnc-vmXX.engin.umich.edu 
-``` -->
+$ ssh yourCSELinuxID@linuxX.cse.cuhk.edu.hk
+$ ./client localhost 8888 "hello server"
+...
+```
+
+
+## Acknowledgements
+Based on Umich EECS 482 [bgreeves-socket-example](https://github.com/eecs482/bgreeves-socket-example).
