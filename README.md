@@ -65,7 +65,7 @@ Click on the date to view the video recording. Click on the topic to access the 
 
 | Week | Topic | Recording | Assignment | Due | 
 | :--- | :--- | :--- | :--- | :--- |
-| 1 | [Socket programming](tutorial/T01/tut01.pptx) | [link]() | 
+| 1 | [Socket programming](tutorial/T01/tut01.pptx) | [link]() | [Assignment 1](assignment/assignment-1) | Sat, 29 Jan. 11:59:59 p.m.
 | 2 | [Performance metrics](tutorial/T02/tut02.pptx) | [link]() | 
 
 
