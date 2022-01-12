@@ -9,8 +9,8 @@
 - ESTR lectures: 
   * Tue 5:30pm -- 6:15pm, LSB G34 ([Zoom link](https://cuhk.zoom.us/j/96114020070?pwd=RTB5c2FZaEtLTXBXWFQ4Q1FaQUJFUT09))
 - Tutorials:
-  * Thu 8:30am -- 9:15am, MMW 710
-  * Thu 12:30pm -- 1:15pm, MMW 703
+  * Thu 8:30am -- 9:15am, MMW 710 ([Zoom link](https://cuhk.zoom.us/j/94590014376?pwd=NDdlRzVDQW9oQURyMU5ESTJEUHh3Zz09))
+  * Thu 12:30pm -- 1:15pm, MMW 703 ([Zoom link](https://cuhk.zoom.us/j/94590014376?pwd=NDdlRzVDQW9oQURyMU5ESTJEUHh3Zz09))
 
 ### Team
 | Member | Role | Office Hours |
