@@ -54,7 +54,7 @@ Click on the date to view the video recording. Click on the topic to access the 
 
 ### Lecture (subject to change, espcially ESTR topics)
 | Week | Monday | Tuesday | ESTR | Optional Readings |
-| :--------- | :------------------- | :------------------- | :------------------- | :------------ | 
+| :---------: | :-------------------: | :-------------------: | :-------------------: | :------------: | 
 | 1 (Jan 10) | [Intro and Overview](lecture/lec1.pptx) ([recording](https://cuhk.zoom.us/rec/share/GMBuuyiGyLKiHf_dbTPYC1KZXTIFAOdwfq7bcpUrsU-QyzugFh0g9iMErY3SsSrW.YS3CeSVtEPexD0F1)) | [Intro and Overview](lecture/lec1.pptx) ([recording](https://cuhk.zoom.us/rec/share/88tdIlzjsMBhNQxtWYdd6TB--z-L4uEZBVBQvVXYdaDLQ8c0kXVH1zTNizqc193u.ZO8WyP5rvFng777j)) | [Internet](lecture/estr1.pptx) ([recording](https://cuhk.zoom.us/rec/share/3SZewEFYrPtDs01sjRwfKvTSSavGl65htD0RBTSy4v9jEgeZHdk38FHHhaZAx_zC.We45sM8DXlSAhJvj)) | 1.1, 1.3, 1.4
 | 2 (Jan 17) | [Layering](lecture/lec2.pptx); [Socket programming, HTTP](lecture/lec3.pptx) | [Socket programming, HTTP](lecture/lec3.pptx) | [More on HTTP; P2P](lecture/estr2.pptx) | 1.5, 2.2, 2.4
 | 3 (Jan 24) |  | 
@@ -64,7 +64,7 @@ Click on the date to view the video recording. Click on the topic to access the 
 ### Tutorial and Assignments
 
 | Week | Topic | Recording | Assignment | Due | 
-| :--- | :------------------ | :----- | :------------- | :------------- |
+| :---: | :------------------: | :-----: | :-------------: | :-------------: |
 | 1 | [Socket programming](tutorial/T01/tut01.pptx) | [link](https://cuhk.zoom.us/rec/share/ocCYRX0Pv0ZZfA3qEMIRc9JM5jDZLR9w8x6rnRtBG84f6_1cuu-L0igeQW9SKoUe.OiV8_R37BIAKtOPd?startTime=1642033608000) | [Assignment 1](assignment/assignment-1) | 11:59:59 p.m., Sat, Jan 29, 
 | 2 | [Performance metrics](tutorial/T02/tut02.pptx) | [link]() | 
 
