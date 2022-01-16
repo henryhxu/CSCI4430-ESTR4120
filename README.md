@@ -4,13 +4,13 @@
 
 ### Schedule
 - Lectures: 
-  * Mon 12:30pm -- 2:15pm, ERB LT ([Zoom link](https://cuhk.zoom.us/j/92811984025?pwd=eGE4Um5SV0Nwd3RJTlh2WmFpV2wzdz09))
-  * Tue 4:30pm -- 5:15pm, ERB LT ([Zoom link](https://cuhk.zoom.us/j/95299586369?pwd=N2RnM3h6VkJlTG1ncVZHMEFsa0laUT09))
+  * Mon 12:30pm – 2:15pm, ERB LT ([Zoom link](https://cuhk.zoom.us/j/92811984025?pwd=eGE4Um5SV0Nwd3RJTlh2WmFpV2wzdz09))
+  * Tue 4:30pm – 5:15pm, ERB LT ([Zoom link](https://cuhk.zoom.us/j/95299586369?pwd=N2RnM3h6VkJlTG1ncVZHMEFsa0laUT09))
 - ESTR lectures: 
-  * Tue 5:30pm -- 6:15pm, LSB G34 ([Zoom link](https://cuhk.zoom.us/j/96114020070?pwd=RTB5c2FZaEtLTXBXWFQ4Q1FaQUJFUT09))
+  * Tue 5:30pm – 6:15pm, LSB G34 ([Zoom link](https://cuhk.zoom.us/j/96114020070?pwd=RTB5c2FZaEtLTXBXWFQ4Q1FaQUJFUT09))
 - Tutorials:
-  * Thu 8:30am -- 9:15am, MMW 710 ([Zoom link](https://cuhk.zoom.us/j/94590014376?pwd=NDdlRzVDQW9oQURyMU5ESTJEUHh3Zz09))
-  * Thu 12:30pm -- 1:15pm, MMW 703 ([Zoom link](https://cuhk.zoom.us/j/94590014376?pwd=NDdlRzVDQW9oQURyMU5ESTJEUHh3Zz09))
+  * Thu 8:30am – 9:15am, MMW 710 ([Zoom link](https://cuhk.zoom.us/j/94590014376?pwd=NDdlRzVDQW9oQURyMU5ESTJEUHh3Zz09))
+  * Thu 12:30pm – 1:15pm, MMW 703 ([Zoom link](https://cuhk.zoom.us/j/94590014376?pwd=NDdlRzVDQW9oQURyMU5ESTJEUHh3Zz09))
 
 ### Team
 | Member | Role | Office Hours |
