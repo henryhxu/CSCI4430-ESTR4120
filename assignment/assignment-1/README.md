@@ -214,14 +214,12 @@ For the fourth part, you should measure the RTT of three domain names in mainlan
 <a name="submission-instr"></a>
 
 ## Submission Instructions
-**Assignment submission format**
 
 Your assigned repository must contain:
 
 * The source code for `iPerfer`: all source files for `iPerfer` should be in a folder called `iPerfer`; the folder should include a `Makefile` to compile the sources. 
 
-* Your measurement results and answers to the questions from Part 3: all results and a text file called `answers.txt` should be in a folder called `measurements`.
-* Your custom network topology code and its visualization (`<uniqname>_topology.py` and `<uniqname>_topology.png`).
+* Your measurement results and answers to the questions from Part 3 and Part 4: all results and a text file called `answers.txt` should be in a folder called `measurements`.
 
 Example final structure of repository:
 ```
