@@ -67,6 +67,8 @@ Click on the topic to access the slides, and on the date to view the recording.
 | :---: | :------------------: | :-----: | :-------------: | :-------------: |
 | 1 | [Socket programming](tutorial/T01/tut01.pptx) | [Jan 13](https://cuhk.zoom.us/rec/share/ocCYRX0Pv0ZZfA3qEMIRc9JM5jDZLR9w8x6rnRtBG84f6_1cuu-L0igeQW9SKoUe.OiV8_R37BIAKtOPd?startTime=1642033608000) | [Assignment 1](assignment/assignment-1) | 11:59:59 p.m., Sat, Jan 29 
 | 2 | [Performance metrics](tutorial/T02/tut02.pptx) | [Jan 20](https://cuhk.zoom.us/rec/share/bN593V2QGLPNNZea6JewUtsWXiS-CcTvXc5m0FW68vahSLNwvYsDtksM5tJu0O4K.FBghXgcsGMJ8eb_S?startTime=1642652855000) | 
+| 3 | [HTTP Exercise](tutorial/T03/tut03.pptx) | [Jan 27]() | 
+
 
 
 ## Course policies
