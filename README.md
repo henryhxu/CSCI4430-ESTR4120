@@ -57,7 +57,7 @@ Click on the topic to access the slides, and on the date to view the recording.
 | :-----------: | :-----------------: | :-----------------: | :------------: | 
 | 1 | [Intro and Overview](lecture/lec1.pptx) ([Jan 10](https://cuhk.zoom.us/rec/share/GMBuuyiGyLKiHf_dbTPYC1KZXTIFAOdwfq7bcpUrsU-QyzugFh0g9iMErY3SsSrW.YS3CeSVtEPexD0F1), [11](https://cuhk.zoom.us/rec/share/88tdIlzjsMBhNQxtWYdd6TB--z-L4uEZBVBQvVXYdaDLQ8c0kXVH1zTNizqc193u.ZO8WyP5rvFng777j)) | [Internet](lecture/estr1.pptx) ([Jan 11](https://cuhk.zoom.us/rec/share/3SZewEFYrPtDs01sjRwfKvTSSavGl65htD0RBTSy4v9jEgeZHdk38FHHhaZAx_zC.We45sM8DXlSAhJvj)) | 1.1, 1.3, 1.4
 | 2 | [Layering](lecture/lec2.pptx); [Sockets and HTTP](lecture/lec3.pptx) ([Jan 17](https://cuhk.zoom.us/rec/share/c5VrWKFwujdmMsgG7X9yasAPxhWlx1jj_3Rss8WwsL76rVCn1Grbl_YPjFVExg.fQOAykjhesRzjjWg), [18](https://cuhk.zoom.us/rec/share/d186v4bsOmWlKBxqd4jIYp4Win1y7L2f97WYDmg1MG6wcXpj6l8S6z3ebEKNImC0.NUY8kc11kSrQuoVP)) | [More on HTTP; P2P](lecture/estr2.pptx) ([Jan 18](https://cuhk.zoom.us/rec/share/PMFQRt2pALxYSfvwqk-KeSAPWFO9NggI6V_F4qlj_0vxZkBdJ0BF8Pf-y1K-CeLH.gmx0QsnHaQlI6W21)) | 1.5, 2.2, 2.4
-| 3 |  | 
+| 3 | [CDN, DNS](lecture/lec4.pptx) ([Jan 24](https://cuhk.zoom.us/rec/share/KofQlqZ0Le6pJfJRSxUCvydViVuIY0soEFZzi_-jpAsu1jKSIyedUdxs2Zak1-8D.OCkuSjtQ5dUXMqH4), [25]) | 
 | 4 |  | 
 
 
