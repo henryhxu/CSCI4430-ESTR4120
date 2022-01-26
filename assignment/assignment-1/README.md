@@ -1,6 +1,6 @@
 # Assignment 1: Sockets, Mininet, & Performance
 
-### Due:  Mon, 31st Jan. 18:00:00 p.m. ~~Sat, 29th Jan. 11:59:59 p.m.~~
+### Due: ~~Sat, 29th Jan. 11:59:59 p.m.~~ Mon, 31st Jan. 18:00:00 p.m.
 
 ## Overview
 
