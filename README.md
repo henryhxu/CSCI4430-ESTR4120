@@ -13,7 +13,7 @@
   * Thu 12:30pm – 1:15pm, MMW 703 ([Zoom link](https://cuhk.zoom.us/j/94590014376?pwd=NDdlRzVDQW9oQURyMU5ESTJEUHh3Zz09))
 
 ### Team
-| Member | Role | Office Hours |
+| Member | Role | Office Hours | Zoom |
 | :---------------- | :--- | :----------- | :----------- |
 | [Xu, Hong (Henry)](https://henryhxu.github.io/) | Prof | Tue 1-3 pm, SHB 914. **By appointments only.** |
 | [Hu, Junliang](mailto:jlhu@cse.cuhk.edu.hk) | Head TA | Mon 2:30-4:30 pm, SHB 921. |
