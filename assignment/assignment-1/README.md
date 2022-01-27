@@ -270,7 +270,7 @@ Because of the guarantees of TCP, both Sent and Received should be the same. The
 Submission methods:
 Log in with your CUHK link email and the password we sent to this [URL](http://projgw.cse.cuhk.edu.hk:2913/) under the connection of CSE VPN.
 
-You need to finish **both** the "Performance metrics" and the "Socket programming" parts.
+You must finish **both** the "Performance metrics" and the "Socket programming" parts.
 
 Please find this [link](https://web.eecs.umich.edu/~justincj/teaching/eecs498/FA2020/autograder.html) for general use of the autograder.
 
