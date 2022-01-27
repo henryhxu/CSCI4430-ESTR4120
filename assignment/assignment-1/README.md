@@ -1,6 +1,7 @@
 # Assignment 1: Sockets, Mininet, & Performance
 
 ### Due: ~~Sat, 29th Jan. 11:59:59 p.m.~~ Mon, 31st Jan. 18:00:00 p.m.
+### ! Updated [Autograder](#autograder)
 
 ## Overview
 
@@ -11,6 +12,7 @@
 * [Part 3](#part3): Measurements in Mininet
 * [Part 4](#part4): Real-World Latency (Bonus marks, optional)
 * [Submission Instructions](#submission-instr)
+* [Autograder](#autograder)
 
 ## Learning Outcomes
 
@@ -253,7 +255,39 @@ $ tree ./p1-yourStuID/
     └── throughput_h1-h9.txt
 ```
 
-**The submission entrance and methods will be announced later on ([Piazza](https://piazza.com/class/kxyc5pfakvq4s2)).**
+<a name="autograder"></a>
+
+## Autograder
+
+The autograder tests the following aspects of `iPerfer`
+
+1. Incorrect argument handling
+2. Format of your iPerfer output
+3. Correctness of iPerfer output (both the `Sent` and `Received` values as well as `Rate`).
+
+Because of the guarantees of TCP, both Sent and Received should be the same. The `Rate` is tested by first running `iperf` over a link, then comparing your `iPerfer` output to the result given a reasonable margin of error.
+
+Submission methods:
+Log in with your CUHK link email and the password we sent to this [URL](http://projgw.cse.cuhk.edu.hk:2913/) under the connection of CSE VPN.
+
+You need to finish **both** the "Performance metrics" and the "Socket programming" parts.
+
+Please find this [link](https://web.eecs.umich.edu/~justincj/teaching/eecs498/FA2020/autograder.html) for general use of the autograder.
+
+Our autograder runs the following versions of gcc/g++, please make sure your code is compatible
+```
+$ gcc --version
+gcc (Ubuntu 7.4.0-1ubuntu1~18.04.1) 7.4.0
+Copyright (C) 2017 Free Software Foundation, Inc.
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+
+$ g++ --version
+g++ (Ubuntu 7.4.0-1ubuntu1~18.04.1) 7.4.0
+Copyright (C) 2017 Free Software Foundation, Inc.
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+```
 
 ## Acknowledgements
 
