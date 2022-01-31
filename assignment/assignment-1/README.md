@@ -207,7 +207,7 @@ Use `ping` and `iPerfer` to conduct measurements, storing the output in files ca
 
 ## Part 4: Real-World Latency (Optional, Bonus Marks)
 
-For the fourth part, you should measure the RTT of three domain names in mainland China, Hong Kong SAR, and the USA. You should run ping with 20 packets and store the outputs of the measurements in files called `latency_CN.txt`, `latency_HK.txt`, and `latency_US.txt`. Explain the differences in the results and put your answers in answers.txt under question 5.
+For the fourth part, you should measure the RTT of three domain names in mainland China, Hong Kong SAR, and the USA. You should run ping with 20 packets and store the outputs of the measurements in files called `latency_CN.txt`, `latency_HK.txt`, and `latency_USA.txt`. Explain the differences in the results and put your answers in answers.txt under question 5.
 
 > **Note**: You can check the IP address in the ping feedback message to ensure the it definitely comes from the desired destination.
 > You can pick any domain name in the three regions. Some domains have configured their switches to ignore ping packets, so you won't get any measurements in that case. Just try other domain names.
