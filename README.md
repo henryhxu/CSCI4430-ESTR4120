@@ -13,12 +13,12 @@
   * Thu 12:30pm – 1:15pm, MMW 703 ([Zoom link](https://cuhk.zoom.us/j/94590014376?pwd=NDdlRzVDQW9oQURyMU5ESTJEUHh3Zz09))
 
 ### Team
-| Member | Role | Office Hours | Zoom |
+| Member | Role | Office Hours |
 | :---------------- | :--- | :----------- | :----------- |
-| [Xu, Hong (Henry)](https://henryhxu.github.io/) | Prof | Tue 1-3 pm, SHB 914. **By appointments only.** |
-| [Hu, Junliang](mailto:jlhu@cse.cuhk.edu.hk) | Head TA | Mon 2:30-4:30 pm, SHB 921. |
-| [Song, Qingyu](mailto:qysong21@cse.cuhk.edu.hk) | TA | Wed 9:30-11:30 am, SHB 117. | [Zoom Link](https://cuhk.zoom.us/j/91009110960?pwd=NjNvaWVRQUdlakdNU1I3SHBBUHg5QT09)
-| [Zhang, Jingze](mailto:zhang_jing_ze@link.cuhk.edu.hk) | TA | Tue 2:30-4:30 pm, SHB 117. | 
+| [Xu, Hong (Henry)](https://henryhxu.github.io/) | Prof | Tue 1-3 pm, SHB 914. **By appointments only.** 
+| [Hu, Junliang](mailto:jlhu@cse.cuhk.edu.hk) | Head TA | Mon 2:30-4:30 pm, SHB 921.
+| [Song, Qingyu](mailto:qysong21@cse.cuhk.edu.hk) | TA | Wed 9:30-11:30 am, SHB 117.
+| [Zhang, Jingze](mailto:zhang_jing_ze@link.cuhk.edu.hk) | TA | Tue 2:30-4:30 pm, SHB 117.
 
 ### Piazza
 The Piazza page for this course is [here](https://piazza.com/cuhk.edu.hk/spring2022/csci4430).
