@@ -148,7 +148,7 @@ To switch to a higher bitrate, e.g., 1000 Kbps, the proxy should modify the URI 
 ### Running `miProxy`
 You will run the miProxy with the following command. 
 
-`./miProxy <listen-port> <www-ip> <alpha> <log>`
+`./miProxy --nodns <listen-port> <www-ip> <alpha> <log>`
 
 * `listen-port` The TCP port your proxy should listen on for accepting connections from your browser.
 * `www-ip` Argument specifying the IP address of the web server from which the proxy should request video chunks. Again, this web server is reachable at port TCP port `80`.
