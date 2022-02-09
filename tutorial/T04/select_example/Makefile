@@ -1,5 +1,5 @@
 all:
-	g++ --std=c++11 echo_server.cpp -o server
+	gcc echo_server.c -o server
 
 clean:
 	rm -f server
