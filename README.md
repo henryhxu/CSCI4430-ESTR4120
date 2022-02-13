@@ -6,8 +6,6 @@
 - Lectures: 
   * Mon 12:30pm – 2:15pm, ERB LT ([Zoom link](https://cuhk.zoom.us/j/92811984025?pwd=eGE4Um5SV0Nwd3RJTlh2WmFpV2wzdz09))
   * Tue 4:30pm – 5:15pm, ERB LT ([Zoom link](https://cuhk.zoom.us/j/95299586369?pwd=N2RnM3h6VkJlTG1ncVZHMEFsa0laUT09))
-- ESTR lectures: 
-  * Tue 5:30pm – 6:15pm, LSB G34 ([Zoom link](https://cuhk.zoom.us/j/96114020070?pwd=RTB5c2FZaEtLTXBXWFQ4Q1FaQUJFUT09))
 - Tutorials:
   * Thu 8:30am – 9:15am, MMW 710 ([Zoom link](https://cuhk.zoom.us/j/94590014376?pwd=NDdlRzVDQW9oQURyMU5ESTJEUHh3Zz09))
   * Thu 12:30pm – 1:15pm, MMW 703 ([Zoom link](https://cuhk.zoom.us/j/94590014376?pwd=NDdlRzVDQW9oQURyMU5ESTJEUHh3Zz09))
@@ -35,12 +33,11 @@ The course materials are based upon the following classic textbook of Kurose and
 - Computer Networking: A Top-Down Approach, 7th. (or earlier editions), by Jim Kurose and Keith Ross, 2016. ISBN 978-0133594140.
 
 ### Grading
-| Assessment item | CSCI Weight | ESTR Weight
-| :---------------- | :--- | :--- | 
-| Assignments | 55% | 55%
-| Tutorial Quizzes* | 5% | 5%
-| Final Exam | 40% | 30%
-| Project | - | 10%
+| Assessment item | CSCI Weight 
+| :---------------- | :--- | 
+| Assignments | 55% | 
+| Tutorial Quizzes* | 5% |
+| Final Exam | 40% | 
 
 \*: To encourage tutorial participation, quiz will be conducted at the tutorials randomly. We will randomly pick 5 tutorials and perform a quiz at the end of the tutorial. Each quiz is worth one mark.
 
@@ -59,6 +56,7 @@ Click on the topic to access the slides, and on the date to view the recording.
 | 2 | [Layering](lecture/lec2.pptx); [Sockets and HTTP](lecture/lec3.pptx) ([Jan 17](https://cuhk.zoom.us/rec/share/c5VrWKFwujdmMsgG7X9yasAPxhWlx1jj_3Rss8WwsL76rVCn1Grbl_YPjFVExg.fQOAykjhesRzjjWg), [18](https://cuhk.zoom.us/rec/share/d186v4bsOmWlKBxqd4jIYp4Win1y7L2f97WYDmg1MG6wcXpj6l8S6z3ebEKNImC0.NUY8kc11kSrQuoVP)) | [More on HTTP; P2P](lecture/estr2.pptx) ([Jan 18](https://cuhk.zoom.us/rec/share/PMFQRt2pALxYSfvwqk-KeSAPWFO9NggI6V_F4qlj_0vxZkBdJ0BF8Pf-y1K-CeLH.gmx0QsnHaQlI6W21)) | 1.5, 2.2, 2.4
 | 3 | [CDN, DNS](lecture/lec4.pptx) ([Jan 24](https://cuhk.zoom.us/rec/share/KofQlqZ0Le6pJfJRSxUCvydViVuIY0soEFZzi_-jpAsu1jKSIyedUdxs2Zak1-8D.OCkuSjtQ5dUXMqH4), [25](https://cuhk.zoom.us/rec/share/OqAjOywy6n5Dnc7Ol2ix50_cCdU1ZLsjrnCTjQTbbuyIbrho12LliuIzNk9SMkvV.Tn6y8B7LIBFWe0FQ)) | [CDN, Anycast](lecture/estr3.pptx) ([Jan 25](https://cuhk.zoom.us/rec/share/Usy19DUczqZ9dCzoIlwgoZXFWHcVJns6LfQQl65FBrhm6QRaM463QXtJnNnnzKdM.ZV7pn34V5u2H8feB)) | 2.2, 2.4
 | 4 | [Video, cloud & datacenters](lecture/lec5.pptx) ([Feb 7](https://cuhk.zoom.us/rec/share/DARFr18scLH3vOhatySK7BFS2NWdxkIqiLG3Y9GBVI5HmLoSkOiCHsxeis_HmkXg.u9T9lTBaRHdat8fh)), [Transport layer](lecture/lec6.pptx) ([Feb 8](https://cuhk.zoom.us/rec/share/ikaPJSkyz0pObEZEI0wLpayXMGCiqeB9pxfrE55C9as0WVh750A2GyWNMPJ1YMOB.r213Z8hCro7My7ZO)) | [ABR in video streaming](lecture/estr4.pdf) (Feb 8) | 2.6, 3.1, 3.2, 3.3, 3.4
+| 5 | [Transport layer](lecture/lec6.pptx) (Feb 14, 15) | 
 
 
 ### Tutorials and Assignments
