@@ -56,7 +56,7 @@ Click on the topic to access the slides, and on the date to view the recording.
 | 2 | [Layering](lecture/lec2.pptx); [Sockets and HTTP](lecture/lec3.pptx) ([Jan 17](https://cuhk.zoom.us/rec/share/c5VrWKFwujdmMsgG7X9yasAPxhWlx1jj_3Rss8WwsL76rVCn1Grbl_YPjFVExg.fQOAykjhesRzjjWg), [18](https://cuhk.zoom.us/rec/share/d186v4bsOmWlKBxqd4jIYp4Win1y7L2f97WYDmg1MG6wcXpj6l8S6z3ebEKNImC0.NUY8kc11kSrQuoVP)) | [More on HTTP; P2P](lecture/estr2.pptx) ([Jan 18](https://cuhk.zoom.us/rec/share/PMFQRt2pALxYSfvwqk-KeSAPWFO9NggI6V_F4qlj_0vxZkBdJ0BF8Pf-y1K-CeLH.gmx0QsnHaQlI6W21)) | 1.5, 2.2, 2.4
 | 3 | [CDN, DNS](lecture/lec4.pptx) ([Jan 24](https://cuhk.zoom.us/rec/share/KofQlqZ0Le6pJfJRSxUCvydViVuIY0soEFZzi_-jpAsu1jKSIyedUdxs2Zak1-8D.OCkuSjtQ5dUXMqH4), [25](https://cuhk.zoom.us/rec/share/OqAjOywy6n5Dnc7Ol2ix50_cCdU1ZLsjrnCTjQTbbuyIbrho12LliuIzNk9SMkvV.Tn6y8B7LIBFWe0FQ)) | [CDN, Anycast](lecture/estr3.pptx) ([Jan 25](https://cuhk.zoom.us/rec/share/Usy19DUczqZ9dCzoIlwgoZXFWHcVJns6LfQQl65FBrhm6QRaM463QXtJnNnnzKdM.ZV7pn34V5u2H8feB)) | 2.2, 2.4
 | 4 | [Video, cloud & datacenters](lecture/lec5.pptx) ([Feb 7](https://cuhk.zoom.us/rec/share/DARFr18scLH3vOhatySK7BFS2NWdxkIqiLG3Y9GBVI5HmLoSkOiCHsxeis_HmkXg.u9T9lTBaRHdat8fh)), [Transport layer](lecture/lec6.pptx) ([Feb 8](https://cuhk.zoom.us/rec/share/ikaPJSkyz0pObEZEI0wLpayXMGCiqeB9pxfrE55C9as0WVh750A2GyWNMPJ1YMOB.r213Z8hCro7My7ZO)) | [ABR in video streaming](lecture/estr4.pdf) (Feb 8) | 2.6, 3.1, 3.2, 3.3, 3.4
-| 5 | [Transport layer](lecture/lec6.pptx) (Feb 14, 15) | 
+| 5 | [Transport layer](lecture/lec6.pptx) ([Feb 14](https://cuhk.zoom.us/rec/share/qyR78D1rH_WG87amLo_NlGpA2vhbFBZuBOTLzsyiSCJ79wruT46wlfY1ZUBX0m2s.IH0RI6OHlNTi2XGX), 15) | 
 
 
 ### Tutorials and Assignments
@@ -67,6 +67,7 @@ Click on the topic to access the slides, and on the date to view the recording.
 | 2 | [Performance metrics](tutorial/T02/tut02.pptx) | [Jan 20](https://cuhk.zoom.us/rec/share/bN593V2QGLPNNZea6JewUtsWXiS-CcTvXc5m0FW68vahSLNwvYsDtksM5tJu0O4K.FBghXgcsGMJ8eb_S?startTime=1642652855000) | ||
 | 3 | [HTTP](tutorial/T03/tut03.pptx) | [Jan 27](https://cuhk.zoom.us/rec/share/axNautJdYKCtHOTSEwHOLNUdT5WIWvce7gXJ3Z3S_idsTYvcI3nXNIDwaOonIbFs.pSVZ_d_cjhTFRbqf?startTime=1643257789000) | ||
 | 4 | [Select programming](tutorial/T04/tut04.pptx) | [Feb 10](https://cuhk.zoom.us/rec/share/CDOr9mp0_9bFNWxc_txlzdoPm460e2xpHs8uE4Z0lMC9wDneTIZ2m39OCboiU9dd.uoiGrZpNm07x-PKW) | [Assignment 2](assignment/assignment-2) |11:59:59 p.m., Sun, Feb 27th|
+| 5 | 
 
 
 
