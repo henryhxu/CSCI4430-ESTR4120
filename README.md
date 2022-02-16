@@ -68,7 +68,7 @@ Click on the topic to access the slides, and on the date to view the recording.
 | 2 | [Performance metrics](tutorial/T02/tut02.pptx) | [Jan 20](https://cuhk.zoom.us/rec/share/bN593V2QGLPNNZea6JewUtsWXiS-CcTvXc5m0FW68vahSLNwvYsDtksM5tJu0O4K.FBghXgcsGMJ8eb_S?startTime=1642652855000) | ||
 | 3 | [HTTP](tutorial/T03/tut03.pptx) | [Jan 27](https://cuhk.zoom.us/rec/share/axNautJdYKCtHOTSEwHOLNUdT5WIWvce7gXJ3Z3S_idsTYvcI3nXNIDwaOonIbFs.pSVZ_d_cjhTFRbqf?startTime=1643257789000) | ||
 | 4 | [Select programming](tutorial/T04/tut04.pptx) | [Feb 10](https://cuhk.zoom.us/rec/share/CDOr9mp0_9bFNWxc_txlzdoPm460e2xpHs8uE4Z0lMC9wDneTIZ2m39OCboiU9dd.uoiGrZpNm07x-PKW) | [Assignment 2](assignment/assignment-2) |11:59:59 p.m., Sun, Feb 27th|
-| 5 |[HTTP Streaming](tutorial/T05/tut05.pptx)|Feb 17|||
+| 5 |[HTTP Streaming and TCP](tutorial/T05/tut05.pptx)|Feb 17|||
 
 
 
