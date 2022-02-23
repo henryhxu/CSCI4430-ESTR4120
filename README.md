@@ -69,7 +69,7 @@ Click on the topic to access the slides, and on the date to view the recording.
 | 3 | [HTTP](tutorial/T03/tut03.pptx) | [Jan 27](https://cuhk.zoom.us/rec/share/axNautJdYKCtHOTSEwHOLNUdT5WIWvce7gXJ3Z3S_idsTYvcI3nXNIDwaOonIbFs.pSVZ_d_cjhTFRbqf?startTime=1643257789000) | ||
 | 4 | [Select programming](tutorial/T04/tut04.pptx) | [Feb 10](https://cuhk.zoom.us/rec/share/CDOr9mp0_9bFNWxc_txlzdoPm460e2xpHs8uE4Z0lMC9wDneTIZ2m39OCboiU9dd.uoiGrZpNm07x-PKW) | [Assignment 2](assignment/assignment-2) |~~11:59:59 p.m., Sun, Feb 27th~~ 11:59:59 p.m., Sun., March 6th|
 | 5 |[HTTP Streaming and TCP](tutorial/T05/tut05.pptx)|[Feb 17](https://cuhk.zoom.us/rec/play/uaZUp3aVwBU3KKjg9LJ7jicr4LU8bHtUhwiLPmHdXBxJelwLs2dax4ZV0FaFcnj-vwriN_tN1dtQ9SZM.Ox-oeJskmDqqumKI?autoplay=true&startTime=1645072024000)|||
-| 6 |HTTP Proxy and TCP|Feb 24|||
+| 6 |[HTTP Proxy and TCP](tutorial/T06/tut06.pptx)|Feb 24|||
 
 
 
