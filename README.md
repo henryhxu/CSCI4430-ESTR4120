@@ -58,7 +58,7 @@ Click on the topic to access the slides, and on the date to view the recording.
 | 4 | [Video, cloud & datacenters](lecture/lec5.pptx) ([Feb 7](https://cuhk.zoom.us/rec/share/DARFr18scLH3vOhatySK7BFS2NWdxkIqiLG3Y9GBVI5HmLoSkOiCHsxeis_HmkXg.u9T9lTBaRHdat8fh)), [Transport layer](lecture/lec6.pptx) ([Feb 8](https://cuhk.zoom.us/rec/share/ikaPJSkyz0pObEZEI0wLpayXMGCiqeB9pxfrE55C9as0WVh750A2GyWNMPJ1YMOB.r213Z8hCro7My7ZO)) | [ABR in video streaming](lecture/estr4.pdf) (Feb 8) | 2.6, 3.1, 3.2, 3.3, 3.4
 | 5 | [Transport layer](lecture/lec6.pptx) ([Feb 14](https://cuhk.zoom.us/rec/share/qyR78D1rH_WG87amLo_NlGpA2vhbFBZuBOTLzsyiSCJ79wruT46wlfY1ZUBX0m2s.IH0RI6OHlNTi2XGX), [15](https://cuhk.zoom.us/rec/share/Wf1-ZBOeMj0kwoe1sBQkN0k9DPEY1cNUw3DMUdyMy5bKvj3qHOHM7kzJLRAHt5pK.3kacaFTWgYxS5Xt8)) | | 3.1, 3.2, 3.3, 3.4
 | 6 | [TCP basics](lecture/lec7.pptx) ([Feb 21](https://cuhk.zoom.us/rec/share/aDq_1pJ0QEqf4NCO3cEd3ZrKnC5VqD0pTMwePi3hjLB-FCdVF88k-MrQEmnyoBXs.MX5NIn4E_1-_Oalu)), [Congestion control](lecture/lec8.pptx) ([Feb 22](https://cuhk.zoom.us/rec/share/CGF-uBY_9ruG5OR_uCW3BFXFwitaYFl4HgZYxMFphCLvCOd7ygZit1DfLC64DHxS.qCe38hoEtW19S-Jm)) | | 3.5, 3.6
-| 7 | [Congestion control](lecture/lec8.pptx) Feb 28, Mar 1 | | 3.5, 3.6
+| 7 | [Congestion control](lecture/lec8.pptx) (Feb 28, Mar 1) | | 3.5, 3.6
 
 
 ### Tutorials and Assignments
