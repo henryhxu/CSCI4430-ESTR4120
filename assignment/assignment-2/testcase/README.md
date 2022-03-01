@@ -31,10 +31,10 @@ firefox_open_url.py	<-- newly downloaded from testcase directory
 TestCase.py 		<-- newly downloaded from testcase directory
 ```
 
-After all files are ready, you can run the test case with the command:
+After all files are ready, you can run the test case with the command: **(You need to run as "sudo")**
 
 ```
-python TestCase.py <testcase num> 
+sudo python TestCase.py <testcase num> 
 # <testcase num> in 1-8
 ```
 
