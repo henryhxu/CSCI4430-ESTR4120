@@ -59,6 +59,7 @@ Click on the topic to access the slides, and on the date to view the recording.
 | 5 | [Transport layer](lecture/lec6.pptx) ([Feb 14](https://cuhk.zoom.us/rec/share/qyR78D1rH_WG87amLo_NlGpA2vhbFBZuBOTLzsyiSCJ79wruT46wlfY1ZUBX0m2s.IH0RI6OHlNTi2XGX), [15](https://cuhk.zoom.us/rec/share/Wf1-ZBOeMj0kwoe1sBQkN0k9DPEY1cNUw3DMUdyMy5bKvj3qHOHM7kzJLRAHt5pK.3kacaFTWgYxS5Xt8)) | | 3.1, 3.2, 3.3, 3.4
 | 6 | [TCP basics](lecture/lec7.pptx) ([Feb 21](https://cuhk.zoom.us/rec/share/aDq_1pJ0QEqf4NCO3cEd3ZrKnC5VqD0pTMwePi3hjLB-FCdVF88k-MrQEmnyoBXs.MX5NIn4E_1-_Oalu)), [Congestion control](lecture/lec8.pptx) ([Feb 22](https://cuhk.zoom.us/rec/share/CGF-uBY_9ruG5OR_uCW3BFXFwitaYFl4HgZYxMFphCLvCOd7ygZit1DfLC64DHxS.qCe38hoEtW19S-Jm)) | | 3.5, 3.6
 | 7 | [Congestion control](lecture/lec8.pptx) ([Feb 28](https://cuhk.zoom.us/rec/share/9KKetSM9RIHOQg10dgsmw6QWJmLiM-Ak7SnAGZwWbN1NBhdRMVrUx4s7Tem0U0Pr.UMWv4yc4e0Q9hO4r), Mar 1) | | 3.5, 3.6
+| 8 | [More on CC](lecture/lec9.pptx) (Mar 7, 8) | | 3.7
 
 
 ### Tutorials and Assignments
