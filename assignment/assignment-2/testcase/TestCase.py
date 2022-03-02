@@ -150,7 +150,7 @@ def testcase1():
     h3.cmd("python firefox_open_url.py 1 10.0.0.{}:{} & "\
         .format(proxy_node, PORT))
 
-    h2.cmdPrint("make clean && make && timeout {} ./miProxy {} 10.0.0.{} {} {}"\
+    h2.cmdPrint("make clean && make && timeout {} ./miProxy --nodns {} 10.0.0.{} {} {}"\
         .format(proxy_timeout, PORT, server_node, ALPHA, LOG_FILE))
     
     # CLI( net )
@@ -189,7 +189,7 @@ def testcase2():
     h3.cmd("python firefox_open_url.py 1 10.0.0.{}:{} & "\
         .format(proxy_node, PORT))
 
-    h2.cmd("make clean && make && timeout {} ./miProxy {} 10.0.0.{} {} {}"\
+    h2.cmd("make clean && make && timeout {} ./miProxy --nodns {} 10.0.0.{} {} {}"\
         .format(proxy_timeout, PORT, server_node, ALPHA, LOG_FILE))
     
     # CLI( net )
@@ -228,7 +228,7 @@ def testcase3():
     h3.cmd("python firefox_open_url.py 1 10.0.0.{}:{} & "\
         .format(proxy_node, PORT))
 
-    h2.cmd("make clean && make && timeout {} ./miProxy {} 10.0.0.{} {} {}"\
+    h2.cmd("make clean && make && timeout {} ./miProxy --nodns {} 10.0.0.{} {} {}"\
         .format(proxy_timeout, PORT, server_node, ALPHA, LOG_FILE))
     
     # CLI( net )
@@ -272,7 +272,7 @@ def testcase4():
     h3.cmd("python firefox_open_url.py 1 10.0.0.{}:{} & "\
         .format(proxy_node, PORT))
 
-    h2.cmd("make clean && make && timeout {} ./miProxy {} 10.0.0.{} {} {}"\
+    h2.cmd("make clean && make && timeout {} ./miProxy --nodns {} 10.0.0.{} {} {}"\
         .format(proxy_timeout, PORT, server_node, ALPHA, LOG_FILE))
     
     # CLI( net )
@@ -316,7 +316,7 @@ def testcase5():
     h3.cmd("python firefox_open_url.py 1 10.0.0.{}:{} & "\
         .format(proxy_node, PORT))
 
-    h2.cmd("make clean && make && timeout {} ./miProxy {} 10.0.0.{} {} {}"\
+    h2.cmd("make clean && make && timeout {} ./miProxy --nodns {} 10.0.0.{} {} {}"\
         .format(proxy_timeout, PORT, server_node, ALPHA, LOG_FILE))
     
     # CLI( net )
@@ -357,7 +357,7 @@ def testcase6():
         .format(proxy_node, PORT))
     h5.cmd("python firefox_open_url.py 2 10.0.0.{}:{} & "\
         .format(proxy_node, PORT))
-    h2.cmd("make clean && make && timeout {} ./miProxy {} 10.0.0.{} {} {}"\
+    h2.cmd("make clean && make && timeout {} ./miProxy --nodns {} 10.0.0.{} {} {}"\
         .format(proxy_timeout, PORT, server_node, ALPHA, LOG_FILE))
     
     # CLI( net )
@@ -404,7 +404,7 @@ def testcase7():
         .format(proxy_node, PORT))
     h5.cmd("python firefox_open_url.py 2 10.0.0.{}:{} & "\
         .format(proxy_node, PORT))
-    h2.cmd("make clean && make && timeout {} ./miProxy {} 10.0.0.{} {} {}"\
+    h2.cmd("make clean && make && timeout {} ./miProxy --nodns {} 10.0.0.{} {} {}"\
         .format(proxy_timeout, PORT, server_node, ALPHA, LOG_FILE))
     
     # CLI( net )
@@ -455,7 +455,7 @@ def testcase8():
         .format(proxy_node, PORT))
     h5.cmd("python firefox_open_url.py 2 10.0.0.{}:{} & "\
         .format(proxy_node, PORT))
-    h2.cmd("make clean && make && timeout {} ./miProxy {} 10.0.0.{} {} {}"\
+    h2.cmd("make clean && make && timeout {} ./miProxy --nodns {} 10.0.0.{} {} {}"\
         .format(proxy_timeout, PORT, server_node, ALPHA, LOG_FILE))
     
     # CLI( net )
