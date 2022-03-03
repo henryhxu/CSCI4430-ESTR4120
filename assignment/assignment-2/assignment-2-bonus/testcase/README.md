@@ -1,11 +1,11 @@
 ## Test Cases 
 
-For assignment 2, we have **2 test cases** in total. Each test case will test the performance of the code under a specific condition. The basic setting for each test case is as follows:
+For assignment 2 bonus part, we have **2 test cases** in total. Each test case will test the performance of the code under a specific condition. The basic setting for each test case is as follows:
 
 | Test Case | Points | Condition                                                    |
 | --------- | ------ | ------------------------------------------------------------ |
-| 1         | 10     | Test 3 browser case, start in sequence                       |
-| 2         | 10     | Test  3 browser case, one browser restart after a certain time |
+| 1         | 1      | Test 3 browser case, start in sequence                       |
+| 2         | 1      | Test  3 browser case, one browser restart after a certain time |
 
  To avoid unexpected error, please do not update the software in the published virtual machine and keep the environment consistent with the original published version.
 
@@ -37,7 +37,7 @@ python BonusTestCase.py <testcase num>
 # <testcase num> in 1-2
 ```
 
-After running test case 1-2, 2 log files will be generated for each test case separately. The generated log file for test case **N** is named `log_bonus<N>.log`(for `miProxy`) and `ns_log<N>.log` (for nameserver) . You should see files `log_bonus1.log, ns_log1.log ...` in the working directory after all test cases tested. 
+After running test case 1-2, 2 log files will be generated for each test case separately. The generated log files for test case **N** is named `log_bonus<N>.log`(for `miProxy`) and `ns_log<N>.log` (for nameserver) correspondingly . You should see files `log_bonus1.log, ns_log1.log ...` in the working directory after all test cases tested. 
 
 ## Autograder for Testing the Logs
 
