@@ -33,7 +33,7 @@ miProxy <-- generated after "make"
 After all files are ready, you can run the test case with the command:
 
 ```
-python BonusTestCase.py <testcase num> 
+sudo python BonusTestCase.py <testcase num> 
 # <testcase num> in 1-2
 ```
 
