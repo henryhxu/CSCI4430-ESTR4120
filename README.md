@@ -2,7 +2,7 @@
 
 ## Administrivia
 
-### Schedule
+### Schedule [Online teaching only since Feb]
 - Lectures: 
   * Mon 12:30pm – 2:15pm, ERB LT ([Zoom link](https://cuhk.zoom.us/j/92811984025?pwd=eGE4Um5SV0Nwd3RJTlh2WmFpV2wzdz09))
   * Tue 4:30pm – 5:15pm, ERB LT ([Zoom link](https://cuhk.zoom.us/j/95299586369?pwd=N2RnM3h6VkJlTG1ncVZHMEFsa0laUT09))
