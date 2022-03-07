@@ -49,7 +49,7 @@ Projects details will be announced in a later time.
 ## Schedules
 Click on the topic to access the slides, and on the date to view the recording. 
 
-### Lectures (subject to change, espcially ESTR topics)
+### Lectures
 | Week | Topic(s) | Optional Readings |
 | :-----------: | :-----------------: | :------------: | 
 | 1 | [Intro and Overview](lecture/lec1.pptx) ([Jan 10](https://cuhk.zoom.us/rec/share/GMBuuyiGyLKiHf_dbTPYC1KZXTIFAOdwfq7bcpUrsU-QyzugFh0g9iMErY3SsSrW.YS3CeSVtEPexD0F1), [11](https://cuhk.zoom.us/rec/share/88tdIlzjsMBhNQxtWYdd6TB--z-L4uEZBVBQvVXYdaDLQ8c0kXVH1zTNizqc193u.ZO8WyP5rvFng777j)) | 1.1, 1.3, 1.4
