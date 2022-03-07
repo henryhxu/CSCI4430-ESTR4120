@@ -50,7 +50,7 @@ Projects details will be announced in a later time.
 Click on the topic to access the slides, and on the date to view the recording. 
 
 ### Lectures
-| Week | Topic(s) | Optional Readings |
+| Week | Topic(s) | Optional Readings from Textbook |
 | :-----------: | :-----------------: | :------------: | 
 | 1 | [Intro and Overview](lecture/lec1.pptx) ([Jan 10](https://cuhk.zoom.us/rec/share/GMBuuyiGyLKiHf_dbTPYC1KZXTIFAOdwfq7bcpUrsU-QyzugFh0g9iMErY3SsSrW.YS3CeSVtEPexD0F1), [11](https://cuhk.zoom.us/rec/share/88tdIlzjsMBhNQxtWYdd6TB--z-L4uEZBVBQvVXYdaDLQ8c0kXVH1zTNizqc193u.ZO8WyP5rvFng777j)) | 1.1, 1.3, 1.4
 | 2 | [Layering](lecture/lec2.pptx); [Sockets and HTTP](lecture/lec3.pptx) ([Jan 17](https://cuhk.zoom.us/rec/share/c5VrWKFwujdmMsgG7X9yasAPxhWlx1jj_3Rss8WwsL76rVCn1Grbl_YPjFVExg.fQOAykjhesRzjjWg), [18](https://cuhk.zoom.us/rec/share/d186v4bsOmWlKBxqd4jIYp4Win1y7L2f97WYDmg1MG6wcXpj6l8S6z3ebEKNImC0.NUY8kc11kSrQuoVP)) | 1.5, 2.2, 2.4
