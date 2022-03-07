@@ -61,6 +61,13 @@ Click on the topic to access the slides, and on the date to view the recording.
 | 7 | [Congestion control](lecture/lec8.pptx) ([Feb 28](https://cuhk.zoom.us/rec/share/9KKetSM9RIHOQg10dgsmw6QWJmLiM-Ak7SnAGZwWbN1NBhdRMVrUx4s7Tem0U0Pr.UMWv4yc4e0Q9hO4r), [Mar 1](https://cuhk.zoom.us/rec/share/B2ayVmKbqvrPslMh1s9EdRci3Aufs42pqTF8Arr6wJmIrgzLgh3-E926h1hG34nH.Sj5CAL9xcj61tO33)) | | 3.5, 3.6
 | 8 | [More on CC](lecture/lec9.pptx), [Network layer and IP](lecture/lec10.pptx) (Mar 7, 8) | | 3.7; 4.1, 4.3.1, 4.3.2, 4.3.5
 
+### ESTR lecture materials
+| Week | Topic(s) | 
+| :-----------: | :-----------------: | 
+| 1 | [Internet](lecture/estr1.pptx) ([Jan 11](https://cuhk.zoom.us/rec/share/3SZewEFYrPtDs01sjRwfKvTSSavGl65htD0RBTSy4v9jEgeZHdk38FHHhaZAx_zC.We45sM8DXlSAhJvj))
+| 2 | [More on HTTP; P2P](lecture/estr2.pptx) ([Jan 18](https://cuhk.zoom.us/rec/share/PMFQRt2pALxYSfvwqk-KeSAPWFO9NggI6V_F4qlj_0vxZkBdJ0BF8Pf-y1K-CeLH.gmx0QsnHaQlI6W21)) 
+| 3 | [CDN, Anycast](lecture/estr3.pptx) ([Jan 25](https://cuhk.zoom.us/rec/share/Usy19DUczqZ9dCzoIlwgoZXFWHcVJns6LfQQl65FBrhm6QRaM463QXtJnNnnzKdM.ZV7pn34V5u2H8feB))
+| 4 | [ABR in video streaming](lecture/estr4.pdf) (Feb 8) 
 
 ### Tutorials and Assignments
 
