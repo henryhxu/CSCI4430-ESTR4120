@@ -1,6 +1,10 @@
 # Assignment 3: Reliable Transport
 
-Notes: you really want to read through the entire assignment document first. Latter parts might give you a hint on what you should do in former ones.
+### Due: April 10th, 2022 at 11:59 PM
+
+Special notes:
+* This is a group based assignment and grouping info is the same as assignment 2
+* You really want to read through the entire assignment document first. Latter parts might give you a hint on what you should do in former ones.
 
 ## Table of contents
 * [Overview](#overview)
@@ -126,7 +130,7 @@ Example:
 *Note: for simplicity, arguments will appear exactly as shown above during testing and grading. Error handling with the arguments is not explicitly tested but is highly recommended. At least printing the correct usage if something went wrong is worthwhile.*
 
 <a name="part3"></a>
-## Part 3: Optimizations
+## Part 3: Optimizations (Bonus part)
 
 For this part of the assignment, you will be making a few modifications to the programs written in the previous two sections. Consider how the programs written in the previous sections would behave for the following case where there is a window of size 3:
 
