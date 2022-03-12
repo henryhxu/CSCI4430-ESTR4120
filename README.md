@@ -60,7 +60,7 @@ Click on the topic to access the slides, and on the date to view the recording.
 | 6 | [TCP basics](lecture/lec7.pptx), [Congestion control](lecture/lec8.pptx) | [Feb 21](https://cuhk.zoom.us/rec/share/aDq_1pJ0QEqf4NCO3cEd3ZrKnC5VqD0pTMwePi3hjLB-FCdVF88k-MrQEmnyoBXs.MX5NIn4E_1-_Oalu),  [22](https://cuhk.zoom.us/rec/share/CGF-uBY_9ruG5OR_uCW3BFXFwitaYFl4HgZYxMFphCLvCOd7ygZit1DfLC64DHxS.qCe38hoEtW19S-Jm) |  3.5, 3.6
 | 7 | [Congestion control](lecture/lec8.pptx) | [Feb 28](https://cuhk.zoom.us/rec/share/9KKetSM9RIHOQg10dgsmw6QWJmLiM-Ak7SnAGZwWbN1NBhdRMVrUx4s7Tem0U0Pr.UMWv4yc4e0Q9hO4r), [Mar 1](https://cuhk.zoom.us/rec/share/B2ayVmKbqvrPslMh1s9EdRci3Aufs42pqTF8Arr6wJmIrgzLgh3-E926h1hG34nH.Sj5CAL9xcj61tO33) |  3.5, 3.6
 | 8 | [More on CC](lecture/lec9.pptx), [Network layer and IP](lecture/lec10.pptx) | [Mar 7](https://cuhk.zoom.us/rec/share/J6sEcYYk_vYX7LypQmqgmXc4JpvkguGffFNsVrbvXe-R0HGlwRJLP3WPfZXGbcqX.RRIKgHEBAGyS6RrL), [8](https://cuhk.zoom.us/rec/share/A0Uj8XXALkzi-day_y0nRWTSM-GytiQ6w8itBheuqPXUVXd3oqZYmP33uf9fEMrY.KNAHR0v43F6i44GM) |  3.7; 4.1, 4.3.1, 4.3.2, 4.3.5
-| 9 | [Network layer: IP routers](lecture/lec11.pptx) | Mar 14, 15 | | 4.2
+| 9 | [Network layer: IP routers](lecture/lec11.pptx) | Mar 14, 15 | 4.2
 
 ### ESTR lecture materials
 | Week | Topic(s) | 
