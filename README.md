@@ -61,7 +61,7 @@ Click on the topic to access the slides, and on the date to view the recording.
 | 7 | [Congestion control](lecture/lec8.pptx) | [Feb 28](https://cuhk.zoom.us/rec/share/9KKetSM9RIHOQg10dgsmw6QWJmLiM-Ak7SnAGZwWbN1NBhdRMVrUx4s7Tem0U0Pr.UMWv4yc4e0Q9hO4r), [Mar 1](https://cuhk.zoom.us/rec/share/B2ayVmKbqvrPslMh1s9EdRci3Aufs42pqTF8Arr6wJmIrgzLgh3-E926h1hG34nH.Sj5CAL9xcj61tO33) |  3.5, 3.6
 | 8 | [More on CC](lecture/lec9.pptx), [Network layer and IP](lecture/lec10.pptx) | [Mar 7](https://cuhk.zoom.us/rec/share/J6sEcYYk_vYX7LypQmqgmXc4JpvkguGffFNsVrbvXe-R0HGlwRJLP3WPfZXGbcqX.RRIKgHEBAGyS6RrL), [8](https://cuhk.zoom.us/rec/share/A0Uj8XXALkzi-day_y0nRWTSM-GytiQ6w8itBheuqPXUVXd3oqZYmP33uf9fEMrY.KNAHR0v43F6i44GM) |  3.7; 4.1, 4.3.1, 4.3.2, 4.3.5
 | 9 | [Network layer: IP routers](lecture/lec11.pptx) | [Mar 14](https://cuhk.zoom.us/rec/share/-pmllbAyE0gewxTkibJRuJUgoKMqEciyw9w1CzmROm_PMf9BhVAM0tYUiMrMbJYj.MpRa7p1LJpR3B3Ut), [15](https://cuhk.zoom.us/rec/share/iIW8LmGKCyUSX4jZZPohR9eOHR5QjHrbDJaBf32I3zelETG1zf9ljDKjr4ejbB8S.SXxrs22DE0JhS1Rp) | 4.2
-| 10 | [Routing fundamentals](lecture/lec12.pptx), [Intra-AS routing](lecture/lec13.pptx) | Mar 21, 22 | 5.1, 5.2, 5.3
+| 10 | [Routing fundamentals](lecture/lec12.pptx), [Intra-AS routing](lecture/lec13.pptx) | [Mar 21](https://cuhk.zoom.us/rec/share/3a4YPQfEZdbk685CNWkptYQfvfcwjmM5hzTaueq4ebPGLt80tNbd0SU0EYbrLG_k.ZSChAlrwwOvX81N-), 22 | 5.1, 5.2, 5.3
 
 ### ESTR lecture materials
 | Week | Topic(s) | 
