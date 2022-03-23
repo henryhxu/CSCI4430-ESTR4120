@@ -82,8 +82,9 @@ Click on the topic to access the slides, and on the date to view the recording.
 | 5 |[HTTP Streaming and TCP](tutorial/T05/tut05.pptx)|[Feb 17](https://cuhk.zoom.us/rec/play/uaZUp3aVwBU3KKjg9LJ7jicr4LU8bHtUhwiLPmHdXBxJelwLs2dax4ZV0FaFcnj-vwriN_tN1dtQ9SZM.Ox-oeJskmDqqumKI?autoplay=true&startTime=1645072024000)|||
 | 6 |[HTTP Proxy and TCP](tutorial/T06/tut06.pptx)|[Feb 24](https://cuhk.zoom.us/rec/play/JYn0vx0UWM_xBrHpb9YOAoUbv48sguxQmoNXq61bI-F5SRNn9N-VcVNci_b87bPKRC55kT8AkvxbFd5L.5e5IuA88lu64Q-3G?autoplay=true&startTime=1645676927000)|||
 | 7 |[TCP Congestion Control](tutorial/T07/tut07.pptx)|[Mar 3](https://cuhk.zoom.us/rec/play/nnzhtdIPW04zDjaoAMY1aZODoaObZFDxjV07LLaiPcP-dNh1nEsjCqZBnU-jSZUP6-CCjN2i-xonqnMr.3b5D-22kFZW34eB2?autoplay=true&startTime=1646267408000)|||
-| 8 |[UDP Socket programming](tutorial/T08/tut08.pptx)|[Mar 10](https://cuhk.zoom.us/rec/play/7Fosstztv2zG6Sl4OI0_HliePhxHo4_yifN-VtZrVIPrMUrTId-9DAGaVUjCJL3PfIS4t58971yKZLBM.qaYOMX7_IoLguOF0?autoplay=true&startTime=1646886484000)|[Assignment 3](assignment/assignment-3)||
+| 8 |[UDP Socket programming](tutorial/T08/tut08.pptx)|[Mar 10](https://cuhk.zoom.us/rec/play/7Fosstztv2zG6Sl4OI0_HliePhxHo4_yifN-VtZrVIPrMUrTId-9DAGaVUjCJL3PfIS4t58971yKZLBM.qaYOMX7_IoLguOF0?autoplay=true&startTime=1646886484000)|[Assignment 3](assignment/assignment-3)|11:59:59 p.m., Sun., April 10th |
 | 9 |[IP and Network](tutorial/T09/tut09.pptx)|[Mar 17](https://cuhk.zoom.us/rec/play/dK7ZJZicHPfBUNM76Dfgg7AYs69t3QYQMo0KA2jUh3_9jvYEs57B4ZvRJyt5qew5UTlyEQAMaFz9Njo4.XjtPPx4KgylH-78X?autoplay=true&startTime=1647491403000)|||
+| 9 |[WTP assignemnt](tutorial/T10/tut10.pptx)|Mar 24|||
 
 
 ## Course policies
