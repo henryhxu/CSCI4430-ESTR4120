@@ -8,7 +8,7 @@
   * Tue 4:30pm – 5:15pm, ERB LT ([Zoom link](https://cuhk.zoom.us/j/95299586369?pwd=N2RnM3h6VkJlTG1ncVZHMEFsa0laUT09))
 - Tutorials:
   * Thu 8:30am – 9:15am, MMW 710 ([Zoom link](https://cuhk.zoom.us/j/94590014376?pwd=NDdlRzVDQW9oQURyMU5ESTJEUHh3Zz09))
-  * Thu 12:30pm – 1:15pm, MMW 703 ([Zoom link](https://cuhk.zoom.us/j/94590014376?pwd=NDdlRzVDQW9oQURyMU5ESTJEUHh3Zz09))
+  * Thu 12:30pm – 1:15pm, MMW 703 ([Zoom link](https://cuhk.zoom.us/j/97625841388?pwd=R2ZpYm9RWmFNMFBqQjNYL3pSN1A4Zz09))
 
 ### Team
 | Member | Role | Office Hours |
