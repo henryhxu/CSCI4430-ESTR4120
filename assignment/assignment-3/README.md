@@ -1,6 +1,6 @@
 # Assignment 3: Reliable Transport
 
-### Due: April 10th, 2022 at 11:59 PM
+### Due: April 17, 2022, 11:59 PM HKT
 
 Special notes:
 * This is a group based assignment and grouping info is the same as assignment 2
@@ -210,14 +210,14 @@ The autograder will be released roughly halfway through the assignment. You are 
 Our autograder runs the following versions of gcc/g++, please make sure your code is compatible.
 ```
 $ gcc --version
-gcc (Ubuntu 7.4.0-1ubuntu1~18.04.1) 7.4.0
-Copyright (C) 2017 Free Software Foundation, Inc.
+gcc (Ubuntu 11.2.0-16ubuntu1) 11.2.0
+Copyright (C) 2021 Free Software Foundation, Inc.
 This is free software; see the source for copying conditions.  There is NO
 warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
 
 $ g++ --version
-g++ (Ubuntu 7.4.0-1ubuntu1~18.04.1) 7.4.0
-Copyright (C) 2017 Free Software Foundation, Inc.
+g++ (Ubuntu 11.2.0-16ubuntu1) 11.2.0
+Copyright (C) 2021 Free Software Foundation, Inc.
 This is free software; see the source for copying conditions.  There is NO
 warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
 ```
