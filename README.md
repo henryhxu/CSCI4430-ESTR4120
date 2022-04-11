@@ -63,7 +63,7 @@ Click on the topic to access the slides, and on the date to view the recording.
 | 9 | [Network layer: IP routers](lecture/lec11.pptx) | [Mar 14](https://cuhk.zoom.us/rec/share/-pmllbAyE0gewxTkibJRuJUgoKMqEciyw9w1CzmROm_PMf9BhVAM0tYUiMrMbJYj.MpRa7p1LJpR3B3Ut), [15](https://cuhk.zoom.us/rec/share/iIW8LmGKCyUSX4jZZPohR9eOHR5QjHrbDJaBf32I3zelETG1zf9ljDKjr4ejbB8S.SXxrs22DE0JhS1Rp) | 4.2
 | 10 | [Routing fundamentals](lecture/lec12.pptx), [Intra-AS routing](lecture/lec13.pptx) | [Mar 21](https://cuhk.zoom.us/rec/share/3a4YPQfEZdbk685CNWkptYQfvfcwjmM5hzTaueq4ebPGLt80tNbd0SU0EYbrLG_k.ZSChAlrwwOvX81N-), [22](https://cuhk.zoom.us/rec/share/Ws0nndfowdbrtNe6uVjHr4cTy_ROWTBCf7vqATbeKAXM1B6Xyehjz6C7ThYTLNuF.TAlfVdJUrwRLRdj5) | 5.1, 5.2, 5.3
 | 11 | [Inter-domain routing](lecture/lec14.pptx), [BGP](lecture/lec15.pptx) | [Mar 28](https://cuhk.zoom.us/rec/share/EwMQ22KQCrNX7NJE4X1tgoNmSjPIZU85Q-BixvDXJU4GH8A-pPAJxgcR4oTVzqqU.mNcoP-rN1feRZpna), [29](https://cuhk.zoom.us/rec/share/Udb987n_pf1I9k81wx84NDGfXQv8gxzC690B8TsWYXPg5gFb09ExTPBqMP1ROH8.M0qNENhOAcUlKNh-) | 4.3.3, 5.4
-| 12 | [Link layer](lecture/lec16.pptx) | Apr 11, 12 | 6.1, 6.3
+| 12 | [Link layer](lecture/lec16.pptx) | [Apr 11](https://cuhk.zoom.us/rec/share/YWBatYORR3AB-ul2omTQkmYJycPwFQ5mGfNhQqb6gXAZGDVDLGqolQgc6F0FxyVR.Q21FXJo7Q3VzOeKn), 12 | 6.1, 6.3
 
 ### ESTR lecture materials
 | Week | Topic(s) | 
