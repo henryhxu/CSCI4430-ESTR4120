@@ -65,6 +65,7 @@ Click on the topic to access the slides, and on the date to view the recording.
 | 11 | [Inter-domain routing](lecture/lec14.pptx), [BGP](lecture/lec15.pptx) | [Mar 28](https://cuhk.zoom.us/rec/share/EwMQ22KQCrNX7NJE4X1tgoNmSjPIZU85Q-BixvDXJU4GH8A-pPAJxgcR4oTVzqqU.mNcoP-rN1feRZpna), [29](https://cuhk.zoom.us/rec/share/Udb987n_pf1I9k81wx84NDGfXQv8gxzC690B8TsWYXPg5gFb09ExTPBqMP1ROH8.M0qNENhOAcUlKNh-) | 4.3.3, 5.4
 | 12 | [Link layer](lecture/lec16.pptx) | [Apr 11](https://cuhk.zoom.us/rec/share/YWBatYORR3AB-ul2omTQkmYJycPwFQ5mGfNhQqb6gXAZGDVDLGqolQgc6F0FxyVR.Q21FXJo7Q3VzOeKn), [12](https://cuhk.zoom.us/rec/share/2SWpPhLAGKV15jRWDMjqP_XFh64LXvNuvCIIhPLNbqhcrYqlnjvYqMmfC99cNXtn.UzZbd6irJGWNcmUH) | 6.1, 6.3
 | 13 | [Link layer wrap-up](lecture/lec17.pptx), [Final exam](lecture/final.pptx) | [Apr 19](https://cuhk.zoom.us/rec/share/Hn669fGALuZYsUny5ALA-NbGob_ys-v_MKrP1DiNngZgkkw80ce-tWhe1DcsXetd.aiAqCGW1XXlrC-44), 21 | 6.4
+| | [Course review](lecture/review.pptx)
 
 ### ESTR lecture materials
 | Week | Topic(s) | 
