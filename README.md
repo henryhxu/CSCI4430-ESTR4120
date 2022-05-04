@@ -2,6 +2,17 @@
 
 ## Administrivia
 
+### Final exam
+Use the following to join the Zoom session for our final exam, at 12:30pm, May 5.
+
+Topic: CSCI4430 Final exam
+
+https://cuhk.zoom.us/j/93885016619?pwd=bEM5dEJ5clN3S0tib0UxR2FhYWdUUT09
+
+Meeting ID: 938 8501 6619
+Passcode: 420534
+
+
 ### Schedule [Online teaching only since Feb]
 - Lectures: 
   * Mon 12:30pm – 2:15pm, ERB LT ([Zoom link](https://cuhk.zoom.us/j/92811984025?pwd=eGE4Um5SV0Nwd3RJTlh2WmFpV2wzdz09))
