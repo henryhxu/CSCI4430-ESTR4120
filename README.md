@@ -1,36 +1,25 @@
-# CSCI4430, Computer Networks (Spring 2022)
+# CSCI4430, Computer Networks (Spring 2023)
 
 ## Administrivia
 
-### Final exam
-Use the following to join the Zoom session for our final exam, at 12:30pm, May 5.
-
-Topic: CSCI4430 Final exam
-
-https://cuhk.zoom.us/j/93885016619?pwd=bEM5dEJ5clN3S0tib0UxR2FhYWdUUT09
-
-Meeting ID: 938 8501 6619
-Passcode: 420534
-
-
 ### Schedule [Online teaching only since Feb]
 - Lectures: 
-  * Mon 12:30pm – 2:15pm, ERB LT ([Zoom link](https://cuhk.zoom.us/j/92811984025?pwd=eGE4Um5SV0Nwd3RJTlh2WmFpV2wzdz09))
-  * Tue 4:30pm – 5:15pm, ERB LT ([Zoom link](https://cuhk.zoom.us/j/95299586369?pwd=N2RnM3h6VkJlTG1ncVZHMEFsa0laUT09))
+  * Mon 12:30pm – 2:15pm, Basic Med Sci Building G18
+  * Tue 4:30pm – 5:15pm, MMW LT1
+  * ESTR4120: Tue 5:30pm - 6:15pm, MMW LT1
 - Tutorials:
-  * Thu 8:30am – 9:15am, MMW 710 ([Zoom link](https://cuhk.zoom.us/j/94590014376?pwd=bUU3amcvWnB6TmtnTElmMWtSeloyUT09))
-  * Thu 12:30pm – 1:15pm, MMW 703 ([Zoom link](https://cuhk.zoom.us/j/94590014376?pwd=bUU3amcvWnB6TmtnTElmMWtSeloyUT09))
+  * Thu 8:30am – 9:15am, MMW LT2
+  * Thu 12:30pm – 1:15pm, Basic Med Sci Building G18
 
 ### Team
 | Member | Role | Office Hours |
 | :---------------- | :--- | :----------- |
 | [Xu, Hong (Henry)](https://henryhxu.github.io/) | Prof | Tue 1-3 pm, SHB 914. **By appointments only.** |
-| [Hu, Junliang](mailto:jlhu@cse.cuhk.edu.hk) | Head TA | Mon 2:30-4:30 pm, SHB 921. |
 | [Song, Qingyu](mailto:qysong21@cse.cuhk.edu.hk) | TA | Wed 9:30-11:30 am, SHB 117. |
 | [Zhang, Jingze](mailto:zhang_jing_ze@link.cuhk.edu.hk) | TA | Tue 2:30-4:30 pm, SHB 117. |
 
 ### Piazza
-The Piazza page for this course is [here](https://piazza.com/cuhk.edu.hk/spring2022/csci4430).
+The Piazza page for this course is [here](https://piazza.com/cuhk.edu.hk/spring2023/csci4430).
 All communication about this course is done over Piazza. This includes questions, discussions, announcements, as well as private messages. 
 The self-signup code is "4430 rocks!".
 
@@ -52,7 +41,7 @@ The course materials are based upon the following classic textbook of Kurose and
 
 \*: To encourage tutorial participation, quiz will be conducted at the tutorials randomly. We will randomly pick 5 tutorials and perform a quiz at the end of the tutorial. Each quiz is worth one mark.
 
-### ESTR students [canceled since Feb 8]
+### ESTR students
 ESTR 4120 follows the same format as CSCI 4430, but with an additional project to be presented in the second half of the semester. The exams and quizzes will be the same as CSCI 4430.
 
 Projects details will be announced in a later time.
