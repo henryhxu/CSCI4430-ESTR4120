@@ -2,7 +2,7 @@
 
 ## Administrivia
 
-### Schedule [Online teaching only since Feb]
+### Schedule
 - Lectures: 
   * Mon 12:30pm – 2:15pm, Basic Med Sci Building G18
   * Tue 4:30pm – 5:15pm, MMW LT1
