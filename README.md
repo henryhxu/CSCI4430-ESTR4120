@@ -50,21 +50,21 @@ Projects details will be announced in a later time.
 Click on the topic to access the slides, and on the date to view the recording. 
 
 ### Lectures
-| Week | Topic(s) | Optional Readings from Textbook |
-| :-----------: | :-----------------: | :------------: | 
-| 1 | [Intro and Overview](lecture/) | 1.1, 1.3, 1.4
-| 2 | [Layering](lecture/); [Sockets and HTTP](lecture/) | 1.5, 2.2, 2.4
-| 3 | [CDN, DNS](lecture/) | 2.2, 2.4
-| 4 | [Video, cloud & datacenters](lecture/), [Transport layer](lecture/) | 2.6, 3.1, 3.2, 3.3, 3.4
-| 5 | [Transport layer](lecture/) | 3.1, 3.2, 3.3, 3.4
-| 6 | [TCP basics](lecture/), [Congestion control](lecture/) | 3.5, 3.6
-| 7 | [Congestion control](lecture/) | 3.5, 3.6
-| 8 | [More on CC](lecture/), [Network layer and IP](lecture/) | 3.7; 4.1, 4.3.1, 4.3.2, 4.3.5
-| 9 | [Network layer: IP routers](lecture/) | 4.2
-| 10 | [Routing fundamentals](lecture/), [Intra-AS routing](lecture/) | 5.1, 5.2, 5.3
-| 11 | [Inter-domain routing](lecture/), [BGP](lecture/) | 4.3.3, 5.4
-| 12 | [Link layer](lecture/) | 6.1, 6.3
-| 13 | [Link layer wrap-up](lecture/), [Final exam](lecture/) | 6.4
+| Week | Topic(s) | Schedules | Optional Readings from Textbook |
+| :-----------: | :-----------------: | :------------: | :------------: | 
+| 1 | [Intro and Overview](lecture/) |  | 1.1, 1.3, 1.4
+| 2 | [Layering](lecture/); [Sockets and HTTP](lecture/) |  | 1.5, 2.2, 2.4
+| 3 | [CDN, DNS](lecture/) |  | 2.2, 2.4
+| 4 | [Video, cloud & datacenters](lecture/), [Transport layer](lecture/) |  | 2.6, 3.1, 3.2, 3.3, 3.4
+| 5 | [Transport layer](lecture/) |  | 3.1, 3.2, 3.3, 3.4
+| 6 | [TCP basics](lecture/), [Congestion control](lecture/) |  | 3.5, 3.6
+| 7 | [Congestion control](lecture/) |  | 3.5, 3.6
+| 8 | [More on CC](lecture/), [Network layer and IP](lecture/) |  | 3.7; 4.1, 4.3.1, 4.3.2, 4.3.5
+| 9 | [Network layer: IP routers](lecture/) |  | 4.2
+| 10 | [Routing fundamentals](lecture/), [Intra-AS routing](lecture/) |  | 5.1, 5.2, 5.3
+| 11 | [Inter-domain routing](lecture/), [BGP](lecture/) |  | 4.3.3, 5.4
+| 12 | [Link layer](lecture/) |  | 6.1, 6.3
+| 13 | [Link layer wrap-up](lecture/), [Final exam](lecture/) |  | 6.4
 | | [Course review](lecture/)
 
 ### ESTR lecture materials
@@ -78,22 +78,22 @@ Click on the topic to access the slides, and on the date to view the recording.
 ### Tutorials and Assignments
 <!--  ~~11:59:59 p.m., Sat, Jan 29th~~ 18:00:00 p.m., Mon, Jan 31st -->
 <!-- assignment-1 -->
-
-| Week | Topic | Recording | Assignment | Due |
+<!-- []() -->
+| Week | Topic | Schedule | Assignment | Due |
 | :---: | :------------------: | :-----: | :-------------: | :-------------: |
-| 1 | [Socket programming](tutorial/T01/) | [Jan 12]() | [Assignment 1]() |  |
-| 2 | [Performance metrics](tutorial/T02/) | [Jan 19]() | ||
-| 3 | [HTTP](tutorial/T03/) | [Feb 2]() | ||
-| 4 | [Select programming](tutorial/T04/) | [Feb 9]() | [Assignment 2]() |  |
-| 5 |[HTTP Streaming and TCP](tutorial/T05/)|[Feb 16]()|||
-| 6 |[HTTP Proxy and TCP](tutorial/T06/)|[Feb 23]()|||
-| 7 |[TCP Congestion Control](tutorial/T07/)|[Mar 2]()|||
-| 8 |[UDP Socket programming](tutorial/T08/)|[Mar 16]()|[Assignment 3]()| |
-| 9 |[IP and Network](tutorial/T09/)|[Mar 23]()|||
-| 10 |[WTP assignemnt](tutorial/T10/)|[Mar 30]()|||
-| 11 |[Routing](tutorial/T11/)|[Apr 6]()|||
-| 12 |[](tutorial/T12/)|[Apr 13]()|||
-| 13 |[](tutorial/T13/)|[Apr 20]()|||
+| 1 | [Socket programming](tutorial/T01/) | Jan 12 | [Assignment 1]() |  |
+| 2 | [Performance metrics](tutorial/T02/) | Jan 19 | ||
+| 3 | [HTTP](tutorial/T03/) | Feb 2 | ||
+| 4 | [Select programming](tutorial/T04/) | Feb 9 | [Assignment 2]() |  |
+| 5 |[HTTP Streaming and TCP](tutorial/T05/)| Feb 16 |||
+| 6 |[HTTP Proxy and TCP](tutorial/T06/)| Feb 23 |||
+| 7 |[TCP Congestion Control](tutorial/T07/)| Mar 2 |||
+| 8 |[UDP Socket programming](tutorial/T08/)| Mar 16 |[Assignment 3]()| |
+| 9 |[IP and Network](tutorial/T09/)| Mar 23 |||
+| 10 |[WTP assignemnt](tutorial/T10/)| Mar 30 |||
+| 11 |[Routing](tutorial/T11/)| Apr 6 |||
+| 12 |[](tutorial/T12/)| Apr 13 |||
+| 13 |[](tutorial/T13/)| Apr 20 |||
 
 
 ## Course policies
