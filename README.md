@@ -17,7 +17,7 @@
 | [Xu, Hong (Henry)](https://henryhxu.github.io/) | Prof | Tue 1-3 pm, SHB 914. **By appointments only.** |
 | [Song, Qingyu](mailto:qysong21@cse.cuhk.edu.hk) | TA | Wed 9:30-11:30 am, SHB 117. |
 | [Zhang, Jingze](mailto:zhang_jing_ze@link.cuhk.edu.hk) | TA | Tue 2:30-4:30 pm, SHB 117. |
-| [Ding, Wenlong](mailto:wlding@link.cuhk.edu.hk) | TA | Wed 1:30 - 3:30, SHB 117. |
+| [Ding, Wenlong](mailto:wlding@link.cuhk.edu.hk) | TA | Wed 1:30 - 3:30 pm, SHB 117. |
 
 ### Piazza
 The Piazza page for this course is [here](https://piazza.com/cuhk.edu.hk/spring2023/csci4430).
