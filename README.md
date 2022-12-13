@@ -15,7 +15,7 @@
 | Member | Role | Office Hours |
 | :---------------- | :--- | :----------- |
 | [Xu, Hong (Henry)](https://henryhxu.github.io/) | Prof | Tue 1-3 pm, SHB 914. **By appointments only.** |
-| [Song, Qingyu](mailto:qysong21@cse.cuhk.edu.hk) | TA | Wed 9:30-11:30 am, SHB 117. |
+| [Song, Qingyu](mailto:qysong21@cse.cuhk.edu.hk) | TA | Thu 9:30-11:30 am, SHB 117. |
 | [Zhang, Jingze](mailto:zhang_jing_ze@link.cuhk.edu.hk) | TA | Tue 2:30-4:30 pm, SHB 117. |
 
 ### Piazza
@@ -50,30 +50,30 @@ Projects details will be announced in a later time.
 Click on the topic to access the slides, and on the date to view the recording. 
 
 ### Lectures
-| Week | Topic(s) | Recordings | Optional Readings from Textbook |
-| :-----------: | :-----------------: | :------------: | :------------: | 
-| 1 | [Intro and Overview](lecture/lec1.pptx) | [Jan 10](https://cuhk.zoom.us/rec/share/GMBuuyiGyLKiHf_dbTPYC1KZXTIFAOdwfq7bcpUrsU-QyzugFh0g9iMErY3SsSrW.YS3CeSVtEPexD0F1), [11](https://cuhk.zoom.us/rec/share/88tdIlzjsMBhNQxtWYdd6TB--z-L4uEZBVBQvVXYdaDLQ8c0kXVH1zTNizqc193u.ZO8WyP5rvFng777j) | 1.1, 1.3, 1.4
-| 2 | [Layering](lecture/lec2.pptx); [Sockets and HTTP](lecture/lec3.pptx) | [Jan 17](https://cuhk.zoom.us/rec/share/c5VrWKFwujdmMsgG7X9yasAPxhWlx1jj_3Rss8WwsL76rVCn1Grbl_YPjFVExg.fQOAykjhesRzjjWg), [18](https://cuhk.zoom.us/rec/share/d186v4bsOmWlKBxqd4jIYp4Win1y7L2f97WYDmg1MG6wcXpj6l8S6z3ebEKNImC0.NUY8kc11kSrQuoVP) | 1.5, 2.2, 2.4
-| 3 | [CDN, DNS](lecture/lec4.pptx) | [Jan 24](https://cuhk.zoom.us/rec/share/KofQlqZ0Le6pJfJRSxUCvydViVuIY0soEFZzi_-jpAsu1jKSIyedUdxs2Zak1-8D.OCkuSjtQ5dUXMqH4), [25](https://cuhk.zoom.us/rec/share/OqAjOywy6n5Dnc7Ol2ix50_cCdU1ZLsjrnCTjQTbbuyIbrho12LliuIzNk9SMkvV.Tn6y8B7LIBFWe0FQ) | 2.2, 2.4
-| 4 | [Video, cloud & datacenters](lecture/lec5.pptx), [Transport layer](lecture/lec6.pptx) | [Feb 7](https://cuhk.zoom.us/rec/share/DARFr18scLH3vOhatySK7BFS2NWdxkIqiLG3Y9GBVI5HmLoSkOiCHsxeis_HmkXg.u9T9lTBaRHdat8fh), [8](https://cuhk.zoom.us/rec/share/ikaPJSkyz0pObEZEI0wLpayXMGCiqeB9pxfrE55C9as0WVh750A2GyWNMPJ1YMOB.r213Z8hCro7My7ZO) | 2.6, 3.1, 3.2, 3.3, 3.4
-| 5 | [Transport layer](lecture/lec6.pptx) | [Feb 14](https://cuhk.zoom.us/rec/share/qyR78D1rH_WG87amLo_NlGpA2vhbFBZuBOTLzsyiSCJ79wruT46wlfY1ZUBX0m2s.IH0RI6OHlNTi2XGX), [15](https://cuhk.zoom.us/rec/share/Wf1-ZBOeMj0kwoe1sBQkN0k9DPEY1cNUw3DMUdyMy5bKvj3qHOHM7kzJLRAHt5pK.3kacaFTWgYxS5Xt8) |  3.1, 3.2, 3.3, 3.4
-| 6 | [TCP basics](lecture/lec7.pptx), [Congestion control](lecture/lec8.pptx) | [Feb 21](https://cuhk.zoom.us/rec/share/aDq_1pJ0QEqf4NCO3cEd3ZrKnC5VqD0pTMwePi3hjLB-FCdVF88k-MrQEmnyoBXs.MX5NIn4E_1-_Oalu),  [22](https://cuhk.zoom.us/rec/share/CGF-uBY_9ruG5OR_uCW3BFXFwitaYFl4HgZYxMFphCLvCOd7ygZit1DfLC64DHxS.qCe38hoEtW19S-Jm) |  3.5, 3.6
-| 7 | [Congestion control](lecture/lec8.pptx) | [Feb 28](https://cuhk.zoom.us/rec/share/9KKetSM9RIHOQg10dgsmw6QWJmLiM-Ak7SnAGZwWbN1NBhdRMVrUx4s7Tem0U0Pr.UMWv4yc4e0Q9hO4r), [Mar 1](https://cuhk.zoom.us/rec/share/B2ayVmKbqvrPslMh1s9EdRci3Aufs42pqTF8Arr6wJmIrgzLgh3-E926h1hG34nH.Sj5CAL9xcj61tO33) |  3.5, 3.6
-| 8 | [More on CC](lecture/lec9.pptx), [Network layer and IP](lecture/lec10.pptx) | [Mar 7](https://cuhk.zoom.us/rec/share/J6sEcYYk_vYX7LypQmqgmXc4JpvkguGffFNsVrbvXe-R0HGlwRJLP3WPfZXGbcqX.RRIKgHEBAGyS6RrL), [8](https://cuhk.zoom.us/rec/share/A0Uj8XXALkzi-day_y0nRWTSM-GytiQ6w8itBheuqPXUVXd3oqZYmP33uf9fEMrY.KNAHR0v43F6i44GM) |  3.7; 4.1, 4.3.1, 4.3.2, 4.3.5
-| 9 | [Network layer: IP routers](lecture/lec11.pptx) | [Mar 14](https://cuhk.zoom.us/rec/share/-pmllbAyE0gewxTkibJRuJUgoKMqEciyw9w1CzmROm_PMf9BhVAM0tYUiMrMbJYj.MpRa7p1LJpR3B3Ut), [15](https://cuhk.zoom.us/rec/share/iIW8LmGKCyUSX4jZZPohR9eOHR5QjHrbDJaBf32I3zelETG1zf9ljDKjr4ejbB8S.SXxrs22DE0JhS1Rp) | 4.2
-| 10 | [Routing fundamentals](lecture/lec12.pptx), [Intra-AS routing](lecture/lec13.pptx) | [Mar 21](https://cuhk.zoom.us/rec/share/3a4YPQfEZdbk685CNWkptYQfvfcwjmM5hzTaueq4ebPGLt80tNbd0SU0EYbrLG_k.ZSChAlrwwOvX81N-), [22](https://cuhk.zoom.us/rec/share/Ws0nndfowdbrtNe6uVjHr4cTy_ROWTBCf7vqATbeKAXM1B6Xyehjz6C7ThYTLNuF.TAlfVdJUrwRLRdj5) | 5.1, 5.2, 5.3
-| 11 | [Inter-domain routing](lecture/lec14.pptx), [BGP](lecture/lec15.pptx) | [Mar 28](https://cuhk.zoom.us/rec/share/EwMQ22KQCrNX7NJE4X1tgoNmSjPIZU85Q-BixvDXJU4GH8A-pPAJxgcR4oTVzqqU.mNcoP-rN1feRZpna), [29](https://cuhk.zoom.us/rec/share/Udb987n_pf1I9k81wx84NDGfXQv8gxzC690B8TsWYXPg5gFb09ExTPBqMP1ROH8.M0qNENhOAcUlKNh-) | 4.3.3, 5.4
-| 12 | [Link layer](lecture/lec16.pptx) | [Apr 11](https://cuhk.zoom.us/rec/share/YWBatYORR3AB-ul2omTQkmYJycPwFQ5mGfNhQqb6gXAZGDVDLGqolQgc6F0FxyVR.Q21FXJo7Q3VzOeKn), [12](https://cuhk.zoom.us/rec/share/2SWpPhLAGKV15jRWDMjqP_XFh64LXvNuvCIIhPLNbqhcrYqlnjvYqMmfC99cNXtn.UzZbd6irJGWNcmUH) | 6.1, 6.3
-| 13 | [Link layer wrap-up](lecture/lec17.pptx), [Final exam](lecture/final.pptx) | [Apr 19](https://cuhk.zoom.us/rec/share/Hn669fGALuZYsUny5ALA-NbGob_ys-v_MKrP1DiNngZgkkw80ce-tWhe1DcsXetd.aiAqCGW1XXlrC-44), [21](https://cuhk.zoom.us/rec/share/y1LP71wctH-SaXprwoGU5zl1tesuDRHDf1WtW-dYn9hIbH6to_KXDOuCR1weylni.Gooq_RXnhsqaXhBS) | 6.4
-| | [Course review](lecture/review.pptx)
+| Week | Topic(s) | Optional Readings from Textbook |
+| :-----------: | :-----------------: | :------------: | 
+| 1 | [Intro and Overview](lecture/) | 1.1, 1.3, 1.4
+| 2 | [Layering](lecture/); [Sockets and HTTP](lecture/) | 1.5, 2.2, 2.4
+| 3 | [CDN, DNS](lecture/) | 2.2, 2.4
+| 4 | [Video, cloud & datacenters](lecture/), [Transport layer](lecture/) | 2.6, 3.1, 3.2, 3.3, 3.4
+| 5 | [Transport layer](lecture/) | 3.1, 3.2, 3.3, 3.4
+| 6 | [TCP basics](lecture/), [Congestion control](lecture/) | 3.5, 3.6
+| 7 | [Congestion control](lecture/) | 3.5, 3.6
+| 8 | [More on CC](lecture/), [Network layer and IP](lecture/) | 3.7; 4.1, 4.3.1, 4.3.2, 4.3.5
+| 9 | [Network layer: IP routers](lecture/) | 4.2
+| 10 | [Routing fundamentals](lecture/), [Intra-AS routing](lecture/) | 5.1, 5.2, 5.3
+| 11 | [Inter-domain routing](lecture/), [BGP](lecture/) | 4.3.3, 5.4
+| 12 | [Link layer](lecture/) | 6.1, 6.3
+| 13 | [Link layer wrap-up](lecture/), [Final exam](lecture/) | 6.4
+| | [Course review](lecture/)
 
 ### ESTR lecture materials
 | Week | Topic(s) | 
 | :-----------: | :-----------------: | 
-| 1 | [Internet](lecture/estr1.pptx) ([Jan 11](https://cuhk.zoom.us/rec/share/3SZewEFYrPtDs01sjRwfKvTSSavGl65htD0RBTSy4v9jEgeZHdk38FHHhaZAx_zC.We45sM8DXlSAhJvj))
-| 2 | [More on HTTP; P2P](lecture/estr2.pptx) ([Jan 18](https://cuhk.zoom.us/rec/share/PMFQRt2pALxYSfvwqk-KeSAPWFO9NggI6V_F4qlj_0vxZkBdJ0BF8Pf-y1K-CeLH.gmx0QsnHaQlI6W21)) 
-| 3 | [CDN, Anycast](lecture/estr3.pptx) ([Jan 25](https://cuhk.zoom.us/rec/share/Usy19DUczqZ9dCzoIlwgoZXFWHcVJns6LfQQl65FBrhm6QRaM463QXtJnNnnzKdM.ZV7pn34V5u2H8feB))
-| 4 | [ABR in video streaming](lecture/estr4.pdf)
+| 1 | [Internet](lecture/) 
+| 2 | [More on HTTP; P2P](lecture/) 
+| 3 | [CDN, Anycast](lecture/) 
+| 4 | [ABR in video streaming](lecture/)
 
 ### Tutorials and Assignments
 
