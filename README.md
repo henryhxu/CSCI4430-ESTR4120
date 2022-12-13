@@ -76,20 +76,24 @@ Click on the topic to access the slides, and on the date to view the recording.
 | 4 | [ABR in video streaming](lecture/)
 
 ### Tutorials and Assignments
+<!--  ~~11:59:59 p.m., Sat, Jan 29th~~ 18:00:00 p.m., Mon, Jan 31st -->
+<!-- assignment-1 -->
 
 | Week | Topic | Recording | Assignment | Due |
 | :---: | :------------------: | :-----: | :-------------: | :-------------: |
-| 1 | [Socket programming](tutorial/T01/tut01.pptx) | [Jan 13](https://cuhk.zoom.us/rec/share/ocCYRX0Pv0ZZfA3qEMIRc9JM5jDZLR9w8x6rnRtBG84f6_1cuu-L0igeQW9SKoUe.OiV8_R37BIAKtOPd?startTime=1642033608000) | [Assignment 1](assignment/assignment-1) | ~~11:59:59 p.m., Sat, Jan 29th~~ 18:00:00 p.m., Mon, Jan 31st |
-| 2 | [Performance metrics](tutorial/T02/tut02.pptx) | [Jan 20](https://cuhk.zoom.us/rec/share/bN593V2QGLPNNZea6JewUtsWXiS-CcTvXc5m0FW68vahSLNwvYsDtksM5tJu0O4K.FBghXgcsGMJ8eb_S?startTime=1642652855000) | ||
-| 3 | [HTTP](tutorial/T03/tut03.pptx) | [Jan 27](https://cuhk.zoom.us/rec/share/axNautJdYKCtHOTSEwHOLNUdT5WIWvce7gXJ3Z3S_idsTYvcI3nXNIDwaOonIbFs.pSVZ_d_cjhTFRbqf?startTime=1643257789000) | ||
-| 4 | [Select programming](tutorial/T04/tut04.pptx) | [Feb 10](https://cuhk.zoom.us/rec/share/CDOr9mp0_9bFNWxc_txlzdoPm460e2xpHs8uE4Z0lMC9wDneTIZ2m39OCboiU9dd.uoiGrZpNm07x-PKW) | [Assignment 2](assignment/assignment-2) |~~11:59:59 p.m., Sun, Feb 27th~~ 11:59:59 p.m., Sun., March 6th|
-| 5 |[HTTP Streaming and TCP](tutorial/T05/tut05.pptx)|[Feb 17](https://cuhk.zoom.us/rec/play/uaZUp3aVwBU3KKjg9LJ7jicr4LU8bHtUhwiLPmHdXBxJelwLs2dax4ZV0FaFcnj-vwriN_tN1dtQ9SZM.Ox-oeJskmDqqumKI?autoplay=true&startTime=1645072024000)|||
-| 6 |[HTTP Proxy and TCP](tutorial/T06/tut06.pptx)|[Feb 24](https://cuhk.zoom.us/rec/play/JYn0vx0UWM_xBrHpb9YOAoUbv48sguxQmoNXq61bI-F5SRNn9N-VcVNci_b87bPKRC55kT8AkvxbFd5L.5e5IuA88lu64Q-3G?autoplay=true&startTime=1645676927000)|||
-| 7 |[TCP Congestion Control](tutorial/T07/tut07.pptx)|[Mar 3](https://cuhk.zoom.us/rec/play/nnzhtdIPW04zDjaoAMY1aZODoaObZFDxjV07LLaiPcP-dNh1nEsjCqZBnU-jSZUP6-CCjN2i-xonqnMr.3b5D-22kFZW34eB2?autoplay=true&startTime=1646267408000)|||
-| 8 |[UDP Socket programming](tutorial/T08/tut08.pptx)|[Mar 10](https://cuhk.zoom.us/rec/play/7Fosstztv2zG6Sl4OI0_HliePhxHo4_yifN-VtZrVIPrMUrTId-9DAGaVUjCJL3PfIS4t58971yKZLBM.qaYOMX7_IoLguOF0?autoplay=true&startTime=1646886484000)|[Assignment 3](assignment/assignment-3)|~11:59:59 p.m., Sun., April 10th~ 11:59:59 p.m., Sun., April 17th |
-| 9 |[IP and Network](tutorial/T09/tut09.pptx)|[Mar 17](https://cuhk.zoom.us/rec/play/dK7ZJZicHPfBUNM76Dfgg7AYs69t3QYQMo0KA2jUh3_9jvYEs57B4ZvRJyt5qew5UTlyEQAMaFz9Njo4.XjtPPx4KgylH-78X?autoplay=true&startTime=1647491403000)|||
-| 10 |[WTP assignemnt](tutorial/T10/tut10.pptx)|[Mar 24](https://cuhk.zoom.us/rec/share/V3EJuwG4WHvsEO67fg63-mOaVB7ASK6xxGAmQclrcD8NafXCpbek9SYTDvSzOb0R.l8UdKAGeY7b3HfbY?startTime=1648082217000)|||
-| 11 |[Routing](tutorial/T11/tut11.pptx)|[Mar 31](https://cuhk.zoom.us/rec/play/IsCOK2oLTA75P-4le8etR8qPXNFA0jofzoceu0YgxIHexTBjDtkX3Yp3K4FUfg5yi8kfQZ-EbL-Xnjf0.YOYU7rC0hYjD45kd?autoplay=true&startTime=1648699941000)|||
+| 1 | [Socket programming](tutorial/T01/) | [Jan 12]() | [Assignment 1]() |  |
+| 2 | [Performance metrics](tutorial/T02/) | [Jan 19]() | ||
+| 3 | [HTTP](tutorial/T03/) | [Feb 2]() | ||
+| 4 | [Select programming](tutorial/T04/) | [Feb 9]() | [Assignment 2]() |  |
+| 5 |[HTTP Streaming and TCP](tutorial/T05/)|[Feb 16]()|||
+| 6 |[HTTP Proxy and TCP](tutorial/T06/)|[Feb 23]()|||
+| 7 |[TCP Congestion Control](tutorial/T07/)|[Mar 2]()|||
+| 8 |[UDP Socket programming](tutorial/T08/)|[Mar 16]()|[Assignment 3]()| |
+| 9 |[IP and Network](tutorial/T09/)|[Mar 23]()|||
+| 10 |[WTP assignemnt](tutorial/T10/)|[Mar 30]()|||
+| 11 |[Routing](tutorial/T11/)|[Apr 6]()|||
+| 12 |[](tutorial/T12/)|[Apr 13]()|||
+| 13 |[](tutorial/T13/)|[Apr 20]()|||
 
 
 ## Course policies
