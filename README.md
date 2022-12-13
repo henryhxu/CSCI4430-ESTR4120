@@ -68,14 +68,6 @@ Click on the topic to access the slides, and on the date to view the recording.
 | 13 | [Link layer wrap-up](lecture/), [Final exam](lecture/) |  | 6.4
 | | [Course review](lecture/)
 
-### ESTR lecture materials
-| Week | Topic(s) | 
-| :-----------: | :-----------------: | 
-| 1 | [Internet](lecture/) 
-| 2 | [More on HTTP; P2P](lecture/) 
-| 3 | [CDN, Anycast](lecture/) 
-| 4 | [ABR in video streaming](lecture/)
-
 ### Tutorials and Assignments
 <!--  ~~11:59:59 p.m., Sat, Jan 29th~~ 18:00:00 p.m., Mon, Jan 31st -->
 <!-- assignment-1 -->
@@ -98,9 +90,6 @@ Click on the topic to access the slides, and on the date to view the recording.
 
 
 ## Course policies
-- *Special teaching arrangement* for students who cannot enter HK:
-  * Recordings will be provided for each lecture or tutorial session. No live lecture will be provided.
-  * Inform the course instructor, Henry, **immediately** when you can physically attend the class, so we can avoid the hassle of hybrid mode teaching.
 - Homework and project: 
   * No late submission. No exception.
   * According to the University’s regulation, every assignment must be accompanied by a signed declaration of originality; submissions without it will receive zero mark.
