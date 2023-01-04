@@ -74,7 +74,7 @@ Click on the topic to access the slides, and on the date to view the recording.
 <!-- []() -->
 | Week | Topic | Schedule | Assignment | Due |
 | :---: | :------------------: | :-----: | :-------------: | :-------------: |
-| 1 |  | ~~Jan 12~~ | | |
+| 1 | *No tutorial* | ~~Jan 12~~ | | |
 | 2 | [Socket programming](tutorial/T01/) | Jan 19 | [Assignment 1]() |  |
 | 3 | [Performance metrics](tutorial/T02/) | Feb 2 | ||
 | 4 | [HTTP](tutorial/T03/) | Feb 9 | ||
@@ -84,7 +84,7 @@ Click on the topic to access the slides, and on the date to view the recording.
 | 8 |[TCP Congestion Control](tutorial/T07/)| Mar 16 |||
 | 9 |[UDP Socket programming](tutorial/T08/)| Mar 23 |[Assignment 3]()| |
 | 10 |[IP and Network](tutorial/T09/)| Mar 30 |||
-| 11 | | ~~Apr 6~~ |||
+| 11 | *No tutorial* | ~~Apr 6~~ |||
 | 12 |[WTP assignemnt](tutorial/T10/)| Apr 13 |||
 | 13 |[Routing](tutorial/T11/)| Apr 20 |||
 
