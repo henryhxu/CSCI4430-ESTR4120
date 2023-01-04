@@ -74,19 +74,19 @@ Click on the topic to access the slides, and on the date to view the recording.
 <!-- []() -->
 | Week | Topic | Schedule | Assignment | Due |
 | :---: | :------------------: | :-----: | :-------------: | :-------------: |
-| 1 | [Socket programming](tutorial/T01/) | Jan 12 | [Assignment 1]() |  |
-| 2 | [Performance metrics](tutorial/T02/) | Jan 19 | ||
-| 3 | [HTTP](tutorial/T03/) | Feb 2 | ||
-| 4 | [Select programming](tutorial/T04/) | Feb 9 | [Assignment 2]() |  |
-| 5 |[HTTP Streaming and TCP](tutorial/T05/)| Feb 16 |||
-| 6 |[HTTP Proxy and TCP](tutorial/T06/)| Feb 23 |||
-| 7 |[TCP Congestion Control](tutorial/T07/)| Mar 2 |||
-| 8 |[UDP Socket programming](tutorial/T08/)| Mar 16 |[Assignment 3]()| |
-| 9 |[IP and Network](tutorial/T09/)| Mar 23 |||
-| 10 |[WTP assignemnt](tutorial/T10/)| Mar 30 |||
-| 11 |[Routing](tutorial/T11/)| Apr 6 |||
-| 12 |[](tutorial/T12/)| Apr 13 |||
-| 13 |[](tutorial/T13/)| Apr 20 |||
+| 1 |  | ~~Jan 12~~ | | |
+| 2 | [Socket programming](tutorial/T01/) | Jan 19 | [Assignment 1]() |  |
+| 3 | [Performance metrics](tutorial/T02/) | Feb 2 | ||
+| 4 | [HTTP](tutorial/T03/) | Feb 9 | ||
+| 5 | [Select programming](tutorial/T04/) | Feb 16 | [Assignment 2]() |  |
+| 6 |[HTTP Streaming and TCP](tutorial/T05/)| Feb 23 |||
+| 7 |[HTTP Proxy and TCP](tutorial/T06/)| Mar 2 |||
+| 8 |[TCP Congestion Control](tutorial/T07/)| Mar 16 |||
+| 9 |[UDP Socket programming](tutorial/T08/)| Mar 23 |[Assignment 3]()| |
+| 10 |[IP and Network](tutorial/T09/)| Mar 30 |||
+| 11 | | ~~Apr 6~~ |||
+| 12 |[WTP assignemnt](tutorial/T10/)| Apr 13 |||
+| 13 |[Routing](tutorial/T11/)| Apr 20 |||
 
 
 ## Course policies
