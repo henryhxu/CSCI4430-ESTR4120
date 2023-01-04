@@ -20,7 +20,7 @@
 | [Ding, Wenlong](mailto:wlding@link.cuhk.edu.hk) | TA | Wed 1:30 - 3:30 pm, SHB 117. |
 
 ### Piazza
-The Piazza page for this course is [here](https://piazza.com/cuhk.edu.hk/spring2023/csci4430).
+The Piazza page for this course is [here](https://piazza.com/cuhk.edu.hk/spring2023/csci4430estr4120).
 All communication about this course is done over Piazza. This includes questions, discussions, announcements, as well as private messages. 
 The self-signup code is "4430 rocks!".
 
