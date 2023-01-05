@@ -91,7 +91,8 @@ Click on the topic to access the slides, and on the date to view the recording.
 
 ## Course policies
 - Homework and project: 
-  * No late submission. No exception.
+  * No late submission.
+  * Grace tokens: You have **2** grace tokens, each can be used to give you a 24-hr extension on one assignment. You can apply at most 1 grace token on each assignment at your own discretion. This gives you some flexibility to cope with your own schedule.
   * According to the University’s regulation, every assignment must be accompanied by a signed declaration of originality; submissions without it will receive zero mark.
   * The declaration form is available [here](declaration_en.doc).
 - Lecture and tutorial:
