@@ -34,11 +34,12 @@ The course materials are based upon the following classic textbook of Kurose and
 - Computer Networking: A Top-Down Approach, 7th. (or earlier editions), by Jim Kurose and Keith Ross, 2016. ISBN 978-0133594140.
 
 ### Grading
-| Assessment item | CSCI Weight 
-| :---------------- | :--- | 
-| Assignments | 55% | 
-| Tutorial Quizzes* | 5% |
-| Final Exam | 40% | 
+| Assessment item | CSCI Weight | ESTR Weight
+| :---------------- | :--- | :--- | 
+| Assignments | 55% | 55%
+| Tutorial Quizzes* | 5% | 0%
+| Final Exam | 40% | 40%
+| Project | 0% | 5%
 
 \*: To encourage tutorial participation, quiz will be conducted at the tutorials randomly. We will randomly pick 5 tutorials and perform a quiz at the end of the tutorial. Each quiz is worth one mark.
 
@@ -51,7 +52,7 @@ Projects details will be announced in a later time.
 Click on the topic to access the slides, and on the date to view the recording. 
 
 ### Lectures
-| Week | Topic(s) | Schedules | Optional Readings from Textbook |
+| Week | Topic(s) | ESTR Topic | Optional Readings from Textbook |
 | :-----------: | :-----------------: | :------------: | :------------: | 
 | 1 | [Intro and Overview](lecture/) |  | 1.1, 1.3, 1.4
 | 2 | [Layering](lecture/); [Sockets and HTTP](lecture/) |  | 1.5, 2.2, 2.4
