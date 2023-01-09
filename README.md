@@ -54,7 +54,7 @@ Click on the topic to access the slides, and on the date to view the recording.
 ### Lectures
 | Week | Topic(s) | ESTR Topic | Optional Readings from Textbook |
 | :-----------: | :-----------------: | :------------: | :------------: | 
-| 1 | [Intro and Overview](lecture/) |  | 1.1, 1.3, 1.4
+| 1 | [Intro and Overview](lec/lec1.pptx) | [Internet](lec/estr1.pptx) | 1.1, 1.3, 1.4
 | 2 | [Layering](lecture/); [Sockets and HTTP](lecture/) |  | 1.5, 2.2, 2.4
 | 3 | [CDN, DNS](lecture/) |  | 2.2, 2.4
 | 4 | [Video, cloud & datacenters](lecture/), [Transport layer](lecture/) |  | 2.6, 3.1, 3.2, 3.3, 3.4
