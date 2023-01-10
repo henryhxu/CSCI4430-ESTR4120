@@ -54,19 +54,19 @@ Click on the topic to access the slides, and on the date to view the recording.
 ### Lectures
 | Week | Topic(s) | ESTR Topic | Optional Readings from Textbook |
 | :-----------: | :-----------------: | :------------: | :------------: | 
-| 1 | [Intro and Overview](lec/lec1.pptx) | [Internet](lec/estr1.pptx) | 1.1, 1.3, 1.4
-| 2 | [Layering](lecture/); [Sockets and HTTP](lecture/) |  | 1.5, 2.2, 2.4
-| 3 | [CDN, DNS](lecture/) |  | 2.2, 2.4
-| 4 | [Video, cloud & datacenters](lecture/), [Transport layer](lecture/) |  | 2.6, 3.1, 3.2, 3.3, 3.4
-| 5 | [Transport layer](lecture/) |  | 3.1, 3.2, 3.3, 3.4
-| 6 | [TCP basics](lecture/), [Congestion control](lecture/) |  | 3.5, 3.6
-| 7 | [Congestion control](lecture/) |  | 3.5, 3.6
-| 8 | [More on CC](lecture/), [Network layer and IP](lecture/) |  | 3.7; 4.1, 4.3.1, 4.3.2, 4.3.5
-| 9 | [Network layer: IP routers](lecture/) |  | 4.2
-| 10 | [Routing fundamentals](lecture/), [Intra-AS routing](lecture/) |  | 5.1, 5.2, 5.3
-| 11 | [Inter-domain routing](lecture/), [BGP](lecture/) |  | 4.3.3, 5.4
-| 12 | [Link layer](lecture/) |  | 6.1, 6.3
-| 13 | [Link layer wrap-up](lecture/), [Final exam](lecture/) |  | 6.4
+| 1, Jan 9-10 | [Intro and Overview](lec/lec1.pptx) | [Internet](lec/estr1.pptx) | 1.1, 1.3, 1.4
+| 2, Jan 16-17 | [Layering](lecture/); [Sockets and HTTP](lecture/) |  | 1.5, 2.2, 2.4
+| 3, Jan 30-31 | [CDN, DNS](lecture/) |  | 2.2, 2.4
+| 4, Feb 6-7 | [Video, cloud & datacenters](lecture/), [Transport layer](lecture/) |  | 2.6, 3.1, 3.2, 3.3, 3.4
+| 5, Feb 13-14 | [Transport layer](lecture/) |  | 3.1, 3.2, 3.3, 3.4
+| 6, Feb 20-21 | [TCP basics](lecture/), [Congestion control](lecture/) |  | 3.5, 3.6
+| 7, Feb 27-28 | [Congestion control](lecture/) |  | 3.5, 3.6
+| 8, Mar 13-14 | [More on CC](lecture/), [Network layer and IP](lecture/) |  | 3.7; 4.1, 4.3.1, 4.3.2, 4.3.5
+| 9, Mar 13-14 | [Network layer: IP routers](lecture/) |  | 4.2
+| 10, Mar 20-21 | [Routing fundamentals](lecture/), [Intra-AS routing](lecture/) |  | 5.1, 5.2, 5.3
+| 11, Mar 27-28 | [Inter-domain routing](lecture/), [BGP](lecture/) |  | 4.3.3, 5.4
+| 12, *Apr 3, 11* | [Link layer](lecture/) |  | 6.1, 6.3
+| 13, Apr 17, 18 | [Link layer wrap-up](lecture/), [Final exam](lecture/) |  | 6.4
 | | [Course review](lecture/)
 
 ### Tutorials and Assignments
