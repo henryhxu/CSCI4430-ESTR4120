@@ -65,7 +65,7 @@ Click on the topic to access the slides, and on the date to view the recording.
 | 9, Mar 13-14 | [Network layer: IP routers](lecture/) |  | 4.2
 | 10, Mar 20-21 | [Routing fundamentals](lecture/), [Intra-AS routing](lecture/) |  | 5.1, 5.2, 5.3
 | 11, Mar 27-28 | [Inter-domain routing](lecture/), [BGP](lecture/) |  | 4.3.3, 5.4
-| 12, *Apr 3, 11* | [Link layer](lecture/) |  | 6.1, 6.3
+| 12, **Apr 3, 11** | [Link layer](lecture/) |  | 6.1, 6.3
 | 13, Apr 17, 18 | [Link layer wrap-up](lecture/), [Final exam](lecture/) |  | 6.4
 | | [Course review](lecture/)
 
