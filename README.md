@@ -49,12 +49,12 @@ ESTR 4120 follows the same format as CSCI 4430, but with an additional project t
 Projects details will be announced in a later time.
 
 ## Schedules
-Click on the topic to access the slides, and on the date to view the recording. 
+<!--  Click on the topic to access the slides, and on the date to view the recording. -->
 
 ### Lectures
-| W | Date | Topic(s) | ESTR Topic | Optional Readings from Textbook |
+| | Date | Topic(s) | ESTR Topic | Optional Readings from Textbook |
 | :------: | :----------- | :-----------------: | :------------: | :------------: | 
-|1|Jan 9-10 | [Intro and Overview](lec/lec1.pptx) | [Internet](lec/estr1.pptx) | 1.1, 1.3, 1.4
+|1 |Jan 9-10 | [Intro and Overview](lec/lec1.pptx) | [Internet](lec/estr1.pptx) | 1.1, 1.3, 1.4
 |2|Jan 16-17| [Layering](lecture/); [Sockets and HTTP](lecture/) |  | 1.5, 2.2, 2.4
 |3|Jan 30-31| [CDN, DNS](lecture/) |  | 2.2, 2.4
 |4|Feb 6-7| [Video, cloud & datacenters](lecture/), [Transport layer](lecture/) |  | 2.6, 3.1, 3.2, 3.3, 3.4
