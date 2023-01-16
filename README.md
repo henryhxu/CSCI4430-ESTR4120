@@ -55,7 +55,7 @@ Projects details will be announced in a later time.
 | Week | Date | Topic(s) | ESTR  <br>Topic | Optional Readings  <br>from Textbook |
 | :---: |:----------- | :-----------------: | :------------: | :------------: | 
 |1| Jan 9-10 | [Intro and Overview](lec/lec1.pptx) | [Internet](lec/estr1.pptx) | 1.1, 1.3, 1.4
-|2| Jan 16-17| [Layering](lec/lec2.pptx);  <br>[Sockets and HTTP](lecture/) |  | 1.5, 2.2, 2.4
+|2| Jan 16-17| [Layering](lec/lec2.pptx);  <br>[Sockets and HTTP](lec/lec3.pptx) |  | 1.5, 2.2, 2.4
 |3| Jan 30-31| [CDN, DNS](lecture/) |  | 2.2, 2.4
 |4| Feb 6-7| [Video, cloud & datacenters](lecture/),  <br>[Transport layer](lecture/) |  | 2.6, 3.1, 3.2, 3.3, 3.4
 |5| Feb 13-14| [Transport layer](lecture/) |  | 3.1, 3.2, 3.3, 3.4
