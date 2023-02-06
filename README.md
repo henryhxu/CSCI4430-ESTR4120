@@ -56,9 +56,9 @@ Projects details will be announced in a later time.
 | :---: |:----------- | :-----------------: | :------------: | :------------: | 
 |1| Jan 9-10 | [Intro and Overview](lec/lec1.pptx) | [Internet](lec/estr1.pptx) | 1.1, 1.3, 1.4
 |2| Jan 16-17| [Layering](lec/lec2.pptx);  <br>[Sockets and HTTP](lec/lec3.pptx) | [HTTP, HTTPS, P2P](lec/estr2.pptx)  | 1.5, 2.2, 2.4
-|3| Jan 30-31| [CDN, DNS](lec/lec4.pptx/) | [CDN, Anycast](lec/estr3.pptx) | 2.2, 2.4
-|4| Feb 6-7| [Video, cloud & datacenters](lecture/),  <br>[Transport layer](lecture/) | [ABR](lecture/) | 2.6, 3.1, 3.2, 3.3, 3.4
-|5| Feb 13-14| [Transport layer](lecture/) |  | 3.1, 3.2, 3.3, 3.4
+|3| Jan 30-31| [CDN, DNS](lec/lec4.pptx) | [CDN, Anycast](lec/estr3.pptx) | 2.2, 2.4
+|4| Feb 6-7| [Video, cloud & datacenters](lec/lec5.pptx),  <br>[Transport layer](lec/lec6.pptx) | [ABR](lec/estr4.pptx) | 2.6, 3.1, 3.2, 3.3, 3.4
+|5| Feb 13-14| [Transport layer](lec/lec6.pptx) |  | 3.1, 3.2, 3.3, 3.4
 |6| Feb 20-21| [TCP basics](lecture/),  <br>[Congestion control](lecture/) |  | 3.5, 3.6
 |7| Feb 27-28| [Congestion control](lecture/) |  | 3.5, 3.6
 |8| Mar 13-14| [More on CC](lecture/),  <br>[Network layer and IP](lecture/) |  | 3.7; 4.1, 4.3.1, 4.3.2, 4.3.5
