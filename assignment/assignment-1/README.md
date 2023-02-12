@@ -184,7 +184,7 @@ Hosts (`h1` to `h9`) are represented by squares and switches (`s1` to `s5`) are 
 > **NOTE:** When running ping and `iPerfer` in Mininet, you must use IP addresses, not hostnames. Also, if you are not confident your `iPerfer` is working correctly, feel free to use `iperf` for any throughput measurements noted below. Output using either program will be accepted.
 
 #### Q1: Link Latency and Throughput
-First, you should measure the RTT and bandwidth of each of the five individual links between switches (`L1` - `L4`). You should run ping with 20 packets and store the output of the measurement on each link in a file called `latency_L#.txt`, replacing # with the link number from the topology diagram above. You should run `iPerfer` for 20 seconds and store the output of the measurement on each link in a file called `throughput_L#.txt`, replacing # with the link number from the topology diagram above.
+First, you should measure the RTT and bandwidth of each of the four individual links between switches (`L1` - `L4`). You should run ping with 20 packets and store the output of the measurement on each link in a file called `latency_L#.txt`, replacing # with the link number from the topology diagram above. You should run `iPerfer` for 20 seconds and store the output of the measurement on each link in a file called `throughput_L#.txt`, replacing # with the link number from the topology diagram above.
 
 #### Q2: Path Latency and Throughput
 Now, assume `h1` wants to communicate with `h9`. What is the expected latency and throughput of the path between the hosts? Put your prediction in the `answers.txt` file under question 2.
