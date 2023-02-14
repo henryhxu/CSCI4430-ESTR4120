@@ -59,8 +59,8 @@ Projects details will be announced in a later time.
 |3| Jan 30-31| [CDN, DNS](lec/lec4.pptx) | [CDN, Anycast](lec/estr3.pptx) | 2.2, 2.4
 |4| Feb 6-7| [Video, cloud & datacenters](lec/lec5.pptx),  <br>[Transport layer](lec/lec6.pptx) | [ABR I](lec/estr4.pptx), [ABR II](lec/estr4-puffer.pdf) | 2.6, 3.1, 3.2, 3.3, 3.4
 |5| Feb 13-14| [Transport layer](lec/lec6.pptx) | [RDMA](lec/estr5-rdma.ppt) | 3.1, 3.2, 3.3, 3.4
-|6| Feb 20-21| [TCP basics](lecture/),  <br>[Congestion control](lecture/) |  | 3.5, 3.6
-|7| Feb 27-28| [Congestion control](lecture/) |  | 3.5, 3.6
+|6| Feb 20-21| [TCP basics](lec/lec7.pptx),  <br>[Congestion control](lecture/) |  | 3.5, 3.6
+|7| Feb 27-28| [Congestion control](lec/) |  | 3.5, 3.6
 |8| Mar 13-14| [More on CC](lecture/),  <br>[Network layer and IP](lecture/) |  | 3.7; 4.1, 4.3.1, 4.3.2, 4.3.5
 |9| Mar 13-14| [Network layer: IP routers](lecture/) |  | 4.2
 |10| Mar 20-21| [Routing fundamentals](lecture/),  <br>[Intra-AS routing](lecture/) |  | 5.1, 5.2, 5.3
