@@ -33,6 +33,9 @@ From a practical point of view, we learn what sockets are and how to use them. A
 The course materials are based upon the following classic textbook of Kurose and Ross. In addition, many materials are also borrowed heavily from [Mosharaf Chowdhury](http://www.mosharaf.com/)'s [computer networks](https://github.com/mosharaf/eecs489) course with his permission. Credit is given whenever possible to Mosharaf and a lot of other folks.
 - Computer Networking: A Top-Down Approach, 7th. (or earlier editions), by Jim Kurose and Keith Ross, 2016. ISBN 978-0133594140.
 
+You may also want to check out this online book:
+- [Computer Networks: A Systems Approach](https://book.systemsapproach.org/index.html), by Larry Peterson and Bruce Davie.
+
 ### Grading
 | Assessment item | CSCI Weight | ESTR Weight
 | :---------------- | :--- | :--- | 
@@ -59,8 +62,8 @@ Projects details will be announced in a later time.
 |3| Jan 30-31| [CDN, DNS](lec/lec4.pptx) | [CDN, Anycast](lec/estr3.pptx) | 2.2, 2.4
 |4| Feb 6-7| [Video, cloud & datacenters](lec/lec5.pptx),  <br>[Transport layer](lec/lec6.pptx) | [ABR I](lec/estr4.pptx), [ABR II](lec/estr4-puffer.pdf) | 2.6, 3.1, 3.2, 3.3, 3.4
 |5| Feb 13-14| [Transport layer](lec/lec6.pptx) | [RDMA](lec/estr5-rdma.ppt) | 3.1, 3.2, 3.3, 3.4
-|6| Feb 20-21| [TCP basics](lec/lec7.pptx),  <br>[Congestion control](lec/lec8.pptx) |  | 3.5, 3.6
-|7| Feb 27-28| [Congestion control](lec/) |  | 3.5, 3.6
+|6| Feb 20-21| [TCP basics](lec/lec7.pptx),  <br>[Congestion control](lec/lec8.pptx) | [RPC](lec/estr6-rpc.pdf) | 3.5, 3.6
+|7| Feb 27-28| [Congestion control](lec/lec8.pptx) |  | 3.5, 3.6
 |8| Mar 13-14| [More on CC](lecture/),  <br>[Network layer and IP](lecture/) |  | 3.7; 4.1, 4.3.1, 4.3.2, 4.3.5
 |9| Mar 13-14| [Network layer: IP routers](lecture/) |  | 4.2
 |10| Mar 20-21| [Routing fundamentals](lecture/),  <br>[Intra-AS routing](lecture/) |  | 5.1, 5.2, 5.3
