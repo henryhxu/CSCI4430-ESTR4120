@@ -79,7 +79,7 @@ Projects details will be announced in a later time.
 | 2 | Jan 19 | [Socket programming](tutorial/T01/) | [Assignment 1](assignment/assignment-1) | 11:59:59 p.m., Mon, Feb. 13th |
 | 3 | Feb 2 | [Performance metrics](tutorial/T02/) | ||
 | 4 | Feb 9 | [HTTP](tutorial/T03/) | ||
-| 5 | Feb 16 | [Select programming](tutorial/T04/) | [Assignment 2]() |  |
+| 5 | Feb 16 | [Select programming](tutorial/T04/) | [Assignment 2](assignment/assignment-2) | 11:59:59 p.m., Fri, Mar. 17th |
 | 6 | Feb 23 |[HTTP Streaming and TCP](tutorial/T05/)|||
 | 7 | Mar 2 |[HTTP Proxy and TCP](tutorial/T06/)|||
 | 8 | Mar 16 |[TCP Congestion Control](tutorial/T07/)|||
