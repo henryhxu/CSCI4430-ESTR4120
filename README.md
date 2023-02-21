@@ -68,8 +68,8 @@ Projects details ~~will be announced in a later time~~ can be found on [this pag
 |9| Mar 13-14| [Network layer: IP routers](lecture/) |  | 4.2
 |10| Mar 20-21| [Routing fundamentals](lecture/),  <br>[Intra-AS routing](lecture/) |  | 5.1, 5.2, 5.3
 |11| Mar 27-28| [Inter-domain routing](lecture/),  <br>[BGP](lecture/) |  | 4.3.3, 5.4
-|12| **Apr 3, 11**| [Link layer](lecture/) |  | 6.1, 6.3
-|13| Apr 17, 18| [Link layer wrap-up](lecture/),  <br>[Final exam](lecture/) |  | 6.4
+|12| **Apr 3, 11**| [Link layer](lecture/) | Project presentations | 6.1, 6.3
+|13| Apr 17, 18| [Link layer wrap-up](lecture/),  <br>[Final exam](lecture/) | Project presentations | 6.4
 | | | [Course review](lecture/)
 
 ### Tutorials and Assignments
