@@ -10,8 +10,8 @@ The ESTR lectures and optional readings can be used as project leads, but you ca
 You may seek consultation with Henry if you are unsure about the topic.
 
 ### Timeline:
-- Mar 10 11:59pm: **1 mark** Email Henry the topic with a simple abstract (1 or 2 paragraphs with some references) to explain the topic.
-- Apr 11, 18, : **4 marks** In-class presentations.
+- Mar 10, 11:59pm: **1 mark** Email Henry the topic with a simple abstract (1 or 2 paragraphs with some references) to explain the topic.
+- Apr 11, 18: **4 marks** In-class presentations.
 
 ### Presentation:
 Each presentation lasts for 11 minutes in total: 1 minute for set-up, 9 minutes for the actual talk, and 2 minutes for Q&A. Tips for presentation will be added here later.
