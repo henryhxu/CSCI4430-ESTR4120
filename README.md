@@ -49,7 +49,7 @@ You may also want to check out this online book:
 ### ESTR students
 ESTR 4120 follows the same format as CSCI 4430, but with an additional project to be presented in the second half of the semester. The exams and quizzes will be the same as CSCI 4430.
 
-Projects details will be announced in a later time.
+Projects details ~~will be announced in a later time~~ can be found on [this page](project.md).
 
 ## Schedules
 <!--  Click on the topic to access the slides, and on the date to view the recording. -->
