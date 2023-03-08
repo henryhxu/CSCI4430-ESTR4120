@@ -65,11 +65,10 @@ Projects details ~~will be announced in a later time~~ can be found on [this pag
 |6| Feb 20-21| [TCP basics](lec/lec7.pptx),  <br>[Congestion control](lec/lec8.pptx) | [RPC](lec/estr6-rpc.pdf) | 3.5, 3.6
 |7| Feb 27-28| [Congestion control](lec/lec8.pptx), [More on CC](lec/lec9.pptx) | [DCTCP](lec/estr7.pptx) | 3.5, 3.6
 |8| Mar 13-14| [More on CC](lec/lec9.pptx),  <br>[Network layer and IP](lecture/) |  | 3.7; 4.1, 4.3.1, 4.3.2, 4.3.5
-|9| Mar 13-14| [Network layer: IP routers](lecture/) |  | 4.2
-|10| Mar 20-21| [Routing fundamentals](lecture/),  <br>[Intra-AS routing](lecture/) |  | 5.1, 5.2, 5.3
-|11| Mar 27-28| [Inter-domain routing](lecture/),  <br>[BGP](lecture/) |  | 4.3.3, 5.4
-|12| **Apr 3, 11**| [Link layer](lecture/) | Project presentations | 6.1, 6.3
-|13| Apr 17, 18| [Link layer wrap-up](lecture/),  <br>[Final exam](lecture/) | Project presentations | 6.4
+|9| Mar 20-21| [Network layer: IP routers](lecture/) |  | 4.2
+|10| Mar 27-28 | [Routing fundamentals](lecture/),  <br>[Intra-AS routing](lecture/) |  | 5.1, 5.2, 5.3
+|11| **Apr 3, 11** | [Inter-domain routing](lecture/),  <br>[BGP](lecture/) | Project presentations | 4.3.3, 5.4
+|12| Apr 17, 18 | [Link layer](lecture/),  <br>[Final exam](lecture/) | Project presentations | 6.1, 6.3, 6.4
 | | | [Course review](lecture/)
 
 ### Tutorials and Assignments
