@@ -10,6 +10,7 @@ from mininet.topo import Topo
 from mininet.log import setLogLevel
 
 import time
+import sys
 
 
 class StarfishShapeNetworks(Topo):
