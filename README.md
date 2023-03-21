@@ -65,8 +65,8 @@ Projects details ~~will be announced in a later time~~ can be found on [this pag
 |6| Feb 20-21| [TCP basics](lec/lec7.pptx),  <br>[Congestion control](lec/lec8.pptx) | [RPC](lec/estr6-rpc.pdf) | 3.5, 3.6
 |7| Feb 27-28| [Congestion control](lec/lec8.pptx), [More on CC](lec/lec9.pptx) | [DCTCP](lec/estr7.pptx) | 3.5, 3.6
 |8| Mar 13-14| [More on CC](lec/lec9.pptx),  <br>[Network layer and IP](lec/lec10.pptx) | [NAT, Tunneling](lec/estr8.ppt) | 3.7; 4.1, 4.3.1, 4.3.2, 4.3.5
-|9| Mar 20-21| [Network layer: IP routers](lecture/) | Network function virtualization | 4.2
-|10| Mar 27-28 | [Routing fundamentals](lecture/),  <br>[Intra-domain routing](lecture/) | Programmable data plane | 5.1, 5.2, 5.3
+|9| Mar 20-21| [Network layer: IP routers](lec/lec11.pptx) | Network function virtualization | 4.2
+|10| Mar 27-28 | [Routing fundamentals](lec/lec12.pptx),  <br>[Intra-domain routing](lecture/) | Programmable data plane | 5.1, 5.2, 5.3
 |11| **Apr 3, 11** | [Inter-domain routing](lecture/),  <br>[SDN](lecture/) | Project presentations | 4.3.3, 5.4
 |12| Apr 17, 18 | [Link layer](lecture/),  <br>[Final exam](lecture/) | Project presentations | 6.1, 6.3, 6.4
 | | | [Course review](lecture/)
