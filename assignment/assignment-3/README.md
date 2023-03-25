@@ -62,7 +62,7 @@ Upon completion of this programming assignment, students should be able to:
 * If you are unsure of the usage of libc functions, please consult their respective Man pages. For example, to obtain the definition and usage of recvfrom, enter man recvfrom in the terminal.
 * Another valuable resource for UDP socket programming is [Beej's Guide to Network Programming Using Internet Sockets](https://beej.us/guide/bgnet/html/index.html).
 
-<a name="part1"></a>
+<a name="1"></a>
 ## Part 1: Implement `wSender`
 
 ### UDP based WTP
@@ -96,7 +96,7 @@ Example: `./wSender 10.0.0.1 8888 10 input.in log.txt`
 
 `<type> <seqNum> <length> <checksum>`
 
-<a name="part2"></a>
+<a name="2"></a>
 ## Part 2: Implement `wReceiver`
 
 ### Receiving Method
@@ -127,7 +127,7 @@ Example:
 
 *Note: During testing and grading, the arguments in the command line exactly match the format shown above. It is crucial to ensure that your implementation can correctly parse the command line arguments in the specified format.*
 
-<a name="part3"></a>
+<a name="3"></a>
 ## Part 3: Optimizations (Bonus part)
 
 This section requires optimization of `WTP` by modifying the previously written `wSender` and  `wReceiver` programs. Consider the behavior of the earlier programs in the given scenario, which employs a window size of 3:
