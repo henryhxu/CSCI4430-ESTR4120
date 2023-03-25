@@ -85,7 +85,7 @@ Projects details ~~will be announced in a later time~~ can be found on [this pag
 | 6 | Feb 23 |[HTTP Streaming and TCP](tutorial/T05/)|||
 | 7 | Mar 2 |[HTTP Proxy and TCP](tutorial/T06/)|||
 | 8 | Mar 16 |[TCP Congestion Control](tutorial/T07/)|||
-| 9 | Mar 23 |[UDP Socket programming](tutorial/T08/)|[Assignment 3](assignment/assignment-3) | 11:59:59 p.m., Fir Apr. 21st |
+| 9 | Mar 23 |[UDP Socket programming](tutorial/T08/)|[Assignment 3](assignment/assignment-3) | 11:59:59 p.m., Fir, Apr. 21st |
 | 10 | Mar 30 |[IP and Network](tutorial/T09/)|||
 | 11 | ~~Apr 6~~ | *No tutorial* |||
 | 12 | Apr 13 |[WTP assignemnt](tutorial/T10/)|||
