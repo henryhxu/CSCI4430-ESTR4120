@@ -18,14 +18,14 @@ Special notes:
 <a name="ow"></a>
 ## Overview
 
-The objective of this project is to develop a simple reliable transport protocol, WTP, which operates **on top of UDP**. 
-Your implementation of WTP must ensure the sequential and reliable delivery of UDP datagrams, even in the face of challenges such as `packet loss, latency, corruption, duplication, and reordering`.
+The objective of this project is to develop a simple reliable transport protocol,`WTP`, which operates **on top of UDP**. 
+Your implementation of `WTP` must ensure the sequential and reliable delivery of UDP datagrams, even in the face of challenges such as `packet loss, latency, corruption, duplication, and reordering`.
 
-There are a variety of ways to ensure a message is reliably delivered from a sender to a receiver. You are to implement a sender (`wSender`) and a receiver (`wReceiver`) that follows the following WTP specification.
+There are a variety of ways to ensure a message is reliably delivered from a sender to a receiver. You are to implement a sender (`wSender`) and a receiver (`wReceiver`) that follows the following `WTP` specification.
 
 
 ### WTP Specification
-The data transmission format used by `WTP` consists of a header and a data chunk (the actual data you want to transfer). The header includes four types: `START`, `END`, `DATA`, and `ACK`, all of which adhere to the following format:
+The data transmission format used by `WTP` consists of a header and a data chunk (data in your tranferred files). The header includes four types: `START`, `END`, `DATA`, and `ACK`, all of which adhere to the following format:
 
 ```
 struct PacketHeader {
@@ -59,7 +59,7 @@ Upon completion of this programming assignment, students should be able to:
 * Stay up-to-date with the latest announcements by following Piazza closely. Further clarifications will be posted on Piazza via pinned Instructor Notes. Also those updates will be synchronized in this GitHub page.
 
 ### Hints About Programming
-* If you are unsure of the usage of libc functions, please consult their respective Man pages. For example, to obtain the definition and usage of recvfrom, enter man recvfrom in the terminal.
+* If you are unsure of the usage of libc functions, please consult their respective `Man pages`. For example, to obtain the definition and usage of recvfrom, enter `man recvfrom` in the terminal.
 * Another valuable resource for UDP socket programming is [Beej's Guide to Network Programming Using Internet Sockets](https://beej.us/guide/bgnet/html/index.html).
 
 <a name="1"></a>
@@ -69,9 +69,9 @@ Upon completion of this programming assignment, students should be able to:
 `wSender` should read an input file and transmit it to a specified receiver using **UDP** following the WTP protocol described above. The input file should be split into appropriately sized data chunks in each packet, and a `checksum` should be appended to each packet using the 32-bit `CRC` header provided in the starter_files directory. Also, please refer to the WTP specification above to transfer data with its `type` and `seqNum` in the `PacketHeader`.
 
 ### Sliding Window and Timeout
-This reliable transport will be implemented using a sliding window mechanism with a window size (`window-size`) specified in the command line. `wSender` sends all packets in the current sliding window, and `wReceiver` should receive these packets within the **same** window size. `wReceiver` drops packets that are not in sequential order with `seqNum` and only sends back **cumulative** `ACK`s indicating the last sequentially received packet. In the current implementation, there is no need to send an `ACK` for every individual packet.
+This reliable transport will be implemented using a `sliding window` mechanism with a window size (`window-size`) specified in the command line. `wSender` sends all packets in the current sliding window, and `wReceiver` should receive these packets within the **same** window size. `wReceiver` drops packets that are not in sequential `seqNum` and only sends back **cumulative** `ACK`s indicating the last sequentially received packet. In the current implementation, there is no need to send an `ACK` for every individual packet.
 
-To handle situations where data packets are failed to sent or ACK packets are not well received by `wSender`, a 500 milliseconds **retransmission timer** will be implemented to automatically retransmit unacknowledged packets. Specifically, when `wSender` transmits all packets in the current window, it starts the timer and waits for `ACK`s. If all ACKs are received within 500 milliseconds, we should move the window forward to the unsent packets, reset the timer, and send the new packets in the window. Otherwise, if the timer exceeds 500 milliseconds and `wSender` does not receive all `ACK`s from `wReceiver`, the window moves forward to the first packet that needs to be re-transmitted, then we reset the timer, and send all packets in the current window.
+To handle situations where data packets are failed to sent or `ACK` packets are not well received by `wSender`, a 500 milliseconds **retransmission timer** will be implemented to automatically retransmit unacknowledged packets. Specifically, when `wSender` transmits all packets in the current window, it starts the timer and waits for `ACK`s. If all `ACK`s are received within 500 milliseconds, we should move the window forward to the unsent packets, reset the timer, and send the new packets in the window. Otherwise, if the timer exceeds 500 milliseconds and `wSender` does not receive all `ACK`s from `wReceiver`, the window moves forward to the first packet that needs to be re-transmitted, then we reset the timer, and send all packets in the current window.
 
 ### Reliable Transfer Situations
 Under various network abnormal environments, `wSender` is required to ensure reliable data transfer. The tested conditions are outlined in the [autograder](#ag) section.
