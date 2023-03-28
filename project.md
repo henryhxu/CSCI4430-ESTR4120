@@ -16,6 +16,9 @@ You may seek consultation with Henry if you are unsure about the topic.
 ### Presentation:
 Each presentation lasts for 11 minutes in total: 1 minute for set-up, 9 minutes for the actual talk, and 2 minutes for Q&A. Tips for presentation will be added here later.
 
+#### Schedule:
+Visit this [Google sheet](https://docs.google.com/spreadsheets/d/1-VXxDKpX_GXHjOTqWxnClzTrUXEG0GUJLtD-2CmPkoQ/edit?usp=sharing) to check the presentation schedule. Email Henry as soon as you could if you really need to change your time slot.
+
 #### Grading rubics:
 - (2 marks) Content, e.g. breadth and depth of the technical discussion
 - (2 marks) Quality, e.g. the use of English, the story, the logic flow, eye contact, slides design, etc.
