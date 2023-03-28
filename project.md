@@ -16,6 +16,15 @@ You may seek consultation with Henry if you are unsure about the topic.
 ### Presentation:
 Each presentation lasts for 11 minutes in total: 1 minute for set-up, 9 minutes for the actual talk, and 2 minutes for Q&A. Tips for presentation will be added here later.
 
+#### Grading rubics:
+- (2 marks) Content, e.g. breadth and depth of the technical discussion
+- (2 marks) Quality, e.g. the use of English, the story, the logic flow, eye contact, slides design, etc.
+
+#### Tips for a good presentation:
+- On content: Present a clear, logical, and interesting story.
+- On delivering: Speak up, and use the mic. Use simple English words, short sentences. Be enthusiastic about whatever you want to talk about. Do NOT memorize and recite. You only need to remember the key points you want to cover, not the exact sentences. Use eye contact with the audience. Use body language and gestures. Try to engage the audience with jokes or questions.
+- On slide design: Do NOT use small fonts. Keep the slides simple and clear. No fancy background. Put only the necessary contents on slides. Do NOT put every sentence on slides, and read them out. Use examples and animations and figures to visualize the talk. You may even use videos or audio clips if you are confident in controlling time.
+
 ### Expectations:
 An ideal project/presentation should deliver an exciting story. This means it should state the problem clearly, discuss the background and related work (i.e. what's missing here), present your new idea, present any experiments or analysis or proofs to concretely show the improvements, and finally conclude by discussing its limitations and possible future work.
 
