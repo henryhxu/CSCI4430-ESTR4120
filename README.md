@@ -68,8 +68,8 @@ Projects details ~~will be announced in a later time~~ can be found on [this pag
 |9| Mar 20-21| [Network layer: IP routers](lec/lec11.pptx) | [NFV](lec/estr9.pdf) | 4.2
 |10| Mar 27-28 | [Routing fundamentals](lec/lec12.pptx),  <br>[Intra-domain routing](lec/lec13.pptx) | [Security](lec/estr10.pdf) | 5.1, 5.2, 5.3
 |11| **Apr 3, 11** | [Inter-domain routing](lec/lec14.pptx) | Project presentations | 4.3.3
-|12| Apr 17, 18 | [SDN](lec/lec15.pptx), [Link layer](lec/lec16.pptx),  <br>[Final exam](lecture/) | Project presentations | 5.4, 6.1, 6.3, 6.4
-| | | [Course review](lecture/)
+|12| Apr 17, 18 | [SDN](lec/lec15.pptx), [Link layer](lec/lec16.pptx) | Project presentations | 5.4, 6.1, 6.3, 6.4
+| | | [Course review](lec/review.pptx)
 
 ### Tutorials and Assignments
 <!--  ~~11:59:59 p.m., Sat, Jan 29th~~ 18:00:00 p.m., Mon, Jan 31st -->
