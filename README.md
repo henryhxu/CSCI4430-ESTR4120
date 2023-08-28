@@ -7,7 +7,7 @@
   * Mon 2:30pm – 4:15pm, MMW LT2
   * Wed 4:30pm – 5:15pm, LSB LT6
 - Tutorials:
-  * Thu 8:30am – 9:15am, MMW LT2
+  * Wed 3:30pm – 4:15pm, LSB LT6
 
 ### Team
 | Member | Role | Office Hours |
@@ -48,13 +48,13 @@ You may also want to check out this online book:
 <!--  Click on the topic to access the slides, and on the date to view the recording. -->
 
 ### Lectures
-| Week | Date | Topic(s) | ESTR  <br>Topic | Optional Readings  <br>from Textbook |
+| Week | Date | Topic(s) |  Optional Readings  <br>from Textbook |
 | :---: |:----------- | :-----------------: | :------------: | :------------: | 
-|1| Jan 9-10 | [Intro and Overview](lec/lec1.pptx) | [Internet](lec/estr1.pptx) | 1.1, 1.3, 1.4
-|2| Jan 16-17| [Layering](lec/lec2.pptx);  <br>[Sockets and HTTP](lec/lec3.pptx) | [HTTP, HTTPS, P2P](lec/estr2.pptx)  | 1.5, 2.2, 2.4
-|3| Jan 30-31| [CDN, DNS](lec/lec4.pptx) | [CDN, Anycast](lec/estr3.pptx) | 2.2, 2.4
-|4| Feb 6-7| [Video, cloud & datacenters](lec/lec5.pptx),  <br>[Transport layer](lec/lec6.pptx) | [ABR I](lec/estr4.pptx), [ABR II](lec/estr4-puffer.pdf) | 2.6, 3.1, 3.2, 3.3, 3.4
-
+|1| Sep 4; 6 | [Intro and Overview](lec/lec1.pptx) |  1.1, 1.3, 1.4
+|2| ~~Sep 11; 13~~ | Travel to Sigcomm'23, No lecture | 
+|3| Sep 18; 20 | [Layering](lec/lec2.pptx);  <br>[Sockets and HTTP](lec/lec3.pptx) | 1.5, 2.2, 2.4
+|4| Sep 25; 27 | [CDN, DNS](lec/lec4.pptx) | 2.2, 2.4
+|4| Oct ~~2~~; 4 | National day, No lecture; [Video, cloud & datacenters](lec/lec5.pptx) |  2.6
 
 ### Tutorials and Assignments
 <!--  ~~11:59:59 p.m., Sat, Jan 29th~~ 18:00:00 p.m., Mon, Jan 31st -->
