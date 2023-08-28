@@ -60,12 +60,11 @@ You may also want to check out this online book:
 <!--  ~~11:59:59 p.m., Sat, Jan 29th~~ 18:00:00 p.m., Mon, Jan 31st -->
 <!-- assignment-1 -->
 <!-- []() -->
-| Week | Date | Topic | Assignment | Due |
-| :---: | :------------------ | :-----: | :-------------: | :-------------: |
-| 1 | ~~Jan 12~~ | *No tutorial* | | |
-| 2 | Jan 19 | [Socket programming](tutorial/T01/) | [Assignment 1](assignment/assignment-1) | 11:59:59 p.m., Mon, Feb. 13th |
-| 3 | Feb 2 | [Performance metrics](tutorial/T02/) | ||
-| 4 | Feb 9 | [HTTP](tutorial/T03/) | ||
+| Week | Date | Topic | TA | Assignment | Due |
+| :---: | :------------------ | :-----: | :-------------: | :-----: | :-------------: |
+| 1 | Sep 6  | [Socket programming](tutorial/T01/) | Shaofeng | [Assignment 1](assignment/assignment-1) | TBC |
+| 2 | Sep 13 | [Performance metrics](tutorial/T02/) | Shaofeng|||
+| 3 | Sep 20 | [HTTP](tutorial/T03/) | Shaofeng|||
 
 
 
