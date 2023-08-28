@@ -62,7 +62,7 @@ You may also want to check out this online book:
 <!-- []() -->
 | Week | Date | Topic | TA | Assignment | Due |
 | :---: | :------------------ | :-----: | :-------------: | :-----: | :-------------: |
-| 1 | Sep 6  | [Socket programming](tutorial/T01/) | Shaofeng | [Assignment 1](assignment/assignment-1) | TBC |
+| 1 | Sep 6  | [Socket programming](tutorial/T01/) | Shaofeng | [Assignment 1](assignment/assignment-1) | TBA |
 | 2 | Sep 13 | [Performance metrics](tutorial/T02/) | Shaofeng|||
 | 3 | Sep 20 | [HTTP](tutorial/T03/) | Shaofeng|||
 
