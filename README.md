@@ -49,7 +49,7 @@ You may also want to check out this online book:
 
 ### Lectures
 | Week | Date | Topic(s) |  Optional Readings  <br>from Textbook |
-| :---: |:----------- | :-----------------: | :------------: | :------------: | 
+| :---: |:----------- | :-----------------: |  :------------: | 
 |1| Sep 4; 6 | [Intro and Overview](lec/lec1.pptx) |  1.1, 1.3, 1.4
 |2| ~~Sep 11; 13~~ | Travel to Sigcomm'23, No lecture | 
 |3| Sep 18; 20 | [Layering](lec/lec2.pptx);  <br>[Sockets and HTTP](lec/lec3.pptx) | 1.5, 2.2, 2.4
