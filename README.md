@@ -1,26 +1,24 @@
-# CSCI4430/ESTR4120, Computer Networks (Spring 2023)
+# CSCI4430, Computer Networks (Fall 2023)
 
 ## Administrivia
 
 ### Schedule
 - Lectures: 
-  * Mon 12:30pm – 2:15pm, Basic Med Sci Building G18
-  * Tue 4:30pm – 5:15pm, MMW LT1
-  * ESTR4120: Tue 5:30pm - 6:15pm, MMW LT1
+  * Mon 2:30pm – 4:15pm, MMW LT2
+  * Wed 4:30pm – 5:15pm, LSB LT6
 - Tutorials:
   * Thu 8:30am – 9:15am, MMW LT2
-  * Thu 12:30pm – 1:15pm, Basic Med Sci Building G18
 
 ### Team
 | Member | Role | Office Hours |
 | :---------------- | :--- | :----------- |
-| [Xu, Hong (Henry)](https://henryhxu.github.io/) | Prof | Mon 3-5 pm, SHB 914. **By appointments only.** |
-| [Song, Qingyu](mailto:qysong21@cse.cuhk.edu.hk) | Head TA | Wed 9:30-11:30 am, SHB 117. |
-| [Zhang, Jingze](mailto:zhang_jing_ze@link.cuhk.edu.hk) | TA | Tue 2:30-4:30 pm, SHB 117. |
-| [Ding, Wenlong](mailto:wlding@link.cuhk.edu.hk) | TA | Wed 1:30 - 3:30 pm, SHB 117. |
+| [Xu, Hong (Henry)](https://henryhxu.github.io/) | Prof | Mon 10-12 pm, SHB 914. **By appointments only.** |
+| [Ding, Wenlong](mailto:wlding@link.cuhk.edu.hk) | Head TA |  SHB 117. |
+| [Wu, Shaofeng](mailto:sfwu22@cse.cuhk.edu.hk) | TA |  SHB 117. |
+| [Yang, Yitao](mailto:ytyang@cse.cuhk.edu.hk) | TA | SHB 117. |
 
 ### Piazza
-The Piazza page for this course is [here](https://piazza.com/cuhk.edu.hk/spring2023/csci4430estr4120).
+The Piazza page for this course is [here](https://piazza.com/cuhk.edu.hk/fall2023/csci4430estr4120).
 All communication about this course is done over Piazza. This includes questions, discussions, announcements, as well as private messages. 
 The self-signup code is "4430 rocks!".
 
@@ -46,11 +44,6 @@ You may also want to check out this online book:
 
 \*: To encourage tutorial participation, quiz will be conducted at the tutorials randomly. We will randomly pick 5 tutorials and perform a quiz at the end of the tutorial. Each quiz is worth one mark.
 
-### ESTR students
-ESTR 4120 follows the same format as CSCI 4430, but with an additional project to be presented in the second half of the semester. The exams and quizzes will be the same as CSCI 4430.
-
-Projects details ~~will be announced in a later time~~ can be found on [this page](project.md).
-
 ## Schedules
 <!--  Click on the topic to access the slides, and on the date to view the recording. -->
 
@@ -61,15 +54,7 @@ Projects details ~~will be announced in a later time~~ can be found on [this pag
 |2| Jan 16-17| [Layering](lec/lec2.pptx);  <br>[Sockets and HTTP](lec/lec3.pptx) | [HTTP, HTTPS, P2P](lec/estr2.pptx)  | 1.5, 2.2, 2.4
 |3| Jan 30-31| [CDN, DNS](lec/lec4.pptx) | [CDN, Anycast](lec/estr3.pptx) | 2.2, 2.4
 |4| Feb 6-7| [Video, cloud & datacenters](lec/lec5.pptx),  <br>[Transport layer](lec/lec6.pptx) | [ABR I](lec/estr4.pptx), [ABR II](lec/estr4-puffer.pdf) | 2.6, 3.1, 3.2, 3.3, 3.4
-|5| Feb 13-14| [Transport layer](lec/lec6.pptx) | [RDMA](lec/estr5-rdma.ppt) | 3.1, 3.2, 3.3, 3.4
-|6| Feb 20-21| [TCP basics](lec/lec7.pptx),  <br>[Congestion control](lec/lec8.pptx) | [RPC](lec/estr6-rpc.pdf) | 3.5, 3.6
-|7| Feb 27-28| [Congestion control](lec/lec8.pptx), [More on CC](lec/lec9.pptx) | [DCTCP](lec/estr7.pptx) | 3.5, 3.6
-|8| Mar 13-14| [More on CC](lec/lec9.pptx),  <br>[Network layer and IP](lec/lec10.pptx) | [NAT, Tunneling](lec/estr8.ppt) | 3.7; 4.1, 4.3.1, 4.3.2, 4.3.5
-|9| Mar 20-21| [Network layer: IP routers](lec/lec11.pptx) | [NFV](lec/estr9.pdf) | 4.2
-|10| Mar 27-28 | [Routing fundamentals](lec/lec12.pptx),  <br>[Intra-domain routing](lec/lec13.pptx) | [Security](lec/estr10.pdf) | 5.1, 5.2, 5.3
-|11| **Apr 3, 11** | [Inter-domain routing](lec/lec14.pptx) | Project presentations | 4.3.3
-|12| Apr 17, 18 | [SDN](lec/lec15.pptx), [Link layer](lec/lec16.pptx) | Project presentations | 5.4, 6.1, 6.3, 6.4
-| | | [Course review](lec/review.pptx)
+
 
 ### Tutorials and Assignments
 <!--  ~~11:59:59 p.m., Sat, Jan 29th~~ 18:00:00 p.m., Mon, Jan 31st -->
@@ -81,15 +66,7 @@ Projects details ~~will be announced in a later time~~ can be found on [this pag
 | 2 | Jan 19 | [Socket programming](tutorial/T01/) | [Assignment 1](assignment/assignment-1) | 11:59:59 p.m., Mon, Feb. 13th |
 | 3 | Feb 2 | [Performance metrics](tutorial/T02/) | ||
 | 4 | Feb 9 | [HTTP](tutorial/T03/) | ||
-| 5 | Feb 16 | [Select programming](tutorial/T04/) | [Assignment 2](assignment/assignment-2) | 11:59:59 p.m., Fri, Mar. 17th |
-| 6 | Feb 23 |[HTTP Streaming and TCP](tutorial/T05/)|||
-| 7 | Mar 2 |[HTTP Proxy and TCP](tutorial/T06/)|||
-| 8 | Mar 16 |[TCP Congestion Control](tutorial/T07/)|||
-| 9 | Mar 23 |[UDP Socket programming](tutorial/T08/)|[Assignment 3](assignment/assignment-3) | 11:59:59 p.m., Fir, Apr. 28th |
-| 10 | Mar 30 |[WTP Introduction](tutorial/T09/)|||
-| 11 | ~~Apr 6~~ | *No tutorial* |||
-| 12 | Apr 13 |[IP and Network](tutorial/T10/)|||
-| 13 | Apr 20 |[Routing](tutorial/T11/)|||
+
 
 
 ## Course policies
