@@ -63,9 +63,18 @@ You may also want to check out this online book:
 | Week | Date | Topic | TA | Assignment | Due |
 | :---: | :------------------ | :-----: | :-------------: | :-----: | :-------------: |
 | 1 | Sep 6  | [Socket programming](tutorial/T01/) | Shaofeng | [Assignment 1](assignment/assignment-1) | TBA |
-| 2 | Sep 13 | [Performance metrics](tutorial/T02/) | Shaofeng|||
-| 3 | Sep 20 | [HTTP](tutorial/T03/) | Shaofeng|||
-
+| 2 | ~~Sep 13~~ | *No tutorial* ||||
+| 3 | Sep 20 | [Performance metrics](tutorial/T02/) | Shaofeng|||
+| 4 | Sep 27 | [HTTP](tutorial/T03/) | Shaofeng|||
+| 5 | Oct 4  | [Select programming] | Yitao | [Assignmeng 2]||
+| 6 | Oct 11 | [HTTP Streaming and TCP] | Yitao|||
+| 7 | Oct 18 | [HTTP Proxy and TCP] | Yitao |||
+| 8 | Oct 25 | [TCP Congestion Control] | Yitao |||
+| 9 | Mar 23 |[UDP Socket programming]| Wenlong |[Assignment 3] | TBA |
+| 10 | Mar 30 |[WTP Introduction]| Wenlong |||
+| 11 | Apr 13 |[IP and Network]| Wenlong |||
+| 12 | Apr 20 |[Routing]| Wenlong |||
+| 13 | Nov 29 | [Course Review] | TBA |||
 
 
 ## Course policies
