@@ -64,8 +64,8 @@ You may also want to check out this online book:
 | :---: | :------------------ | :-----: | :-------------: | :-----: | :-------------: |
 | 1 | Sep 6  | [Socket programming](tutorial/T01/) | Shaofeng | [Assignment 1](assignment/assignment-1) | TBA |
 | 2 | ~~Sep 13~~ | *No tutorial* ||||
-| 3 | Sep 20 | [Performance metrics] | Shaofeng|||
-| 4 | Sep 27 | [HTTP] | Shaofeng|||
+| 3 | Sep 20 | [Performance metrics](tutorial/T02/) | Shaofeng|||
+| 4 | Sep 27 | [HTTP](tutorial/T03/) | Shaofeng|||
 | 5 | Oct 4  | Select programming | Yitao | Assignmeng 2| TBA |
 | 6 | Oct 11 | HTTP Streaming and TCP | Yitao |||
 | 7 | Oct 18 | HTTP Proxy and TCP | Yitao |||
