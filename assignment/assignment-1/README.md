@@ -1,8 +1,8 @@
 # Assignment 1: Sockets, Mininet, & Performance
 
-### Due: TBC
+### Due: TBA
 
-
+***Note: this assignment may be progressively updated until its release. So please stay tuned for any update.*** 
 
 ## Overview
 
