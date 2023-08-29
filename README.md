@@ -1,4 +1,4 @@
-# CSCI4430, Computer Networks (Fall 2023)
+# CSCI4430 Computer Networks, Fall 2023
 
 ## Administrivia
 
