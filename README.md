@@ -3,11 +3,12 @@
 ## Administrivia
 
 ### Schedule
+**Lectures and tutorials on Wednesdays are swapped and different from CUSIS, so tutorials happen after all lectures of the week.**
 - Lectures: 
   * Mon 2:30pm – 4:15pm, MMW LT2
-  * Wed 4:30pm – 5:15pm, LSB LT6
-- Tutorials:
   * Wed 3:30pm – 4:15pm, LSB LT6
+- Tutorials:
+  * Wed 4:30pm – 5:15pm, LSB LT6
 
 ### Team
 | Member | Role | Office Hours |
