@@ -1,8 +1,8 @@
 # Assignment 1: Sockets, Mininet, & Performance
 
-### Due: TBA
+### Due: 11:59:59 p.m., Fri, Oct. 6th
 
-***Note: this assignment may be progressively updated until its release. So please stay tuned for any update.*** 
+***Note: please stay tuned for any update for the homework announced in Piazza.*** 
 
 ## Overview
 
