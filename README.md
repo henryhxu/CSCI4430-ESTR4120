@@ -14,8 +14,8 @@
 | Member | Role | Office Hours |
 | :---------------- | :--- | :----------- |
 | [Xu, Hong (Henry)](https://henryhxu.github.io/) | Prof | Mon 10-12 pm, SHB 914. **By appointments only.** |
-| [Ding, Wenlong](mailto:wlding@link.cuhk.edu.hk) | Head TA | Wed 1-3 pm, SHB 117. |
-| [Wu, Shaofeng](mailto:sfwu22@cse.cuhk.edu.hk) | TA |  Wed 1-3 pm, SHB 117. |
+| [Ding, Wenlong](mailto:wlding@link.cuhk.edu.hk) | Head TA | Mon 11 am -1 pm, SHB 117. |
+| [Wu, Shaofeng](mailto:sfwu22@cse.cuhk.edu.hk) | TA |  Tue 2-4 pm, SHB 117. |
 | [Yang, Yitao](mailto:ytyang@cse.cuhk.edu.hk) | TA | Wed 1-3 pm, SHB 117. |
 
 ### Piazza
