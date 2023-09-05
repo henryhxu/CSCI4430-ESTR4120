@@ -64,17 +64,17 @@ You may also want to check out this online book:
 | Week | Date | Topic | TA | Assignment | Due |
 | :---: | :------------------ | :-----: | :-------------: | :-----: | :-------------: |
 | 1 | Sep 6  | [Socket programming](tutorial/T01/) | Shaofeng | [Assignment 1](assignment/assignment-1) | 11:59:59 p.m., Fri, Oct. 6th |
-| 2 | ~~Sep 13~~ | *No tutorial* ||||
-| 3 | Sep 20 | [Performance metrics](tutorial/T02/) | Shaofeng|||
-| 4 | Sep 27 | [HTTP](tutorial/T03/) | Shaofeng|||
-| 5 | Oct 4  | Select programming | Yitao | Assignment 2| TBA |
-| 6 | Oct 11 | HTTP Streaming and TCP | Yitao |||
-| 7 | Oct 18 | HTTP Proxy and TCP | Yitao |||
-| 8 | Oct 25 | TCP Congestion Control | Yitao |||
-| 9 | Nov 1 | UDP Socket programming | Wenlong | Assignment 3 | TBA |
-| 10 | Nov 8 | WTP Introduction| Wenlong |||
-| 11 | Nov 15 | IP and Network| Wenlong |||
-| 12 | Nov 22 | Routing | Wenlong |||
+| 2 | Sep 13 |[Performance metrics](tutorial/T02/) | Shaofeng|||
+| 3 | Sep 20 | [HTTP](tutorial/T03/) | Shaofeng|||
+| 4 | Sep 27 | Select programming | Yitao |||
+| 5 | Oct 4  | HTTP Streaming and TCP | Yitao | Assignment 2| TBA |
+| 6 | Oct 11 | HTTP Proxy and TCP | Yitao |||
+| 7 | Oct 18 | TCP Congestion Control | Yitao |||
+| 8 | Oct 25 |  UDP Socket programming | Wenlong |||
+| 9 | Nov 1 | WTP Introduction| Wenlong | Assignment 3 | TBA |
+| 10 | Nov 8 | IP and Network | Wenlong |||
+| 11 | Nov 15 | Routing | Wenlong |||
+| 12 | Nov 22 | Link Layer | Shaofeng |||
 | 13 | Nov 29 | Course Review | TBA |||
 
 
