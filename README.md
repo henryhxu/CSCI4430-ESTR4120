@@ -3,19 +3,20 @@
 ## Administrivia
 
 ### Schedule
+**Lectures and tutorials on Wednesdays are swapped and different from CUSIS, so tutorials happen after all lectures of the week.**
 - Lectures: 
   * Mon 2:30pm – 4:15pm, MMW LT2
-  * Wed 4:30pm – 5:15pm, LSB LT6
-- Tutorials:
   * Wed 3:30pm – 4:15pm, LSB LT6
+- Tutorials:
+  * Wed 4:30pm – 5:15pm, LSB LT6
 
 ### Team
 | Member | Role | Office Hours |
 | :---------------- | :--- | :----------- |
 | [Xu, Hong (Henry)](https://henryhxu.github.io/) | Prof | Mon 10-12 pm, SHB 914. **By appointments only.** |
 | [Ding, Wenlong](mailto:wlding@link.cuhk.edu.hk) | Head TA | Wed 1-3 pm, SHB 117. |
-| [Wu, Shaofeng](mailto:sfwu22@cse.cuhk.edu.hk) | TA |  Wed 2-4 pm, SHB 117. |
-| [Yang, Yitao](mailto:ytyang@cse.cuhk.edu.hk) | TA | Fri 1-3 pm, SHB 117. |
+| [Wu, Shaofeng](mailto:sfwu22@cse.cuhk.edu.hk) | TA |  Wed 1-3 pm, SHB 117. |
+| [Yang, Yitao](mailto:ytyang@cse.cuhk.edu.hk) | TA | Wed 1-3 pm, SHB 117. |
 
 ### Piazza
 The Piazza page for this course is [here](https://piazza.com/cuhk.edu.hk/fall2023/csci4430estr4120).
@@ -51,10 +52,10 @@ You may also want to check out this online book:
 | Week | Date | Topic(s) |  Optional Readings  <br>from Textbook |
 | :---: |:----------- | :-----------------: |  :------------: | 
 |1| Sep 4; 6 | [Intro and Overview](lec/lec1.pptx) |  1.1, 1.3, 1.4
-|2| ~~Sep 11; 13~~ | *Travel to Sigcomm* | 
-|3| Sep 18; 20 | [Layering](lec/lec2.pptx);  [Sockets and HTTP](lec/lec3.pptx) | 1.5, 2.2, 2.4
-|4| Sep 25; 27 | [CDN, DNS](lec/lec4.pptx) | 2.2, 2.4
-|5| Oct ~~2~~; 4 | *National day*; [Video, cloud & datacenters](lec/lec5.pptx) |  2.6
+|2| Sep 11; 13 | [Layering](lec/lec2.pptx);  [Sockets and HTTP](lec/lec3.pptx) | 1.5, 2.2, 2.4
+|3| Sep 18; 20 | [CDN, DNS](lec/lec4.pptx) | 2.2, 2.4
+|4| Sep 25; 27 | [Video, cloud & datacenters](lec/lec5.pptx) |  2.6
+|5| Oct ~~2~~; 4 | *National day*; 
 
 ### Tutorials and Assignments
 <!--  ~~11:59:59 p.m., Sat, Jan 29th~~ 18:00:00 p.m., Mon, Jan 31st -->
@@ -62,7 +63,7 @@ You may also want to check out this online book:
 <!-- []() -->
 | Week | Date | Topic | TA | Assignment | Due |
 | :---: | :------------------ | :-----: | :-------------: | :-----: | :-------------: |
-| 1 | Sep 6  | [Socket programming](tutorial/T01/) | Shaofeng | [Assignment 1](assignment/assignment-1) | TBA |
+| 1 | Sep 6  | [Socket programming](tutorial/T01/) | Shaofeng | [Assignment 1](assignment/assignment-1) | 11:59:59 p.m., Fri, Oct. 6th |
 | 2 | ~~Sep 13~~ | *No tutorial* ||||
 | 3 | Sep 20 | [Performance metrics](tutorial/T02/) | Shaofeng|||
 | 4 | Sep 27 | [HTTP](tutorial/T03/) | Shaofeng|||
