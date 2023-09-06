@@ -2,7 +2,7 @@
 
 ### Due: 11:59:59 p.m., Fri, Oct. 6th
 
-***Note: please stay tuned for any update for the homework announced in Piazza.*** 
+***Note: please stay tuned for any update announced in Piazza for the homework.*** 
 
 ## Overview
 
