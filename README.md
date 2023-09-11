@@ -49,10 +49,10 @@ You may also want to check out this online book:
 <!--  Click on the topic to access the slides, and on the date to view the recording. -->
 
 ### Lectures
-| Week | Date | Topic(s) |  Optional Readings  <br>from Textbook |
-| :---: |:----------- | :-----------------: |  :------------: | 
-|1| Sep 4; 6 | [Intro and Overview](lec/lec1.pptx) |  1.1, 1.3, 1.4
-|2| Sep 11; 13 | [Layering](lec/lec2.pptx);  [Sockets and HTTP](lec/lec3.pptx) | 1.5, 2.2, 2.4
+| Week | Date | Topic(s) |  Optional Readings  <br>from Textbook | Additional Readings
+| :---: |:----------- | :-----------------: |  :------------: | :------------: |
+|1| Sep 4; 6 | [Intro and Overview](lec/lec1.pptx) |  1.1, 1.3, 1.4 |
+|2| Sep 11; 13 | [Layering](lec/lec2.pptx); <br>[Sockets and HTTP](lec/lec3.pptx) | 1.5, 2.2, 2.4 | [End-to-end arguments <br>in system design](https://web.mit.edu/Saltzer/www/publications/endtoend/endtoend.pdf)
 |3| Sep 18; 20 | [CDN, DNS](lec/lec4.pptx) | 2.2, 2.4
 |4| Sep 25; 27 | [Video, cloud & datacenters](lec/lec5.pptx) |  2.6
 |5| Oct ~~2~~; 4 | *National day*; 
