@@ -9,6 +9,7 @@
 ###################
 ###################
 
+# TODO Change to g++ for C++ only
 CXX = gcc
 # TODO For C++ only.
 # CXXFLAGS = -Wconversion -Wall -Werror -Wextra -pedantic 
