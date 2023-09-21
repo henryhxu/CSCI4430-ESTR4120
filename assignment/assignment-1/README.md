@@ -274,8 +274,6 @@ Log in with your CUHK link email and password (will be sent by email after add/d
 
 You need to finish **both** the "Performance metrics" and the "Socket programming" parts.
 
-Please find this [link](https://web.eecs.umich.edu/~justincj/teaching/eecs498/FA2020/autograder.html) for general use of the autograder.
-
 Our autograder runs the following versions of gcc/g++, please make sure your code is compatible
 ```
 $ gcc --version
