@@ -66,7 +66,7 @@ You may also want to check out this online book:
 | 1 | Sep 6  | [Socket programming](tutorial/T01/) | Shaofeng | [Assignment 1](assignment/assignment-1) | 11:59:59 p.m., Fri, Oct. 6th |
 | 2 | Sep 13 |[Performance metrics](tutorial/T02/) | Shaofeng|||
 | 3 | Sep 20 | [HTTP](tutorial/T03/) | Shaofeng|||
-| 4 | Sep 27 | Select programming | Yitao |||
+| 4 | Sep 27 | [Select programming](tutorial/T04/) | Yitao |||
 | 5 | Oct 4  | HTTP Streaming and TCP | Yitao | Assignment 2| TBA |
 | 6 | Oct 11 | HTTP Proxy and TCP | Yitao |||
 | 7 | Oct 18 | TCP Congestion Control | Yitao |||
