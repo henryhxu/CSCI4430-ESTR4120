@@ -96,7 +96,7 @@ If the server port argument is less than 1024 or greater than 65535, you should 
 
 `Error: port number must be in the range of [1024, 65535]`
 
-If the time argument ends up parsing to less than 0, you should print the following and exit:
+If the time argument ends up parsing to less than or equal to 0, you should print the following and exit:
 
 `Error: time argument must be greater than 0`
 
