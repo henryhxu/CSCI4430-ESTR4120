@@ -71,8 +71,8 @@ You may also want to check out this online book:
 | 6 | Oct 11 | HTTP Proxy and TCP | Yitao |||
 | 7 | Oct 18 | TCP Congestion Control | Yitao |||
 | 8 | Oct 25 |  UDP Socket programming | Wenlong |||
-| 9 | Nov 1 | WTP Introduction| Wenlong | Assignment 3 | TBA |
-| 10 | Nov 8 | IP and Network | Wenlong |||
+| 9 | Nov 1 | IP and Network | Shaofeng |||
+| 10 | Nov 8 | WTP Introduction | Wenlong | Assignment 3 | TBA |
 | 11 | Nov 15 | Routing | Wenlong |||
 | 12 | Nov 22 | Link Layer | Shaofeng |||
 | 13 | Nov 29 | Course Review | TBA |||
