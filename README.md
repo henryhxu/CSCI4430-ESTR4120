@@ -63,7 +63,7 @@ You may also want to check out this online book:
 |10| Nov 6; 8 | [Routing basics]; [Intra-domain routing]
 |11| Nov 13; 15 | [Inter-domain routing]
 |12| Nov 20; 22 | [SDN]; [Link layer]
-|13| Nov 27; 29 | [Final review]
+|13| Nov 27; ~~29~~ | [Advanced topics TBD], [Final review]; *Travel to HotNets*
 
 ### Tutorials and Assignments
 <!--  ~~11:59:59 p.m., Sat, Jan 29th~~ 18:00:00 p.m., Mon, Jan 31st -->
