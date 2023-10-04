@@ -55,13 +55,15 @@ You may also want to check out this online book:
 |2| Sep 11; 13 | [Layering](lec/lec2.pptx); <br>[Sockets and HTTP](lec/lec3.pptx) | 1.5, 2.2, 2.4 | [End-to-end arguments <br>in system design](https://web.mit.edu/Saltzer/www/publications/endtoend/endtoend.pdf)
 |3| Sep 18; 20 | [CDN, DNS](lec/lec4.pptx) | 2.2, 2.4
 |4| Sep 25; 27 | [Video, datacenters](lec/lec5.pptx) |  2.6
-|5| Oct ~~2~~; 4 | *National day*; [Video, datacenters](lec/lec5.pptx) | 2.6
+|5| ~~Oct 2~~; Oct 4 | *National day*; [Video, datacenters](lec/lec5.pptx) | 2.6
 |6| Oct 9; 11 | [Transport layer](lec/lec6.pptx) | 3.1–3.4
-|7|  | [TCP Basics()]; [Congestion control()]
-|8|  | [More on CC]
-|9|  | [Network layer and IP]
-|10| | [Routing basics]; [Intra-domain routing]
-|11| | [Inter-domain routing]
+|7| Oct 16; 18 | [TCP Basics]; [Congestion control]
+|8| ~~Oct 23~~; Oct 25 | [More on CC]
+|9| Oct 30; Nov 1 | [Network layer and IP]
+|10| Nov 6; 8 | [Routing basics]; [Intra-domain routing]
+|11| Nov 13; 15 | [Inter-domain routing]
+|12| Nov 20; 22 | [SDN]; [Link layer]
+|13| Nov 27; 29 | [Final review]
 
 ### Tutorials and Assignments
 <!--  ~~11:59:59 p.m., Sat, Jan 29th~~ 18:00:00 p.m., Mon, Jan 31st -->
