@@ -54,9 +54,14 @@ You may also want to check out this online book:
 |1| Sep 4; 6 | [Intro and Overview](lec/lec1.pptx) |  1.1, 1.3, 1.4 |
 |2| Sep 11; 13 | [Layering](lec/lec2.pptx); <br>[Sockets and HTTP](lec/lec3.pptx) | 1.5, 2.2, 2.4 | [End-to-end arguments <br>in system design](https://web.mit.edu/Saltzer/www/publications/endtoend/endtoend.pdf)
 |3| Sep 18; 20 | [CDN, DNS](lec/lec4.pptx) | 2.2, 2.4
-|4| Sep 25; 27 | [Video, cloud & datacenters](lec/lec5.pptx) |  2.6
-|5| Oct ~~2~~; 4 | *National day*; | 2.6
+|4| Sep 25; 27 | [Video, datacenters](lec/lec5.pptx) |  2.6
+|5| Oct ~~2~~; 4 | *National day*; [Video, datacenters](lec/lec5.pptx) | 2.6
 |6| Oct 9; 11 | [Transport layer](lec/lec6.pptx) | 3.1–3.4
+|7|  | [TCP Basics]; [Congestion control]
+|8|  | [More on CC]
+|9|  | [Network layer and IP]
+|10| | [Routing basics]; [Intra-domain routing]
+|11| | [Inter-domain routing]
 
 ### Tutorials and Assignments
 <!--  ~~11:59:59 p.m., Sat, Jan 29th~~ 18:00:00 p.m., Mon, Jan 31st -->
