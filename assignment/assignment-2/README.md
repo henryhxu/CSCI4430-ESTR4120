@@ -17,12 +17,12 @@
 
 ## Overview
 
-Video traffic dominates the Internet. In this project, you will explore how video content distribution networks (CDNs) work. In particular, you will implement adaptive bitrate selection and an HTTP proxy server to stream video at high bit rates from the closest server to a given client.
+Video traffic dominates the Internet. In this project, you will explore how video content distribution networks (CDNs) work. In particular, you will implement adaptive bitrate selection and an HTTP proxy server to stream video from the closest server to a given client at high bit rates.
 
 <img src="real-CDN.png" title="Video CDN in the wild" alt="" width="350" height="256"/>
 
 ### Video CDNs in the Real World
-The figure above depicts a high level view of what this system looks like in the real world. Clients trying to stream a video first issue a DNS query to resolve the service's domain name to an IP address for one of the CDN's content servers. The CDN's authoritative DNS server selects the “best” content server for each particular client. (To simplify our assignment, we do not need to implement the DNS server except for the bonus part.)
+The figure above depicts a high-level view of what this system looks like in the real world. Clients trying to stream a video first issue a DNS query to resolve the service's domain name to an IP address for one of the CDN's content servers. The CDN's authoritative DNS server selects each client's “best” content server. (To simplify our assignment, we do not need to implement the DNS server except for the bonus part.)
 
 Once the client has the IP address for one of the content servers, it begins requesting chunks of the video the user requested. The video is encoded at multiple bitrates; as the client player receives video data, it calculates the throughput of the transfer and requests the highest bitrate the connection can support.
 
@@ -31,7 +31,7 @@ Implementing an entire CDN is difficult; instead, you'll focus on a simplified v
 
 <img src="our-CDN-noDNS.png" title="Video CDN in assignment 2" alt="" width="330" height="111"/>
 
-You'll write the gray-shaded components (the proxy) in the figure above.
+In the figure above, you'll write the gray-shaded components (the proxy).
 
 **Browser.** You'll use an off-the-shelf web browser (Firefox) to play videos served by your CDN (via your proxy).
 
@@ -39,7 +39,7 @@ You'll write the gray-shaded components (the proxy) in the figure above.
 
 **Web Server.** Video content will be served from an off-the-shelf web server (Apache). As with the proxy, you will run multiple instances of Apache on different IP addresses to simulate a CDN with several content servers.
 
-To summarize, in this assignment you will implement the "Bitrate Adaptation in HTTP Proxy" which will determine bitrate for the played video.
+To summarize, in this assignment, you will implement the "Bitrate Adaptation in HTTP Proxy" which will determine bitrate for the played video.
 
 ## Learning Outcomes
 
@@ -60,9 +60,9 @@ After completing this programming assignment, students should be able to:
 <a name="environment"></a>
 
 ## Environment Setup
-[We will provide a VM](https://drive.google.com/file/d/19ZYz86GZf1qx27KOkGRwY1gwem2eCH9E/view?usp=sharing) that has all the components you need to get started on the assignment. While we tried to make the base VM work for all the projects, unfortunately this didn't come to fruition. Starting fresh also ensures a working environment free from accidental changes that may have been made in the first project.
+[We will provide a VM](https://drive.google.com/file/d/19ZYz86GZf1qx27KOkGRwY1gwem2eCH9E/view?usp=sharing) that has all the components you need to get started on the assignment. While we tried to make the base VM work for all the projects, unfortunately, this didn't come to fruition. Starting fresh also ensures a working environment free from accidental changes that may have been made in the first project.
 
-**We encourage you to use VMware instead of Virtual Box for this and following projects, which is more compatible with different OS and is free with personal license.** For Windows and Linux users, we recommend [VMware Workstation Player](https://www.vmware.com/products/workstation-player/workstation-player-evaluation.html). For Mac users, we recommend [VMware Fusion Player](https://customerconnect.vmware.com/web/vmware/evalcenter?p=fusion-player-personal).
+**We encourage you to use VMware instead of Virtual Box for this and the following projects, which is more compatible with different OS and is free with a personal license.** For Windows and Linux users, we recommend [VMware Workstation Player](https://www.vmware.com/products/workstation-player/workstation-player-evaluation.html). For Mac users, we recommend [VMware Fusion Player](https://customerconnect.vmware.com/web/vmware/evalcenter?p=fusion-player-personal).
 
 You may install tools that suit your workflow. **But DO NOT update the software in the VM.** You can find a guide on [how to troubleshoot the VM here](https://eecs388.org/vmguide.html#troubleshooting).
 
@@ -143,14 +143,14 @@ To switch to a higher bitrate, e.g., 1000 Kbps, the proxy should modify the URI 
 
 `/path/to/video/1000Seg2-Frag3`
 
-> **IMPORTANT:** When the video player requests `big_buck_bunny.f4m`, you should instead return `big_buck_bunny_nolist.f4m`. This file does not list the available bitrates, preventing the video player from attempting its own bitrate adaptation. You proxy should, however, fetch `big_buck_bunny.f4m` for itself (i.e., don’t return it to the client) so you can parse the list of available encodings as described above. Your proxy should keep this list of available bitrates in a global container (not on a connection by connection basis).
+> **IMPORTANT:** When the video player requests `big_buck_bunny.f4m`, you should instead return `big_buck_bunny_nolist.f4m`. This file does not list the available bitrates, preventing the video player from attempting its own bitrate adaptation. Your proxy should, however, fetch `big_buck_bunny.f4m` for itself (i.e., don’t return it to the client) so you can parse the list of available encodings as described above. Your proxy should keep this list of available bitrates in a global container (not on a connection by connection basis).
 
 <a name="task2"></a>
 
 ## Task2: Load Balance in HTTP Proxy (Mandatory Part)
-To spread the load of serving videos among a group of servers, most CDNs perform some kind of load balancing. In this task, you will implement load balancing for our HTTP proxy server using a simple round-robin. 
+To spread the load of serving videos among a group of servers, most CDNs perform some kind of load balancing. In this task, you will implement load balancing for our HTTP proxy server using a simple **round-robin**. 
 
-It takes a configuration file as input, which contains a list of video server IP addresses. You need to assign these IP addresses to each video streaming request in a round-robin manner and cycling back to the beginning when all the IP addresses have been exhausted.
+It takes a configuration file as input containing a list of video server IP addresses. You need to assign these IP addresses to each video streaming request round-robin and cycle back to the beginning when all the IP addresses have been exhausted.
 
 Example text file format in `server.txt`:
 
@@ -160,17 +160,17 @@ Example text file format in `server.txt`:
 10.0.0.3
 ```
 
-Assuming we have three clent request video streaming through the proxy. The IP addresses of three client are `10.0.0.5`, `10.0.0.6`, `10.0.0.7`. Your proxy need to set up connections from client1 (`10.0.0.5`) to server1 (`10.0.0.1`), client2 (`10.0.0.6`) to server2 (`10.0.0.2`), and client3 (`10.0.0.7`) to server3 (`10.0.0.3`).
+Assuming we have three clients request video streaming through the proxy. The IP addresses of three clients are `10.0.0.5`, `10.0.0.6`, `10.0.0.7`. Your proxy needs to set up connections from client1 (`10.0.0.5`) to server1 (`10.0.0.1`), client2 (`10.0.0.6`) to server2 (`10.0.0.2`), and client3 (`10.0.0.7`) to server3 (`10.0.0.3`).
 
 <a name="bonus_task"></a>
 
 ## Bonus Task: DNS Load Balancing (Optional Part)
 
-This part is **optional** but you will receive some bonus marks after finishing this part. 
+This part is **optional**, but you will receive some bonus marks after finishing this part. 
 
-Although DNS resolution can be done by a proxy server (just like what we do in [Task2](#task2)). However decoupling Proxy server from a dedicated DNS server is a more common and recommended practice to better suit the scale of today's system and provide greater performance and security guarantee.
+Although DNS resolution can be done by a proxy server (just like what we do in [Task2](#task2)). However, decoupling the Proxy server from a dedicated DNS server is a more common and recommended practice to suit the scale of today's system better and provide greater performance and security guarantee.
 
-A common technique is to configure the CDN's authoritative DNS server to resolve a single domain name to one out of a set of IP addresses belonging to replicated content servers. The DNS server can use various strategies to spread the load, e.g., round-robin, shortest geographic distance, or current server load (which requires servers to periodically report their statuses to the DNS server). 
+A common technique is configuring the CDN's authoritative DNS server to resolve a single domain name to one out of a set of IP addresses belonging to replicated content servers. The DNS server can use various strategies to spread the load, e.g., round-robin, shortest geographic distance, or current server load (which requires servers to report their statuses to the DNS server periodically). 
 
 In this part, you will write a simple DNS server that implements load balancing in **round-robin** method. 
 
@@ -197,14 +197,14 @@ Example text file format in `sample_round_robin.txt`:
 
 ### Running `miProxy`
 
-For **MANDATORY** part (Task1 and Task2), to run the miProxy, please use the with the following command. 
+For **MANDATORY** part (Task1 and Task2), to run the miProxy, please use with the following command. 
 
 `./miProxy --nodns <listen-port> <servers-config> <alpha> <log>`
 
-* `--nodns` Do not use DNS server (reserved for bonus part).
+* `--nodns` Do not use DNS server.
 * `listen-port` The TCP port your proxy should listen on for accepting connections from your browser.
 * `servers-config` A text file containing one Apache server IP per line. This argument specifies where the proxy should request video chunks. Each server is reachable at TCP port `80`.
-* `alpha` A float in the range [0, 1]. Uses this as the coefficient in your EWMA throughput estimate.
+* `alpha` A float in the range [0, 1]. Use this as the coefficient in your EWMA throughput estimate.
 * `log` The file path to which you should log the messages as described below.
 
 For **BOUNS** part, your proxy should obtain the web server's IP address by querying your DNS server for the IP address of the web server. Please use the following command.
@@ -215,18 +215,18 @@ For **BOUNS** part, your proxy should obtain the web server's IP address by quer
 * `listen-port` The TCP port your proxy should listen on for accepting connections from your browser.
 * `dns-ip` IP address of the DNS server.
 * `dns-port` Port number DNS server listens on.
-* `alpha` A float in the range [0, 1]. Uses this as the coefficient in your EWMA throughput estimate.
+* `alpha` A float in the range [0, 1]. Use this as the coefficient in your EWMA throughput estimate.
 * `log` The file path to which you should log the messages as described below.
 
-> *Note: for simplicity, arguments will appear exactly as shown above (for both modes) during testing and grading. Error handling with the arguments is not explicitly tested but is highly recommended. At least printing the correct usage if something went wrong is worthwhile.*
+> *Note: for simplicity, arguments will appear exactly as shown above (for both modes) during testing and grading. Error handling with the arguments is not explicitly tested but is highly recommended. At least printing the correct usage if something goes wrong is worthwhile.*
 > 
 > *Also note: we are using our own implementation of DNS on top of TCP, not UDP.*
 
 ### Implementation Framework
 
-We present a brief framework for [miProxy implementation in C](\starter_files\miProxy\miProxy.c). This framework offers support for parsing basic command line arguments, along with some helper functions and variables.
+We present a brief framework for [miProxy implementation in C](./starter_files/miProxy/miProxy.c). This framework supports parsing basic command line arguments, along with some helper functions and variables.
 
-However, if desired, you may choose to implement it using CPP from scratch.
+However, if desired, you may choose to implement miProxy using CPP from scratch.
 
 > *Note: No plagiarze !*
 
@@ -251,7 +251,7 @@ However, if desired, you may choose to implement it using CPP from scratch.
 
 To play a video through your proxy, you launch an instance of the Apache server, launch Firefox (see above), and point the browser on your VM to the URL `http://<proxy_ip_addr>:<listen-port>/index.html`.
 
-For **Task 1**, to test the implementation of you `miPorxy`, you can try the following commands to test the function (just for reference).
+For **Task 1**, to test your `miPorxy` implementation, you can try the following commands to test the function (for reference only).
 
 ``` shell
 # compile
@@ -268,7 +268,7 @@ sudo python launch_firefox.py 2
 
 ### Testcases
 
-The detailed test case will be released after the assignment is released.
+The detailed test case will be released halfway through the assignment.
 <a name="submission-instr"></a>
 
 ## Submission Instructions
@@ -301,13 +301,13 @@ Our autograder runs the following versions of gcc/g++, please make sure your cod
 $ gcc --version
 gcc (Ubuntu 7.4.0-1ubuntu1~18.04.1) 7.4.0
 Copyright (C) 2017 Free Software Foundation, Inc.
-This is free software; see the source for copying conditions.  There is NO
+This is free software; see the source for copying conditions. There is NO
 warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
 
 $ g++ --version
 g++ (Ubuntu 7.4.0-1ubuntu1~18.04.1) 7.4.0
 Copyright (C) 2017 Free Software Foundation, Inc.
-This is free software; see the source for copying conditions.  There is NO
+This is free software; see the source for copying conditions. There is NO
 warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
 ```
 
