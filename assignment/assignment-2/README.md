@@ -9,7 +9,7 @@
 * [Task1](#task1): Bitrate Adaptation in HTTP Proxy
 * [Task2](#task2): Load Balance in HTTP Proxy
 * [Bonus Task](#bonus_task): DNS Load Balancing
-* [Test Cases](#testing)
+* [Development and Testing Advice](#testing)
 * [Submission Instructions](#submission-instr)
 * [Autograder](#autograder)
 
@@ -91,7 +91,7 @@ You are highly recommended to test your code in Mininet. To be clear, you launch
 
 You may create your own Mininet topology script for testing the package as a whole. A simple Starfish topology (all hosts connected to one switch in the middle) should suffice for testing.
 
-> **NOTE:** For this project, we are disabling caching in the browser. If you do choose to create a new profile, please double check if caching is disabled by going to the `about:config` page and setting both `browser.cache.disk.enable` and `browser.cache.memory.enable` to `false`.
+> *NOTE: For this project, we are disabling caching in the browser. If you do choose to create a new profile, please double check if caching is disabled by going to the `about:config` page and setting both `browser.cache.disk.enable` and `browser.cache.memory.enable` to `false`.*
 
 <a name="task1"></a>
 
@@ -144,6 +144,8 @@ To switch to a higher bitrate, e.g., 1000 Kbps, the proxy should modify the URI 
 `/path/to/video/1000Seg2-Frag3`
 
 > **IMPORTANT:** When the video player requests `big_buck_bunny.f4m`, you should instead return `big_buck_bunny_nolist.f4m`. This file does not list the available bitrates, preventing the video player from attempting its own bitrate adaptation. Your proxy should, however, fetch `big_buck_bunny.f4m` for itself (i.e., don’t return it to the client) so you can parse the list of available encodings as described above. Your proxy should keep this list of available bitrates in a global container (not on a connection by connection basis).
+> 
+> *Note: In Assignment 2, you can find the files that will be transferred by the server in the directory `/var/www`. The `f4m` files for the video `big_buck_bunny.f4m` and `big_buck_bunny_nolist.f4m` are located in the directory `/var/www/vod`. You can check their content if you find it useful.*
 
 <a name="task2"></a>
 
@@ -222,15 +224,8 @@ For **BOUNS** part, your proxy should obtain the web server's IP address by quer
 > 
 > *Also note: we are using our own implementation of DNS on top of TCP, not UDP.*
 
-### Implementation Framework
-
-We present a brief framework for [miProxy implementation in C](./starter_files/miProxy/miProxy.c). This framework supports parsing basic command line arguments, along with some helper functions and variables.
-
-However, if desired, you may choose to implement miProxy using CPP from scratch.
-
-> *Note: No plagiarze !*
-
 ### miProxy Logging
+
 `miProxy` must create a log of its activity in a very particular format. If the log file already exists, `miProxy` overwrites the log. *After each chunk-file response from the web server*, it should append the following line to the log:
 
 `<browser-ip> <chunkname> <server-ip> <duration> <tput> <avg-tput> <bitrate>`
@@ -245,13 +240,27 @@ However, if desired, you may choose to implement miProxy using CPP from scratch.
 
 > *Note: both Mandatory and Optional part have the same logging format!*
 
+
+
 <a name="testing"></a>
 
-## Testing
+## Development and Testing Advice
+
+Assignment 2 is group projects for 2 people. Please be sure to submit your team information on the [AutoGrader](http://projgw.cse.cuhk.edu.hk:2913/web/) website.
+
+
+### Getting Started
+
+We present a brief framework for [miProxy implementation in C](./starter_files/miProxy/miProxy.c). This framework supports parsing basic command line arguments, along with some helper functions and variables.
+
+However, if desired, you may choose to implement miProxy using CPP from scratch.
+
+
+### Test miProxy
 
 To play a video through your proxy, you launch an instance of the Apache server, launch Firefox (see above), and point the browser on your VM to the URL `http://<proxy_ip_addr>:<listen-port>/index.html`.
 
-For **Task 1**, to test your `miPorxy` implementation, you can try the following commands to test the function (for reference only).
+To test your `miPorxy` implementation, you can try the following commands (for reference only).
 
 ``` shell
 # compile
@@ -265,10 +274,12 @@ sudo python launch_firefox.py 1
 sudo python launch_firefox.py 2 
 # you can see the video are playing on different firefox clients
 ```
+> *Note: Remember to reset the time in the VM using `sudo sudo date +%Y%m%d -s 20180101` before testing!*
 
-### Testcases
+### Test Cases
 
 The detailed test case will be released halfway through the assignment.
+
 <a name="submission-instr"></a>
 
 ## Submission Instructions
@@ -289,6 +300,8 @@ $ tree ./p2-<your-SID>/
     ├── launch_firefox.py
     └── start_server.py
 ```
+
+> **IMPORTANT**: Any form of plagiarism, including code that resembles previous years' or others' work, will result in a score of 0.
 
 <a name="autograder"></a>
 

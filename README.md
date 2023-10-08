@@ -75,7 +75,7 @@ You may also want to check out this online book:
 | 2 | Sep 13 |[Performance metrics](tutorial/T02/) | Shaofeng|||
 | 3 | Sep 20 | [HTTP](tutorial/T03/) | Shaofeng|||
 | 4 | Sep 27 | [Select programming](tutorial/T04/) | Yitao |||
-| 5 | Oct 4  | HTTP Streaming and TCP | Yitao | Assignment 2| TBA |
+| 5 | Oct 4  | [HTTP Streaming and TCP](tutorial/T05) | Yitao | [Assignment 2](assignment/assignment-2/)| 11:59:59 p.m., Fri, Nov. 3th |
 | 6 | Oct 11 | HTTP Proxy and TCP | Yitao |||
 | 7 | Oct 18 | TCP Congestion Control | Yitao |||
 | 8 | Oct 25 |  UDP Socket programming | Wenlong |||

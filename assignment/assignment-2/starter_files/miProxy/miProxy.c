@@ -18,16 +18,6 @@
 #define MIN(X, Y) ((X) < (Y) ? (X) : (Y))
 #define MAX(X, Y) ((X) > (Y) ? (X) : (Y))
 
-int get_nonzero_num(int *arr, int NUM)
-{
-    int cnt = 0;
-    for (int i = 0; i < NUM; i++)
-    {
-        cnt += (arr[i] != 0);
-    }
-    return cnt;
-}
-
 int get_listen_socket(struct sockaddr_in *address, int port)
 {
     int yes = 1;
@@ -94,6 +84,7 @@ int main(int argc, char *argv[])
     // process the args
     if (argc == 6)
     {
+        // used in mandatory part
         // no-dns case
         use_dns = 0;
         // listen port for connection
@@ -105,28 +96,32 @@ int main(int argc, char *argv[])
         // log file path
         log_file = argv[5];
 
-         // =========== extract server ips from txt file ==========
+        // =========== extract server ips from txt file ==========
         FILE *fp = fopen(server_file, "r");
-        if (fp == NULL) {
+        if (fp == NULL)
+        {
             perror("open server file error");
             exit(1);
         }
         int file_read_len;
         size_t line_len = 64;
-        char *line_buf = NULL;  // (char *)malloc(100 * sizeof(char));
-        while ((file_read_len = getline(&line_buf, &line_len, fp)) != -1) {
-            if (line_buf[file_read_len - 1] == '\n') {
-               line_buf[file_read_len - 1] = '\0';  
+        char *line_buf = NULL; // (char *)malloc(100 * sizeof(char));
+        while ((file_read_len = getline(&line_buf, &line_len, fp)) != -1)
+        {
+            if (line_buf[file_read_len - 1] == '\n')
+            {
+                line_buf[file_read_len - 1] = '\0';
             }
-            printf("server ip:[%s] cnt: %d\n", line_buf, server_num+1);
+            printf("server ip:[%s] cnt: %d\n", line_buf, server_num + 1);
             server_addrs[server_num] = ntohl(inet_addr(line_buf));
             server_num++;
         }
         fclose(fp);
-        if (server_num <= 0){
-            printf("%s is empty",server_file);
+        if (server_num <= 0)
+        {
+            printf("%s is empty", server_file);
             exit(1);
-        } 
+        }
         // ============= end of extract server ips ===============
 
         FILE *fp_log = fopen(log_file, "w"); // clear up the log file
@@ -228,7 +223,7 @@ int main(int argc, char *argv[])
         // then its an incoming connection, call accept()
         if (FD_ISSET(proxy_listen_socket, &readfds))
         {
-            
+            // TODO: write your code here
         }
         // ===================END OF listen socket========================
         // ===============================================================
@@ -242,6 +237,7 @@ int main(int argc, char *argv[])
         // 4. Handle other request
         for (int i = 0; i < MAXCLIENTS; i++)
         {
+            // TODO: write your code here
         }
         // ==================END OF client socket=======================
         // =============================================================
@@ -255,6 +251,7 @@ int main(int argc, char *argv[])
         // 5. Write out the log
         for (int i = 0; i < MAXCLIENTS; i++)
         {
+            // TODO: write your code here
         }
         // =============END OF server socket======================
         // =======================================================
