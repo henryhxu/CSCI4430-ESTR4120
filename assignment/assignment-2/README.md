@@ -1,6 +1,6 @@
 # Assignment 2: Video Streaming via CDN
 
-### Due: Nov 3rd, 2023 at 11:59 PM
+### Due: Nov. 5th, 2023 at 11:59 PM
 
 ## Table of contents
 * [Overview](#overview)
