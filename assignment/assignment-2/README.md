@@ -283,23 +283,8 @@ The detailed test case will be released halfway through the assignment.
 <a name="submission-instr"></a>
 
 ## Submission Instructions
-Your assigned repository must contain:
 
-* The source code for `miProxy`: all source files and a Makefile for `miProxy` should be in the path `miProxy`. 
-* **DO NOT** need to contain **ANY** `txt` in your submission!
-
-Example final structure of repository:
-```
-$ tree ./p2-<your-SID>/
-./p2-<your-SID>/
-├── miProxy
-│   ├── Makefile <- supports "make clean" and "make"
-│   ├── ** source c or cpp files **
-│   └── miProxy  <- Binary executable present after running "make"
-└── starter_files
-    ├── launch_firefox.py
-    └── start_server.py
-```
+The submission instructions will be released along with the test cases.
 
 > **IMPORTANT**: Any form of plagiarism, including code that resembles previous years' or others' work, will result in a score of 0.
 
