@@ -36,12 +36,12 @@ You may also want to check out this online book:
 - [Computer Networks: A Systems Approach](https://book.systemsapproach.org/index.html), by Larry Peterson and Bruce Davie.
 
 ### Grading
-| Assessment item | CSCI Weight | ESTR Weight
-| :---------------- | :--- | :--- | 
-| Assignments | 55% | 55%
-| Tutorial Quizzes* | 5% | 0%
-| Final Exam | 40% | 40%
-| Project | 0% | 5%
+| Assessment item | CSCI Weight | 
+| :---------------- | :--- | 
+| Assignments | 55% | 
+| Tutorial Quizzes* | 5% |
+| Final Exam | 40% | 
+| Project | 0% |
 
 \*: To encourage tutorial participation, quiz will be conducted at the tutorials randomly. We will randomly pick 5 tutorials and perform a quiz at the end of the tutorial. Each quiz is worth one mark.
 
@@ -56,8 +56,8 @@ You may also want to check out this online book:
 |3| Sep 18; 20 | [CDN, DNS](lec/lec4.pptx) | 2.2, 2.4
 |4| Sep 25; 27 | [Video, datacenters](lec/lec5.pptx) |  2.6
 |5| ~~Oct 2~~; Oct 4 | *National day*; [Video, datacenters](lec/lec5.pptx) | 2.6
-|6| Oct 9; 11 | [Transport layer](lec/lec6.pptx) | 3.1–3.4
-|7| Oct 16; 18 | [TCP Basics]; [Congestion control]
+|6| Oct 9; 11 | [Transport layer](lec/lec6.pptx); [TCP Basics](lec/lec7.pptx) | 3.1–3.4
+|7| Oct 16; 18 | [Congestion control]
 |8| ~~Oct 23~~; Oct 25 | [More on CC]
 |9| Oct 30; Nov 1 | [Network layer and IP]
 |10| Nov 6; 8 | [Routing basics]; [Intra-domain routing]
