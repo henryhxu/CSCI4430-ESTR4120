@@ -197,7 +197,9 @@ Example text file format in `sample_round_robin.txt`:
 ```
 
 
-### Running `miProxy`
+## Running `miProxy`
+
+### Manadatory part
 
 For **MANDATORY** part (Task1 and Task2), to run the miProxy, please use with the following command. 
 
@@ -209,22 +211,7 @@ For **MANDATORY** part (Task1 and Task2), to run the miProxy, please use with th
 * `alpha` A float in the range [0, 1]. Use this as the coefficient in your EWMA throughput estimate.
 * `log` The file path to which you should log the messages as described below.
 
-For **BOUNS** part, your proxy should obtain the web server's IP address by querying your DNS server for the IP address of the web server. Please use the following command.
-
-`./miProxy --dns <listen-port> <dns-ip> <dns-port> <alpha> <log>`
-
-* `--dns` This flag indicates the proxy will use DNS to obtain the web server IP.
-* `listen-port` The TCP port your proxy should listen on for accepting connections from your browser.
-* `dns-ip` IP address of the DNS server.
-* `dns-port` Port number DNS server listens on.
-* `alpha` A float in the range [0, 1]. Use this as the coefficient in your EWMA throughput estimate.
-* `log` The file path to which you should log the messages as described below.
-
-> *Note: for simplicity, arguments will appear exactly as shown above (for both modes) during testing and grading. Error handling with the arguments is not explicitly tested but is highly recommended. At least printing the correct usage if something goes wrong is worthwhile.*
-> 
-> *Also note: we are using our own implementation of DNS on top of TCP, not UDP.*
-
-### miProxy Logging
+#### miProxy Logging
 
 `miProxy` must create a log of its activity in a very particular format. If the log file already exists, `miProxy` overwrites the log. *After each chunk-file response from the web server*, it should append the following line to the log:
 
@@ -238,7 +225,41 @@ For **BOUNS** part, your proxy should obtain the web server's IP address by quer
 * `avg-tput` Your current EWMA throughput estimate in Kbps.
 * `bitrate` The bitrate your proxy requested for this chunk in Kbps.
 
-> *Note: both Mandatory and Optional part have the same logging format!*
+> *Note: for simplicity, arguments will appear exactly as shown above during testing and grading. Error handling with the arguments is not explicitly tested but is highly recommended. At least printing the correct usage if something goes wrong is worthwhile.*
+> 
+> *Also note: both Mandatory and Bouns part have the same logging format!*
+> 
+### Bouns part
+
+For **BOUNS** part, you need to write a DNS server and modify the miProxy. Your proxy should obtain the web server's IP address by querying your DNS server for the IP address of the web server. Please use the following command.
+
+`./miProxy --dns <listen-port> <dns-ip> <dns-port> <alpha> <log>`
+
+* `--dns` This flag indicates the proxy will use DNS to obtain the web server IP.
+* `listen-port` The TCP port your proxy should listen on for accepting connections from your browser.
+* `dns-ip` IP address of the DNS server.
+* `dns-port` Port number DNS server listens on.
+* `alpha` A float in the range [0, 1]. Use this as the coefficient in your EWMA throughput estimate.
+* `log` The file path to which you should log the messages as described below.
+
+
+> 
+> *Note: we are using our own implementation of DNS on top of TCP, not UDP.*
+
+#### Nameserver
+
+To operate `nameserver`, it should be invoked as follows:
+
+`./nameserver --rr <port> <servers> <log>`
+
+* `--rr` This flag specifies that `nameserver` will operate in the round-robin based load balancing scheme.
+* `port` The port on which your server should listen.
+* `servers` A text file containing a list of IP addresses, one per line, belonging to content servers if `--rr` is specified. 
+* `log` The file path to which you should log the messages as described below.
+
+> *Note: for simplicity, arguments will appear exactly as shown above during testing and grading. Error handling with the arguments is not explicitly tested but is highly recommended. At least printing the correct usage if something went wrong is worthwhile.*
+
+
 
 
 
