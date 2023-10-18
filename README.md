@@ -57,8 +57,8 @@ You may also want to check out this online book:
 |4| Sep 25; 27 | [Video, datacenters](lec/lec5.pptx) |  2.6
 |5| ~~Oct 2~~; Oct 4 | *National day*; [Video, datacenters](lec/lec5.pptx) | 2.6
 |6| Oct 9; 11 | [Transport layer](lec/lec6.pptx); [TCP Basics](lec/lec7.pptx) | 3.1–3.4
-|7| Oct 16; 18 | [TCP Basics](lec/lec7.pptx); [Congestion control](lec/lec8.pptx) | 3.5, 3.6
-|8| ~~Oct 23~~; Oct 25 | [More on CC]
+|7| Oct 16; 18 | [TCP Basics](lec/lec7.pptx); [Congestion control](lec/lec8.pptx) | 3.5, 3.6 | [BBR](https://github.com/google/bbr)
+|8| ~~Oct 23~~; Oct 25 | [More on CC](lec/lec9.pptx)
 |9| Oct 30; Nov 1 | [Network layer and IP]
 |10| Nov 6; 8 | [Routing basics]; [Intra-domain routing]
 |11| Nov 13; 15 | [Inter-domain routing]
