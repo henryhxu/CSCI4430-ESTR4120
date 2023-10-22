@@ -299,7 +299,9 @@ sudo python launch_firefox.py 2
 
 ### Test Cases
 
-The detailed test case will be released halfway through the assignment.
+~~The detailed test case will be released halfway through the assignment.~~ 
+
+**Update: Test Cases for mandatory and bonus part have been released, check [here](./test_cases/README.md) for details.**
 
 <a name="submission-instr"></a>
 
