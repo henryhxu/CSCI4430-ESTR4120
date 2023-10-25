@@ -78,7 +78,7 @@ You may also want to check out this online book:
 | 5 | Oct 4  | [HTTP Streaming and TCP](tutorial/T05) | Yitao | [Assignment 2](assignment/assignment-2/)| 11:59:59 p.m., Sun, Nov. 5th |
 | 6 | Oct 11 | [HTTP Proxy](tutorial/T06) | Yitao |||
 | 7 | Oct 18 | [TCP Congestion Control](tutorial/T07) | Yitao |||
-| 8 | Oct 25 |  UDP Socket programming | Wenlong |||
+| 8 | Oct 25 | [UDP Socket programming](tutorial/T08) | Wenlong |||
 | 9 | Nov 1 | IP and Network | Shaofeng |||
 | 10 | Nov 8 | WTP Introduction | Wenlong | Assignment 3 | TBA |
 | 11 | Nov 15 | Intra-Domain Routing | Wenlong |||
