@@ -14,7 +14,7 @@
 | Member | Role | Office Hours |
 | :---------------- | :--- | :----------- |
 | [Xu, Hong (Henry)](https://henryhxu.github.io/) | Prof | Mon 10-12 pm, SHB 914. **By appointments only.** |
-| [Ding, Wenlong](mailto:wlding@link.cuhk.edu.hk) | Head TA | Thu 2-4 pm, SHB 117. |
+| [Ding, Wenlong](mailto:wlding@link.cuhk.edu.hk) | Head TA | Wed 10-12 am, SHB 117. |
 | [Wu, Shaofeng](mailto:sfwu22@cse.cuhk.edu.hk) | TA |  Tue 2-4 pm, SHB 117. |
 | [Yang, Yitao](mailto:ytyang@cse.cuhk.edu.hk) | TA | Thu 10-12 am, SHB 117. |
 
@@ -36,12 +36,12 @@ You may also want to check out this online book:
 - [Computer Networks: A Systems Approach](https://book.systemsapproach.org/index.html), by Larry Peterson and Bruce Davie.
 
 ### Grading
-| Assessment item | CSCI Weight | ESTR Weight
-| :---------------- | :--- | :--- | 
-| Assignments | 55% | 55%
-| Tutorial Quizzes* | 5% | 0%
-| Final Exam | 40% | 40%
-| Project | 0% | 5%
+| Assessment item | CSCI Weight | 
+| :---------------- | :--- | 
+| Assignments | 55% | 
+| Tutorial Quizzes* | 5% |
+| Final Exam | 40% | 
+| Project | 0% |
 
 \*: To encourage tutorial participation, quiz will be conducted at the tutorials randomly. We will randomly pick 5 tutorials and perform a quiz at the end of the tutorial. Each quiz is worth one mark.
 
@@ -54,8 +54,16 @@ You may also want to check out this online book:
 |1| Sep 4; 6 | [Intro and Overview](lec/lec1.pptx) |  1.1, 1.3, 1.4 |
 |2| Sep 11; 13 | [Layering](lec/lec2.pptx); <br>[Sockets and HTTP](lec/lec3.pptx) | 1.5, 2.2, 2.4 | [End-to-end arguments <br>in system design](https://web.mit.edu/Saltzer/www/publications/endtoend/endtoend.pdf)
 |3| Sep 18; 20 | [CDN, DNS](lec/lec4.pptx) | 2.2, 2.4
-|4| Sep 25; 27 | [Video, cloud & datacenters](lec/lec5.pptx) |  2.6
-|5| Oct ~~2~~; 4 | *National day*; 
+|4| Sep 25; 27 | [Video, datacenters](lec/lec5.pptx) |  2.6
+|5| ~~Oct 2~~; Oct 4 | *National day*; [Video, datacenters](lec/lec5.pptx) | 2.6
+|6| Oct 9; 11 | [Transport layer](lec/lec6.pptx); [TCP Basics](lec/lec7.pptx) | 3.1–3.4
+|7| Oct 16; 18 | [TCP Basics](lec/lec7.pptx); [Congestion control](lec/lec8.pptx) | 3.5, 3.6 | [BBR](https://github.com/google/bbr)
+|8| ~~Oct 23~~; Oct 25 | *Double Ninth Festival*; [More on CC](lec/lec9.pptx)
+|9| Oct 30; Nov 1 | [Network layer and IP]
+|10| Nov 6; 8 | [Routing basics]; [Intra-domain routing]
+|11| Nov 13; 15 | [Inter-domain routing]
+|12| Nov 20; 22 | [SDN]; [Link layer]
+|13| Nov 27; ~~29~~ | [Advanced topics TBD], [Final review]; <br>*Travel to HotNets*
 
 ### Tutorials and Assignments
 <!--  ~~11:59:59 p.m., Sat, Jan 29th~~ 18:00:00 p.m., Mon, Jan 31st -->
@@ -66,16 +74,16 @@ You may also want to check out this online book:
 | 1 | Sep 6  | [Socket programming](tutorial/T01/) | Shaofeng | [Assignment 1](assignment/assignment-1) | 11:59:59 p.m., Fri, Oct. 6th |
 | 2 | Sep 13 |[Performance metrics](tutorial/T02/) | Shaofeng|||
 | 3 | Sep 20 | [HTTP](tutorial/T03/) | Shaofeng|||
-| 4 | Sep 27 | Select programming | Yitao |||
-| 5 | Oct 4  | HTTP Streaming and TCP | Yitao | Assignment 2| TBA |
-| 6 | Oct 11 | HTTP Proxy and TCP | Yitao |||
-| 7 | Oct 18 | TCP Congestion Control | Yitao |||
+| 4 | Sep 27 | [Select programming](tutorial/T04/) | Yitao |||
+| 5 | Oct 4  | [HTTP Streaming and TCP](tutorial/T05) | Yitao | [Assignment 2](assignment/assignment-2/)| 11:59:59 p.m., Sun, Nov. 5th |
+| 6 | Oct 11 | [HTTP Proxy](tutorial/T06) | Yitao |||
+| 7 | Oct 18 | [TCP Congestion Control](tutorial/T07) | Yitao |||
 | 8 | Oct 25 |  UDP Socket programming | Wenlong |||
-| 9 | Nov 1 | WTP Introduction| Wenlong | Assignment 3 | TBA |
-| 10 | Nov 8 | IP and Network | Wenlong |||
-| 11 | Nov 15 | Routing | Wenlong |||
-| 12 | Nov 22 | Link Layer | Shaofeng |||
-| 13 | Nov 29 | Course Review | TBA |||
+| 9 | Nov 1 | IP and Network | Shaofeng |||
+| 10 | Nov 8 | WTP Introduction | Wenlong | Assignment 3 | TBA |
+| 11 | Nov 15 | Intra-Domain Routing | Wenlong |||
+| 12 | Nov 22 | Inter-Domain Routing | Wenlong |||
+| 13 | Nov 29 | Link Layer | Wenlong |||
 
 
 ## Course policies
