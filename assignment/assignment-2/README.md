@@ -259,7 +259,15 @@ To operate `nameserver`, it should be invoked as follows:
 
 > *Note: for simplicity, arguments will appear exactly as shown above during testing and grading. Error handling with the arguments is not explicitly tested but is highly recommended. At least printing the correct usage if something went wrong is worthwhile.*
 
+#### Nameserver Logging
 
+Your DNS server must log its activity in a specific format. If the log specified by the user already exists, your DNS server overwrites the log. *After each* valid DNS query it services, it should append the following line to the log:
+
+`<proxy-ip> <response-ip> <client-ip>`
+
+* `proxy-ip` The IP address of the proxy who sent the query.
+* `response-ip` The IP address you return in response.
+* `client-ip` The IP address of the browser client which will connect to the server of the IP address response.
 
 
 
