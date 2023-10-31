@@ -58,8 +58,8 @@ You may also want to check out this online book:
 |5| ~~Oct 2~~; Oct 4 | *National day*; [Video, datacenters](lec/lec5.pptx) | 2.6
 |6| Oct 9; 11 | [Transport layer](lec/lec6.pptx); [TCP Basics](lec/lec7.pptx) | 3.1–3.4
 |7| Oct 16; 18 | [TCP Basics](lec/lec7.pptx); [Congestion control](lec/lec8.pptx) | 3.5, 3.6 | [BBR](https://github.com/google/bbr)
-|8| ~~Oct 23~~; Oct 25 | *Double Ninth Festival*; [More on CC](lec/lec9.pptx)
-|9| Oct 30; Nov 1 | [Network layer and IP]
+|8| ~~Oct 23~~; Oct 25 | *Double Ninth Festival*; [More on CC](lec/lec9.pptx) | 3.7
+|9| Oct 30; Nov 1 | [Network layer and IP](lec/lec10.pptx) | 4.1, 4.3.1, 4.3.2, 4.3.5
 |10| Nov 6; 8 | [Routing basics]; [Intra-domain routing]
 |11| Nov 13; 15 | [Inter-domain routing]
 |12| Nov 20; 22 | [SDN]; [Link layer]
@@ -78,7 +78,7 @@ You may also want to check out this online book:
 | 5 | Oct 4  | [HTTP Streaming and TCP](tutorial/T05) | Yitao | [Assignment 2](assignment/assignment-2/)| 11:59:59 p.m., Sun, Nov. 5th |
 | 6 | Oct 11 | [HTTP Proxy](tutorial/T06) | Yitao |||
 | 7 | Oct 18 | [TCP Congestion Control](tutorial/T07) | Yitao |||
-| 8 | Oct 25 |  UDP Socket programming | Wenlong |||
+| 8 | Oct 25 | [UDP Socket programming](tutorial/T08) | Wenlong |||
 | 9 | Nov 1 | IP and Network | Shaofeng |||
 | 10 | Nov 8 | WTP Introduction | Wenlong | Assignment 3 | TBA |
 | 11 | Nov 15 | Intra-Domain Routing | Wenlong |||
