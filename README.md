@@ -79,7 +79,7 @@ You may also want to check out this online book:
 | 6 | Oct 11 | [HTTP Proxy](tutorial/T06) | Yitao |||
 | 7 | Oct 18 | [TCP Congestion Control](tutorial/T07) | Yitao |||
 | 8 | Oct 25 | [UDP Socket programming](tutorial/T08) | Wenlong |||
-| 9 | Nov 1 | IP and Network | Shaofeng |||
+| 9 | Nov 1 | [IP and Network](tutorial/T09) | Shaofeng |||
 | 10 | Nov 8 | WTP Introduction | Wenlong | Assignment 3 | TBA |
 | 11 | Nov 15 | Intra-Domain Routing | Wenlong |||
 | 12 | Nov 22 | Inter-Domain Routing | Wenlong |||
