@@ -61,7 +61,7 @@ You may also want to check out this online book:
 |8| ~~Oct 23~~; Oct 25 | *Double Ninth Festival*; [More on CC](lec/lec9.pptx) | 3.7
 |9| Oct 30; Nov 1 | [Network layer and IP](lec/lec10.pptx) | 4.1, 4.3.1, 4.3.2, 4.3.5
 |10| Nov 6; 8 | [Routing basics](lec/lec11.pptx); [Intra-domain routing](lec/lec12.pptx) | 5.1, 5.2, 5.3
-|11| Nov 13; 15 | [Inter-domain routing]
+|11| Nov 13; 15 | [Inter-domain routing](lec/lec13.pptx) | 5.4
 |12| Nov 20; 22 | [SDN]; [Link layer]
 |13| Nov 27; ~~29~~ | [Advanced topics TBD], [Final review]; <br>*Travel to HotNets*
 
