@@ -1,6 +1,6 @@
 # Assignment 3: Reliable Transport
 
-### Due: April 21, 2023, 11:59 PM HKT
+### Due: December 8, 2023, 11:59 PM HKT
 
 Special notes:
 * This is a group assignment with identical grouping information as Assignment 2.
@@ -79,7 +79,7 @@ This reliable transport will be implemented using a `sliding window` mechanism w
 To handle situations where data packets are failed to sent or `ACK` packets are not well received by `wSender`, a 500 milliseconds **retransmission timer** will be implemented to automatically retransmit unacknowledged packets. Specifically, when `wSender` transmits all packets in the current window, it starts the timer and waits for `ACK`s. If all `ACK`s are received within 500 milliseconds, we should move the window forward to the unsent packets, reset the timer, and send the new packets in the window. Otherwise, if the timer exceeds 500 milliseconds and `wSender` does not receive all `ACK`s from `wReceiver`, the window moves forward to the first packet that needs to be re-transmitted, then we reset the timer, and send all packets in the current window.
 
 ### Reliable Transfer Situations
-Under various network abnormal environments, `wSender` is required to ensure reliable data transfer. The tested conditions are outlined in the [autograder](#ag) section.
+Under various network abnormal environments, `wSender` is required to ensure reliable data transfer. The tested conditions are outlined in the [Test Cases Clarifications](#1-3) section.
 
 ### Running `wSender`
 `wSender` should be invoked as follows:
@@ -132,7 +132,7 @@ Example:
 
 *Note: During testing and grading, the arguments in the command line exactly match the format shown above. It is crucial to ensure that your implementation can correctly parse the command line arguments in the specified format.*
 
-
+<a name="1-3"></a>
 ## Part 1-3: Test Cases Clarifications (10 Point Each)
 The program is required to ensure reliable data transfer in any network condition, and the autograder tests the following aspects of the base part of `WTP`:
 1. Corruption of packet data (wrong checksum, etc.).  
@@ -238,12 +238,12 @@ For `WTP` optimizations: 11 10 12 13 14 18 15 17 19
 
 
 <a name="subinstr"></a>
-## Submission Instructions
+# Submission Instructions
 Your assigned repository must contain:
 * `Makefile`(s) to compile all executables with one single `make` command.
 * The source code of all parts for `WTP`: 
 	* WTP Base part source code for `wSender` and `wReceiver`. (c or cpp code) All source files should be in the folder called `WTP-base`. Binary executables of `wSender` and `wReceiver` should be in the same directory after running `make`.
-	* WTP Optimizations part source code for `wSender` and `wReceiver` (Mandatory and Bonus part should be the same code together). (c or cpp code) All source files should be in the folder called `WTP-opt`. Binary executables of `wSender` and `wReceiver` should be in the same directory after running `make`.
+	* WTP Optimizations part source code for `wSender` and `wReceiver` (Mandatory and Bonus parts should be the same code, and the autograder will identify certain parts according to test cases). (c or cpp code) All source files should be in the folder called `WTP-opt`. Binary executables of `wSender` and `wReceiver` should be in the same directory after running `make`.
 * Finally create the required submission tarball named `p3.tar.gz` by running the command `tar acvf p3.tar.gz p3`, where `p3` is the name of your code directory. (To compressed the tarball, you can use `tar axvf p3.tar.gz`).
 
 Example final structure of repository:
@@ -268,14 +268,8 @@ $ tree -I "<ignore-pattern>" ./p3/
     └── crc32.h
 ```
 
-Your assigned repository must contain:
-
-* The source code for `wSender` and `wReceiver` from parts 1 and 2: all source files should be in a folder called `WTP-base`.
-  * Subdirectories for source code within `WTP-base` are perfectly fine, as long as the executables are present after running `make` in `WTP-base`
-* The source code for `wSender` and `wReceiver` from part 3: all source files should be in a folder called `WTP-opt`. Subdirectories are fine here too.
-
 <a name="ag"></a>
-## Implementation Environment & Autograder
+# Implementation Environment & Autograder
 
 Submit the tarball `p3.tar.gz` containing all your code, including the basic and bonus parts, through the autograder (ensure your code directory is named `p3`). Press submit, and your results will show on that page `My Submissions` once grading is finished. The autograder will be released halfway through the assignment.
 
