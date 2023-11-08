@@ -192,7 +192,7 @@ The program is required to ensure reliable data transfer in any network conditio
 
 For everyone to better understand the differences between `WTP` base and optimization programs under different packet loss situations before officially starting to code, please answer the following questions **(20 points in total)**. Below are two sample questions and answers.
 
-#### Example Question 1 (sender side): Assume that the sliding window size of the sender and the receiver is now 5, and the packet seqNum starts from 1. Among them, packet 3 is lost when sending the first window; after receiving the ACK, the window starts to slide, and packet 7 is lost when sending the second window. No other unreliable situations exist. Please write down the seqNum of the ACKs received by the sender in both `WTP` base and optimization programs until the 7th packet is received, and the window range after receiving the ACKs.
+#### Example Question 1 (sender side): Assume that the sliding window size of the sender and the receiver is now 5, and the packet seqNum starts from 1. Among them, packet 3 is lost when sending the first window; after receiving the ACK, the window starts to slide, and packet 7 is lost when sending a certain window. No other unreliable situations exist. Please write down the seqNum of the ACKs received by the sender in both `WTP` base and optimization programs until the 7th packet is received, and the window range after receiving the ACKs.
 
 Answers: 
 
@@ -224,7 +224,7 @@ For `WTP` optimizations: 11 10 12 13 14 18 15 17 19
 ### Please answer the following questions in the example format (5 points each):
 #### Question 1: Assume that the sliding window size of the sender and the receiver is now 7, and the packet seqNum starts from 1. Among them, packet 3 is lost when sending the first window. No other unreliable situations exist. Please write down the seqNum of the ACKs received by the sender in both `WTP` base and optimization programs until the 5th packet is received, and the window range after receiving the ACKs.
 
-#### Question 2: Assume that the sliding window size of the sender and the receiver is now 3, and the packet seqNum starts from 1. Among them, packet 2 is lost when sending the first window; after receiving the ACK, the window starts to slide, and packet 4 is lost when sending the second window. No other unreliable situations exist. Please write down the seqNum of the ACKs received by the sender in both `WTP` base and optimization programs until the 5th packet is received, and the window range after receiving the ACKs.
+#### Question 2: Assume that the sliding window size of the sender and the receiver is now 3, and the packet seqNum starts from 1. Among them, packet 2 is lost when sending the first window; after receiving the ACK, the window starts to slide, and packet 4 is lost when sending a certain window. No other unreliable situations exist. Please write down the seqNum of the ACKs received by the sender in both `WTP` base and optimization programs until the 5th packet is received, and the window range after receiving the ACKs.
 
 
 #### Question 3: Assuming that the size of the sliding window of the receiver is 5, the next expected seqNum is 2, and the Packet seqNum currently received in turn is [3 2 4 1 9]. What are the packets that will be received/buffered in the receiver? Please write down there seqNum in turn for both `WTP` base and optimization programs.
