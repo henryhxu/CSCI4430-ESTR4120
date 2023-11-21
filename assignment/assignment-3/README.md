@@ -151,7 +151,7 @@ This section requires optimization of `WTP` by modifying the previously written 
 
 <img src="base_case.PNG" title="Inefficient transfer of data" alt="" width="250" height="250"/>
 
-In this scenario, previous `wReceiver` sends two ACKs with the sequence number set to 0, indicating the next expected packet. Consequently, `wSender` experiences a timeout and retransmits packets 0, 1, and 2. However, since `wReceiver` has already received and buffered packets 1 and 2, there is an avoidable retransmission of these packets.
+In this scenario, previous (WTP base) `wReceiver` sends one ACK with the sequence number set to 0, indicating the next expected packet. Consequently, `wSender` experiences a timeout and retransmits packets 0, 1, and 2. However, since `wReceiver` has already received and buffered packets 1 and 2, there is an avoidable retransmission of these packets.
 
 To address such situations, it is necessary to modify both `wReceiver` and `wSender` programs accordingly (save these revised versions in a folder named `WTP-opt`):
 
