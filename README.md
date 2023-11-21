@@ -83,7 +83,7 @@ You may also want to check out this online book:
 | 10 | Nov 8 | [WTP Introduction](tutorial/T10) | Wenlong | [Assignment 3](assignment/assignment-3/) | 11:59:59 p.m., Fri, Dec. 8th |
 | 11 | Nov 15 | [Intra-Domain Routing](tutorial/T11) | Wenlong |||
 | 12 | Nov 22 | [Inter-Domain Routing](tutorial/T12) | Wenlong |||
-| 13 | Nov 29 | Link Layer | Wenlong |||
+| 13 | Nov 29 | [Link Layer](tutorial/T13)| Wenlong |||
 
 
 ## Course policies
