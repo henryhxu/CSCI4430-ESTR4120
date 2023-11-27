@@ -63,7 +63,7 @@ You may also want to check out this online book:
 |10| Nov 6; 8 | [Routing basics](lec/lec11.pptx); [Intra-domain routing](lec/lec12.pptx) | 5.1, 5.2, 5.3
 |11| Nov 13; 15 | [Inter-domain routing](lec/lec13.pptx) | 5.4
 |12| Nov 20; 22 | [SDN](lec/lec14.pptx); [Link layer](lec/lec15.pptx) | 4.4, 5.5, 6.1, 6.3, 6.4
-|13| Nov 27; ~~29~~ | [Advanced topics TBD], [Final review]; <br>*Travel to HotNets*
+|13| Nov 27; ~~29~~ | [Final review](lec/review.pptx); <br>*Travel to HotNets*
 
 ### Tutorials and Assignments
 <!--  ~~11:59:59 p.m., Sat, Jan 29th~~ 18:00:00 p.m., Mon, Jan 31st -->
