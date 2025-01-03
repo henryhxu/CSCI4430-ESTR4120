@@ -14,9 +14,9 @@
 | Member | Role | Office Hours |
 | :---------------- | :--- | :----------- |
 | [Xu, Hong (Henry)](https://henryhxu.github.io/) | Prof | Mon 10-12 pm, SHB 914. **By appointments only.** |
-| [Wu, Shaofeng](mailto:sfwu22@cse.cuhk.edu.hk) | Head TA |  Tue 2-4 pm, SHB 117. |
-| [Yang, Yitao](mailto:ytyang@cse.cuhk.edu.hk) | TA | Thu 10-12 am, SHB 117. |
-| [Feng, Yicheng](mailto:yichengfeng@link.cuhk.edu.hk) | TA | Thu 10-12 am, SHB 117. |
+| [Wu, Shaofeng](mailto:sfwu22@cse.cuhk.edu.hk) | Head TA |   |
+| [Yang, Yitao](mailto:ytyang@cse.cuhk.edu.hk) | TA |  |
+| [Feng, Yicheng](mailto:yichengfeng@link.cuhk.edu.hk) | TA |  |
 
 ### Piazza
 - The Piazza page for this course is: [https://piazza.com/cuhk.edu.hk/fall2023/csci4430estr4120](https://piazza.com/cuhk.edu.hk/spring2025/csci4430).
@@ -39,7 +39,7 @@ You may also want to check out this online book:
 ### Grading
 | Assessment item | CSCI Weight | 
 | :---------------- | :--- | 
-| Assignments | 40% | 
+| Assignments | 45% | 
 | Tutorial Quizzes* | 5% |
 | Final Exam | 50% | 
 
@@ -51,19 +51,11 @@ You may also want to check out this online book:
 ### Lectures
 | Week | Date | Topic(s) |  Textbook Readings  | Additional Readings
 | :---: |:----------- | :-----------------: |  :------------: | :------------: |
-|1| Sep 4; 6 | [Intro and Overview](lec/lec1.pptx) |  1.1, 1.3, 1.4 |
-|2| Sep 11; 13 | [Layering](lec/lec2.pptx); <br>[Sockets and HTTP](lec/lec3.pptx) | 1.5, 2.2, 2.4 | [End-to-end arguments <br>in system design](https://web.mit.edu/Saltzer/www/publications/endtoend/endtoend.pdf)
-|3| Sep 18; 20 | [CDN, DNS](lec/lec4.pptx) | 2.2, 2.4
-|4| Sep 25; 27 | [Video, datacenters](lec/lec5.pptx) |  2.6
-|5| ~~Oct 2~~; Oct 4 | *National day*; [Video, datacenters](lec/lec5.pptx) | 2.6
-|6| Oct 9; 11 | [Transport layer](lec/lec6.pptx); [TCP Basics](lec/lec7.pptx) | 3.1–3.4
-|7| Oct 16; 18 | [TCP Basics](lec/lec7.pptx); [Congestion control](lec/lec8.pptx) | 3.5, 3.6 | [BBR](https://github.com/google/bbr)
-|8| ~~Oct 23~~; Oct 25 | *Double Ninth Festival*; [More on CC](lec/lec9.pptx) | 3.7
-|9| Oct 30; Nov 1 | [Network layer and IP](lec/lec10.pptx) | 4.1, 4.3.1, 4.3.2, 4.3.5
-|10| Nov 6; 8 | [Routing basics](lec/lec11.pptx); [Intra-domain routing](lec/lec12.pptx) | 5.1, 5.2, 5.3
-|11| Nov 13; 15 | [Inter-domain routing](lec/lec13.pptx) | 5.4
-|12| Nov 20; 22 | [SDN](lec/lec14.pptx); [Link layer](lec/lec15.pptx) | 4.4, 5.5, 6.1, 6.3, 6.4
-|13| Nov 27; 29 | [Final review](lec/review.pptx); <br>*Q&A by TAs; Travel to HotNets*
+|1| Jan 6; 8 | [Intro and Overview](lec/lec1.pptx) |  1.1, 1.3, 1.4 |
+|2| Jan 13; 15 | [Layering](lec/lec2.pptx); <br>[Sockets and HTTP](lec/lec3.pptx) | 1.5, 2.2, 2.4 | [End-to-end arguments <br>in system design](https://web.mit.edu/Saltzer/www/publications/endtoend/endtoend.pdf)
+|3| Jan 20; 22 | [CDN, DNS](lec/lec4.pptx) | 2.2, 2.4
+|4| Jan 27 | [Video, datacenters](lec/lec5.pptx) |  2.6
+
 
 ### Tutorials and Assignments
 <!--  ~~11:59:59 p.m., Sat, Jan 29th~~ 18:00:00 p.m., Mon, Jan 31st -->
@@ -71,19 +63,9 @@ You may also want to check out this online book:
 <!-- []() -->
 | Week | Date | Topic | TA | Assignment | Due |
 | :---: | :------------------ | :-----: | :-------------: | :-----: | :-------------: |
-| 1 | Sep 6  | [Socket programming](tutorial/T01/) | Shaofeng | [Assignment 1](assignment/assignment-1) | 11:59:59 p.m., Fri, Oct. 6th |
-| 2 | Sep 13 |[Performance metrics](tutorial/T02/) | Shaofeng|||
-| 3 | Sep 20 | [HTTP](tutorial/T03/) | Shaofeng|||
-| 4 | Sep 27 | [Select programming](tutorial/T04/) | Yitao |||
-| 5 | Oct 4  | [HTTP Streaming and TCP](tutorial/T05) | Yitao | [Assignment 2](assignment/assignment-2/)| 11:59:59 p.m., Sun, Nov. 5th |
-| 6 | Oct 11 | [HTTP Proxy](tutorial/T06) | Yitao |||
-| 7 | Oct 18 | [TCP Congestion Control](tutorial/T07) | Yitao |||
-| 8 | Oct 25 | [UDP Socket programming](tutorial/T08) | Wenlong |||
-| 9 | Nov 1 | [IP and Network](tutorial/T09) | Shaofeng |||
-| 10 | Nov 8 | [WTP Introduction](tutorial/T10) | Wenlong | [Assignment 3](assignment/assignment-3/) | 11:59:59 p.m., Fri, Dec. 8th |
-| 11 | Nov 15 | [Intra-Domain Routing](tutorial/T11) | Wenlong |||
-| 12 | Nov 22 | [Inter-Domain Routing](tutorial/T12) | Wenlong |||
-| 13 | Nov 29 | [Link Layer](tutorial/T13)| Wenlong |||
+| 1 | Jan 8  | [Socket programming](tutorial/T01/) | Yicheng | [Assignment 1](assignment/assignment-1) |  |
+| 2 | Jan 13 |[Performance metrics](tutorial/T02/) | Yicheng |||
+| 3 | Jan 20 | [HTTP](tutorial/T03/) | Yicheng |||
 
 
 ## Course policies
