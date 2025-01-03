@@ -16,7 +16,7 @@
 | [Xu, Hong (Henry)](https://henryhxu.github.io/) | Prof | Tue 10-12 pm, SHB 914. **By appointments only.** |
 | [Wu, Shaofeng](mailto:sfwu22@cse.cuhk.edu.hk) | Head TA | Thu 12:30-2:30 pm, SHB 117. |
 | [Yang, Yitao](mailto:ytyang@cse.cuhk.edu.hk) | TA |  |
-| [Feng, Yicheng](mailto:yichengfeng@link.cuhk.edu.hk) | TA | Wed 12:30-2:30 pm, SHB 904. |
+| [Feng, Yicheng](mailto:yichengfeng@link.cuhk.edu.hk) | TA | Wed 1:30-3:30 pm, SHB 904. |
 
 ### Piazza
 - The Piazza page for this course is: [https://piazza.com/cuhk.edu.hk/spring2025/csci4430](https://piazza.com/cuhk.edu.hk/spring2025/csci4430).
