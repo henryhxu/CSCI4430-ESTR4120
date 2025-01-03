@@ -1,9 +1,9 @@
-# CSCI4430 Computer Networks, Fall 2023
+# CSCI4430 Computer Networks, Spring 2025
 
 ## Administrivia
 
 ### Schedule
-**Lectures and tutorials on Wednesdays are swapped and different from CUSIS, so tutorials happen after all lectures of the week.**
+
 - Lectures: 
   * Mon 2:30pm – 4:15pm, MMW LT2
   * Wed 3:30pm – 4:15pm, LSB LT6
@@ -14,8 +14,7 @@
 | Member | Role | Office Hours |
 | :---------------- | :--- | :----------- |
 | [Xu, Hong (Henry)](https://henryhxu.github.io/) | Prof | Mon 10-12 pm, SHB 914. **By appointments only.** |
-| [Ding, Wenlong](mailto:wlding@link.cuhk.edu.hk) | Head TA | Wed 10-12 am, SHB 117. |
-| [Wu, Shaofeng](mailto:sfwu22@cse.cuhk.edu.hk) | TA |  Tue 2-4 pm, SHB 117. |
+| [Wu, Shaofeng](mailto:sfwu22@cse.cuhk.edu.hk) | Head TA |  Tue 2-4 pm, SHB 117. |
 | [Yang, Yitao](mailto:ytyang@cse.cuhk.edu.hk) | TA | Thu 10-12 am, SHB 117. |
 
 ### Piazza
