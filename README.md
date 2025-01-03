@@ -19,7 +19,7 @@
 | [Feng, Yicheng](mailto:yichengfeng@link.cuhk.edu.hk) | TA |  |
 
 ### Piazza
-- The Piazza page for this course is: [https://piazza.com/cuhk.edu.hk/fall2023/csci4430estr4120](https://piazza.com/cuhk.edu.hk/spring2025/csci4430).
+- The Piazza page for this course is: [https://piazza.com/cuhk.edu.hk/spring2025/csci4430](https://piazza.com/cuhk.edu.hk/spring2025/csci4430).
 - The self-signup code is "cuhk_networking".
 - All communication about this course is done over Piazza. This includes questions, discussions, announcements, as well as private messages. 
 - Please use Piazza for all communication and do NOT email the teaching team directly.
