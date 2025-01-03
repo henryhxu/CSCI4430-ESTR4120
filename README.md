@@ -5,10 +5,10 @@
 ### Schedule
 
 - Lectures: 
-  * Mon 2:30pm – 4:15pm, MMW LT2
-  * Wed 3:30pm – 4:15pm, LSB LT6
+  * Mon 4:30pm – 6:15pm, Y.C. Liang Hall 103
+  * Wed 12:30pm – 1:15pm, LSB LT2
 - Tutorials:
-  * Wed 4:30pm – 5:15pm, LSB LT6
+  * Wed 1:30pm – 2:15pm, LSB LT2
 
 ### Team
 | Member | Role | Office Hours |
@@ -16,6 +16,7 @@
 | [Xu, Hong (Henry)](https://henryhxu.github.io/) | Prof | Mon 10-12 pm, SHB 914. **By appointments only.** |
 | [Wu, Shaofeng](mailto:sfwu22@cse.cuhk.edu.hk) | Head TA |  Tue 2-4 pm, SHB 117. |
 | [Yang, Yitao](mailto:ytyang@cse.cuhk.edu.hk) | TA | Thu 10-12 am, SHB 117. |
+| [Feng, Yicheng](mailto:yichengfeng@link.cuhk.edu.hk) | TA | Thu 10-12 am, SHB 117. |
 
 ### Piazza
 The Piazza page for this course is [here](https://piazza.com/cuhk.edu.hk/fall2023/csci4430estr4120).
@@ -37,9 +38,9 @@ You may also want to check out this online book:
 ### Grading
 | Assessment item | CSCI Weight | 
 | :---------------- | :--- | 
-| Assignments | 55% | 
+| Assignments | 40% | 
 | Tutorial Quizzes* | 5% |
-| Final Exam | 40% | 
+| Final Exam | 50% | 
 
 \*: To encourage tutorial participation, quiz will be conducted at the tutorials randomly. We will randomly pick 5 tutorials and perform a quiz at the end of the tutorial. Each quiz is worth one mark.
 
