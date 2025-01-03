@@ -19,9 +19,10 @@
 | [Feng, Yicheng](mailto:yichengfeng@link.cuhk.edu.hk) | TA | Thu 10-12 am, SHB 117. |
 
 ### Piazza
-The Piazza page for this course is [here](https://piazza.com/cuhk.edu.hk/fall2023/csci4430estr4120).
-All communication about this course is done over Piazza. This includes questions, discussions, announcements, as well as private messages. 
-The self-signup code is "4430 rocks!".
+- The Piazza page for this course is: [https://piazza.com/cuhk.edu.hk/fall2023/csci4430estr4120](https://piazza.com/cuhk.edu.hk/spring2025/csci4430).
+- The self-signup code is "cuhk_networking".
+- All communication about this course is done over Piazza. This includes questions, discussions, announcements, as well as private messages. 
+- Please use Piazza for all communication and do NOT email the teaching team directly.
 
 ## Course outline
 CSCI 4430 takes a top-down approach to explore how networks operate and how network applications work. We study how popular distributed systems such as video streaming, content distribution networks (CDNs), and cloud computing systems work in the application layer. We explore how these applications transfer data between their components and end users over the Internet using transport layer protocols such as TCP and UDP. We go deeper to understand what keeps the transport layer running; specifically, we look at how packets are routed and how routers work. Finally, we dive one more layer down to understand how the link layer transfer packets using Ethernet. In addition to cutting through the layers and covering the basics, we learn about the state-of-the-art topics in networking such as datacenter networks, software-defined networking (SDN), and (time permits) programmable networks.
