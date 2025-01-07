@@ -6,8 +6,6 @@
 
 ## Overview
 
-`iPerf` is a common tool used to measure network bandwidth. You will write your own version of this tool in C/C++ using sockets. You will then use your tools to measure the performance of virtual networks in Mininet and explain how link characteristics and multiplexing impact performance.
-
 * [Part 1](#part1): Mininet Tutorial
 * [Part 2](#part2): Measurements in Mininet
 * [Part 3](#part3): Real-World Latency (Bonus marks, optional)
