@@ -13,19 +13,13 @@ The file `helpers.h` contains functions to help you set up the `sockaddr_in` str
 
 ## Instructions
 
-### Download code
-
-```
-$ git clone https://github.com/eecs482/bgreeves-socket-example.git
-```
-
 ### Compile examples
 
 The Makefile has recipes to build the client and server programs on CAEN or Mac OS using:
 
 ```
 # To build
-$ cd starter-code
+$ cd solution
 $ make client
 $ make server
 
