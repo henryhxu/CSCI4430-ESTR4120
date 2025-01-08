@@ -52,7 +52,7 @@ You may also want to check out this online book:
 | Week | Date | Topic(s) |  Textbook Readings  | Additional Readings
 | :---: |:----------- | :-----------------: |  :------------: | :------------: |
 |1| Jan 6; 8 | [Intro and Overview](lectures/lec1.pptx) |  1.1, 1.3, 1.4 |
-|2| Jan 13; 15 | [Layering](lec/lec2.pptx); <br>[Sockets and HTTP](lec/lec3.pptx) | 1.5, 2.2, 2.4 | [End-to-end arguments <br>in system design](https://web.mit.edu/Saltzer/www/publications/endtoend/endtoend.pdf)
+|2| Jan 13; 15 | [Layering](lectures/lec2.pptx); <br>[Sockets and HTTP](lec/lec3.pptx) | 1.5, 2.2, 2.4 | [End-to-end arguments <br>in system design](https://web.mit.edu/Saltzer/www/publications/endtoend/endtoend.pdf)
 |3| Jan 20; 22 | [CDN, DNS](lec/lec4.pptx) | 2.2, 2.4
 |4| Jan 27 | [Video, datacenters](lec/lec5.pptx) |  2.6
 
