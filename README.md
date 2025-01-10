@@ -64,8 +64,8 @@ You may also want to check out this online book:
 | Week | Date | Topic | TA | Assignment | Due |
 | :---: | :------------------ | :-----: | :-------------: | :-----: | :-------------: |
 | 1 | Jan 8  | [Socket programming](tutorial/T01/) | Yicheng | [Assignment 1](assignment/assignment-1) | 11:59:59 p.m., Sat, Jan. 25th |
-| 2 | Jan 13 |[Performance metrics](tutorial/T02/) | Yicheng |||
-| 3 | Jan 20 | [HTTP](tutorial/T03/) | Yicheng |||
+| 2 | Jan 15 |[Performance metrics](tutorial/T02/) | Yicheng |||
+| 3 | Jan 22 | [HTTP](tutorial/T03/) | Yicheng |||
 
 
 ## Course policies
