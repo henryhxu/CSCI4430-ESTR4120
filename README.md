@@ -79,6 +79,6 @@ You may also want to check out this online book:
   * Each assignment, after the mark is released, comes with a "consoling" period when students can approach TAs to clarify their mistakes or any other reasons that may justify re-marking their solution. After the consoling period, the corresponding assignment marks are regarded as final and will not be changed. No further "appeal" requests are allowed after the consoling period.
 - Lecture and tutorial:
   * Be on time. Set your mobile device to vibration/silient mode.
-  * Feel free to ask questions and raise comments during the lecture, but we can only entertain short questions and discussions in-class.
+  * Feel free to ask questions and raise comments during the lecture.
   * Longer and deeper discussion and questions can happen in tutorials.
   * Follow University's regulations on COVID, including use of masks, hand sanitization, seating with social distance, etc.
