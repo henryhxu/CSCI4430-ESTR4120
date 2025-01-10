@@ -20,9 +20,10 @@
 
 ### Piazza
 - The Piazza page for this course is: [https://piazza.com/cuhk.edu.hk/spring2025/csci4430](https://piazza.com/cuhk.edu.hk/spring2025/csci4430).
-- The self-signup code is "cuhk_networking".
-- All communication about this course is done over Piazza. This includes questions, discussions, announcements, as well as private messages. 
+- The self-signup code is "cuhk_networking". You may associate your account with multiple emails, so you can receive notifications from all of them.
+- All communication about this course is done over Piazza. This includes questions, discussions, announcements, as well as private messages, about all matters of this course. 
 - Please use Piazza for all communication and do NOT email the teaching team directly.
+- No announcements will be made from Blackboard.
 
 ## Course outline
 CSCI 4430 takes a top-down approach to explore how networks operate and how network applications work. We study how popular distributed systems such as video streaming, content distribution networks (CDNs), and cloud computing systems work in the application layer. We explore how these applications transfer data between their components and end users over the Internet using transport layer protocols such as TCP and UDP. We go deeper to understand what keeps the transport layer running; specifically, we look at how packets are routed and how routers work. Finally, we dive one more layer down to understand how the link layer transfer packets using Ethernet. In addition to cutting through the layers and covering the basics, we learn about the state-of-the-art topics in networking such as datacenter networks, software-defined networking (SDN), and (time permits) programmable networks.
@@ -70,10 +71,12 @@ You may also want to check out this online book:
 
 ## Course policies
 - Assignments: 
-  * No late submission.
+  * No late submission. Late submissions result in zero marks.
   * Grace tokens: You have **2** grace tokens, each can be used to give you a 24-hr extension on one assignment. You can apply at most 1 grace token on each assignment at your own discretion. This gives you some flexibility to cope with your own schedule.
-  * According to the University’s regulation, every assignment must be accompanied by a signed declaration of originality; submissions without it will receive zero mark.
+  * According to the University’s regulation, every assignment must be accompanied by a signed declaration of originality; submissions without it will receive zero marks.
   * The declaration form is available [here](https://www.cuhk.edu.hk/policy/academichonesty/Eng_htm_files_(2013-14)/declaration_en.doc).
+  * Each assignment may have its own specific submission instructions. Failing to follow those instructions will prevent us from locating your submission and grading it, leading to zero marks.
+  * Each assignment, after the mark is released, comes with a "consoling" period when students can approach TAs to clarify their mistakes or any other reasons that may justify re-marking their solution. After the consoling period, the corresponding assignment marks are regarded as final and will not be changed. No further "appeal" requests are allowed after the consoling period.
 - Lecture and tutorial:
   * Be on time. Set your mobile device to vibration/silient mode.
   * Feel free to ask questions and raise comments during the lecture, but we can only entertain short questions and discussions in-class.
