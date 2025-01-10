@@ -73,7 +73,7 @@ You may also want to check out this online book:
 - Assignments:
   * We use Autograder as the only submission entry of all assignments by default. Please refer to annoucements on Piazza for any guides for special scenarios.
   * No late submission. Late submissions result in zero marks.
-  * "Make-up" submissions after deadline are considered as late submissions and we do not accept any of these submission to ensure fairness. "Make-up" submission includes but is not limited to the following scenarios:
+  * "Make-up" submissions after deadline are considered as late submissions and we do not accept any of these submissions to ensure fairness. "Make-up" submissions include but are not limited to the following scenarios:
       * Forget to submit assignment to Autograder and attempt to submit the assignment via email after deadline. 
       * Attempt to submit a newer version of the assignment via email after deadline.
       * ...
