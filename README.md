@@ -70,13 +70,18 @@ You may also want to check out this online book:
 
 
 ## Course policies
-- Assignments: 
+- Assignments:
+  * We use Autograder as the only submission entry of all assignments by default. Please refer to annoucements on Piazza for any guides for special scenarios.
   * No late submission. Late submissions result in zero marks.
+  * "Make-up" submissions after deadline are considered as late submissions and we do not accept any of these submission to ensure fairness. "Make-up" submission includes but is not limited to the following scenarios:
+      * Forget to submit assignment to Autograder and attempt to submit the assignment via email after deadline. 
+      * Attempt to submit a newer version of the assignment via email after deadline.
+      * ...
   * Grace tokens: You have **2** grace tokens, each can be used to give you a 24-hr extension on one assignment. You can apply at most 1 grace token on each assignment at your own discretion. This gives you some flexibility to cope with your own schedule.
   * According to the University’s regulation, every assignment must be accompanied by a signed declaration of originality; submissions without it will receive zero marks.
   * The declaration form is available [here](https://www.cuhk.edu.hk/policy/academichonesty/Eng_htm_files_(2013-14)/declaration_en.doc).
   * Each assignment may have its own specific submission instructions. Failing to follow those instructions will prevent us from locating your submission and grading it, leading to zero marks.
-  * Each assignment, after the mark is released, comes with a "consoling" period when students can approach TAs to clarify their mistakes or any other reasons that may justify re-marking their solution. After the consoling period, the corresponding assignment marks are regarded as final and will not be changed. No further "appeal" requests are allowed after the consoling period.
+  * Each assignment, after the mark is released, comes with a one-week "consoling" period when students can approach the [marking TAs](#tutorials-and-assignments) to clarify their mistakes or any other reasons that may justify re-marking their solution. After the consoling period, the corresponding assignment marks are regarded as final and will not be changed. No further "appeal" requests are allowed after the consoling period.
 - Lecture and tutorial:
   * Be on time. Set your mobile device to vibration/silient mode.
   * Be respectiful and considerate to other partipants of the class, including all students, and members of the teaching team.
