@@ -37,7 +37,7 @@ You are welcome to try to set up your own testing environment using the methods 
 
 ### Mininet Walkthrough
 
-After obtaining a Mininet VM, it is recommended that you explore the following sections of the standard Mininet walkthrough to enhance your understanding [Mininet walkthrough](http://mininet.org/walkthrough/):
+After obtaining a Mininet VM, it is recommended that you explore the following sections of the standard [Mininet walkthrough](http://mininet.org/walkthrough/) to enhance your understanding:
 
 * All of Part 1, except the section "Start Wireshark"
 * The first four sections of Part 2—"Run a Regression Test", "Changing Topology Size and Type", "Link variations", and "Adjustable Verbosity"
