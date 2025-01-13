@@ -23,6 +23,23 @@ After completing this programming assignment, students should be able to:
 
 <a name="part1"></a>
 
+### VM System and Tools Versions
+
+The following table lists the versions of the system and tools pre-installed in the VM ([VirtualBox](https://www.virtualbox.org/), [VM image](https://drive.google.com/file/d/15yiMqmsdN9P8O_H_M_DrURkETPwPpxZF/view?usp=sharing)). Students who are not using the provided VM should ensure their system matches these versions as closely as possible to maintain compatibility.
+
+| Software/Tool | Version                                | Notes                                           |
+|---------------|----------------------------------------|------------------------------------------------|
+| **OS**        | Ubuntu 18.04.5 LTS (Bionic Beaver)    |                                                 |
+| **GCC**       | 7.5.0                                 | gcc (Ubuntu 7.5.0-3ubuntu1~18.04)              |
+| **G++**       | 7.5.0                                 | g++ (Ubuntu 7.5.0-3ubuntu1~18.04)              |
+| **Make**      | 4.1                                   | Built for x86_64-pc-linux-gnu                  |
+| **Mininet**   | 2.3.0d6                               |                                                 |
+| **Python**    | 2.7.17                                | Ensure compatibility with Python 2.7           |
+| **Ping**      | iputils-s20161105                     | Version included in Ubuntu 18.04               |
+| **Iperf**     | 2.0.10                                | With pthreads support                          |
+
+
+
 ## Part 1: Mininet Tutorial
 
 First, you will learn how to use Mininet to create virtual networks and run simple experiments. According to the [Mininet website](http://mininet.org/), *Mininet creates a realistic virtual network, running real kernel, switch and application code, on a single machine (VM or native), in seconds, with a single command.* We will use Mininet in programming assignments throughout the semester.
