@@ -33,7 +33,8 @@ The following table lists the versions of the system and tools pre-installed in 
 | **GCC**       | 7.5.0                                 | gcc (Ubuntu 7.5.0-3ubuntu1~18.04)              |
 | **G++**       | 7.5.0                                 | g++ (Ubuntu 7.5.0-3ubuntu1~18.04)              |
 | **Make**      | 4.1                                   | Built for x86_64-pc-linux-gnu                  |
-| **Mininet**   | 2.3.0d6                               |                                                 |
+| **Mininet**   | 2.3.0d6                               |                                                |
+| **openvswitch-switch**   | 2.9.5-0ubuntu0.18.04.1     | amd64                                          |
 | **Python**    | 2.7.17                                | Ensure compatibility with Python 2.7           |
 | **Ping**      | iputils-s20161105                     | Version included in Ubuntu 18.04               |
 | **Iperf**     | 2.0.10                                | With pthreads support                          |
