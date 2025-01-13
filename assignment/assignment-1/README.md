@@ -290,7 +290,7 @@ Log in with your CUHK link email and password (will be sent by email after add/d
 
 You need to finish **both** the "Performance metrics" and the "Socket programming" parts.
 
-Our autograder runs the following versions of gcc/g++, please make sure your code is compatible (the versions of gcc/g++ provided in the VM image are confirmed to be compatible based on our testing.).
+Our autograder runs the following versions of gcc/g++, please make sure your code is compatible (the versions of gcc/g++ provided in the VM image are confirmed to be compatible based on our testing).
 ```
 $ gcc --version
 gcc (Ubuntu 11.2.0-16ubuntu1) 11.2.0
