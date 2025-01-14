@@ -40,6 +40,44 @@ The following table lists the versions of the system and tools pre-installed in 
 | **Iperf**     | 2.0.10                                | With pthreads support                          |
 
 
+### Docker images
+
+We also provide a Docker image to help you to start the measument test in asg1 for thoes who cannot well use VM image afore-mentioned. Here is the instruction to use the Docker image.
+
+### Get Docker Image
+
+To pull the Docker image from Docker Hub, use the following command:
+
+```bash
+docker pull fengyicheng/csci4430-asg1
+```
+
+### Run Docker Container
+
+To start the container with the necessary configurations, use the following command:
+
+```bash
+docker run -it --rm --privileged -e DISPLAY \
+-v /tmp/.X11-unix:/tmp/.X11-unix \
+-v /lib/modules:/lib/modules \
+fengyicheng/csci4430-asg1
+```
+
+### Run mininet script
+
+Within the container, please note that Python 3 is used instead of Python 2. This is due to configuration upgrades, but it will not affect the autograding process.
+```bash
+cd /root/
+python3 assignment1_topology.py
+```
+
+### Others
+The above Docker image has been thoroughly tested on Ubuntu hosts. For students using macOS, it is recommended to first install VirtualBox and create an Ubuntu virtual machine. You can then use Docker within this Ubuntu environment. Alternatively, you may use the servers provided by the CSE department for undergraduate students.
+For detailed instructions on using Docker, please refer to the [official Docker documentation](https://docs.docker.com/).
+
+Feel free to ask if you need further guidance!
+
+
 
 ## Part 1: Mininet Tutorial
 
