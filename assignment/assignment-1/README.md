@@ -23,7 +23,7 @@ After completing this programming assignment, students should be able to:
 
 <a name="part1"></a>
 
-### VM System and Tools Versions
+## VM System and Tools Versions
 
 The following table lists the versions of the system and tools pre-installed in the VM ([VirtualBox](https://www.virtualbox.org/), [VM image](https://drive.google.com/file/d/15yiMqmsdN9P8O_H_M_DrURkETPwPpxZF/view?usp=sharing)). Students who are not using the provided VM should ensure their system matches these versions as closely as possible to maintain compatibility.
 
@@ -40,7 +40,7 @@ The following table lists the versions of the system and tools pre-installed in 
 | **Iperf**     | 2.0.10                                | With pthreads support                          |
 
 
-### Docker images
+## Docker images
 
 We also provide a Docker image to help you to start the measument test in asg1 for thoes who cannot well use VM image afore-mentioned. Here is the instruction to use the Docker image.
 
