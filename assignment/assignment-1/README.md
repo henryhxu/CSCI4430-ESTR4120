@@ -40,7 +40,7 @@ The following table lists the versions of the system and tools pre-installed in 
 | **Iperf**     | 2.0.10                                | With pthreads support                          |
 
 
-## Docker images
+## Docker images (supporting  amd64)
 
 We also provide a Docker image to help you to start the measument test in asg1 for thoes who cannot well use VM image afore-mentioned. Here is the instruction to use the Docker image.
 
