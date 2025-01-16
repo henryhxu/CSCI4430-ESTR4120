@@ -78,6 +78,63 @@ For detailed instructions on using Docker, please refer to the [official Docker 
 Feel free to ask if you need further guidance!
 
 
+## Setting Up Mininet Environment on macOS (Apple Silicon)
+This guide explains how to configure a Mininet environment for Assignment 1 on macOS with Apple Silicon chips using VirtualBox and Ubuntu.
+
+### Tested Environment
+
+- **macOS**: Sequoia 15.1.1  
+* **Chip**: Apple M2  
+
+---
+
+### Step 1: Download and Install VirtualBox
+
+1. Visit the [VirtualBox official website](https://www.virtualbox.org/).
+2. Download the latest version of VirtualBox for **macOS / Apple Silicon hosts**.
+
+---
+
+### Step 2: Download and Set Up Ubuntu ARM Image
+
+1. Download the **ARM architecture ISO image** of Ubuntu from the official [Ubuntu website](https://ubuntu.com/download).
+2. Follow the tutorial to create a new virtual machine and install Ubuntu:
+   [How to run Ubuntu Desktop on a virtual machine using VirtualBox](https://ubuntu.com/tutorials/how-to-run-ubuntu-desktop-on-a-virtual-machine-using-virtualbox#2-create-a-new-virtual-machine).
+3. Note: Ubuntu Desktop currently has limited support for ARM CPUs (as of version 25.04), so we recommend using the Ubuntu Server image instead.
+
+---
+
+### Step 3: Configure Ubuntu Environment
+
+Once you have successfully booted into the Ubuntu environment, execute the following commands to configure Mininet:
+
+1. **Install Dependencies:**
+
+   ```bash
+   sudo apt-get install -y mininet
+   sudo apt-get install -y python-pip
+   sudo apt-get install -y openvswitch-testcontroller
+   ```
+
+2. **Clean Up Environment (Optional)**
+
+    ```bash
+    sudo fuser -k 6653/tcp
+    sudo mn -c
+    ```
+
+3. **Clone Assignment Code and Start Mininet**
+
+    ```bash
+    git clone https://github.com/henryhxu/CSCI4430.git
+    cd CSCI4430/assignment/assignment-1/starter_code
+    sudo python2 assignment1_topology.py
+    ```
+
+### Others
+
+The Ubuntu image mentioned here is a server version, not a desktop version, as Ubuntu Desktop does not fully support ARM CPUs except for version 25.04. Since the Ubuntu server environment does not include a GUI, you may run iperf in background mode for server-side operations.
+
 
 ## Part 1: Mininet Tutorial
 
