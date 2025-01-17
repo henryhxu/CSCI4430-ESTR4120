@@ -25,7 +25,7 @@ After completing this programming assignment, students should be able to:
 
 ## VM System and Tools Versions
 
-The following table lists the versions of the system and tools pre-installed in the VM ([VirtualBox](https://www.virtualbox.org/), [VM image](https://drive.google.com/file/d/15yiMqmsdN9P8O_H_M_DrURkETPwPpxZF/view?usp=sharing)). Students who are not using the provided VM should ensure their system matches these versions as closely as possible to maintain compatibility.
+The following table lists the versions of the system and tools pre-installed in the VM ([VirtualBox](https://www.virtualbox.org/), [VM image](https://drive.google.com/file/d/15yiMqmsdN9P8O_H_M_DrURkETPwPpxZF/view?usp=sharing),login password:csci4430). Students who are not using the provided VM should ensure their system matches these versions as closely as possible to maintain compatibility.
 
 | Software/Tool | Version                                | Notes                                           |
 |---------------|----------------------------------------|------------------------------------------------|
