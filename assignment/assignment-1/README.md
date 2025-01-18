@@ -186,16 +186,16 @@ Hosts (`h1` to `h9`) are represented by squares and switches (`s1` to `s5`) are 
 
 > **NOTE:** When running ping and `iperf` in Mininet, you must use IP addresses, not hostnames.
 
-#### Q1: Link Latency and Throughput
+#### Q1: Link Latency(RTT) and Throughput
 First, you should measure the RTT and bandwidth of each of the four individual links between switches (`L1` - `L4`). You should run ping with 20 packets and store the output of the measurement on each link in a file called `latency_L#.txt`, replacing # with the link number from the topology diagram above. You should run `iperf` for 20 seconds and store the output of the measurement on each link in a file called `throughput_L#.txt`, replacing # with the link number from the topology diagram above.
 
-#### Q2: Path Latency and Throughput
+#### Q2: Path Latency(RTT) and Throughput
 Now, assume `h1` wants to communicate with `h9`. What is the expected latency and throughput of the path between the hosts? Put your prediction in the `answers.txt` file under question 2.
 
 Measure the latency and throughput between `h1` and `h9` using `ping` and `iPerf`. It does not matter which host is the client and which is the server. Use the same parameters as above (20 packets / 20 seconds) and store the output in files called `latency_Q2.txt` and `throughput_Q2.txt`. Put the average RTT and measured throughput in the `answers.txt` file and explain the results. If your prediction was wrong, explain why.
 
 #### Q3: Effects of Multiplexing
-Next, assume multiple hosts connected to `s1` want to simultaneously talk to hosts connected to `s5`. What is the expected latency and throughput when two pairs of hosts are communicating simultaneously? Put your predictions in your `answers.txt` file under question 3.1.
+Next, assume multiple hosts connected to `s1` want to simultaneously talk to hosts connected to `s5`. What is the expected latency (RTT) and throughput when two pairs of hosts are communicating simultaneously? Put your predictions in your `answers.txt` file under question 3.1.
 
 Use `ping` and `iPerf` to measure the latency and throughput when there are two pairs of hosts communicating simultaneously; it does not matter which pairs of hosts are communicating as long as one is connected to `s1` and one is connected to `s5`. Use the same parameters as above. You do not need to submit the raw output, but you should put the average RTT and measured throughput for each pair in your `answers.txt` file under question 3.1 and explain the results. If your prediction was wrong, explain why.
 
@@ -203,7 +203,7 @@ Repeat for three pairs of hosts communicating simultaneously and put your answer
 
 Do not worry too much about starting the clients at the exact same time. So long as the connections overlap significantly, you should achieve the correct results. One simple way is to open up terminals for each of the hosts you will use, start the iperf servers, type in the iperf client command on each of the client hosts without hitting ENTER, and then quickly hit ENTER on all client hosts so that they start at roughly the same time.
 
-#### Q4: Effects of Latency
+#### Q4: Effects of Latency(RTT)
 Lastly, assume `h1` wants to communicate with `h9` at the same time `h3` wants to communicate with `h8`. What is the expected latency and throughput for each pair? Put your prediction in your `answers.txt` file under question 4.
 
 Use `ping` and `iperf` to conduct measurements, storing the output in files called `latency_h1-h9.txt`, `latency_h3-h8.txt`, `throughput_h1-h9.txt`, and `throughput_h3-h8.txt`. Put the average RTT and measured throughput in your `answers.txt` file and explain the results. If your prediction was wrong, explain why.
