@@ -164,7 +164,7 @@ At some points, the walkthrough will talk about software-defined networking (SDN
 
 ## Part 2: Measurements in Mininet
 
-You will use the standard network performance measurement tool `iperf` and the standard latency measurement tool `ping` (`ping` measures RTT), to measure the bandwidth and latency in a virtual network in Mininet. You must include the output from some of your experiments and the answers to the questions below in your submission. Your answers to the questions should be put in the file `answers.txt` **that we provide**. Please do **NOT** change the format of the `answers.txt` file (none of the answers to the questions should take more than one or two sentences).
+You will use the standard network performance measurement tool `iperf` and the standard latency measurement tool `ping` (`ping` measures RTT), to measure the bandwidth and latency in a virtual network in Mininet. You must include the output from some of your experiments and the answers to the questions below in your submission. Your answers to the questions should be put in the file `answers.txt` **that we provide**. Please do **NOT** change the format of the `answers.txt` file (none of the answers to the questions should take more than one or two sentences). 
 
 Read the `ping` man page to learn how to use it.
 
@@ -185,6 +185,8 @@ If you have trouble launching the script, a common fix is to first try running `
 Hosts (`h1` to `h9`) are represented by squares and switches (`s1` to `s5`) are represented by circles; the names in the diagram match the names of hosts and switches in Mininet. The hosts are assigned IP addresses 10.0.0.1 through 10.0.0.9; the last number in the IP address matches the host number.
 
 > **NOTE:** When running ping and `iperf` in Mininet, you must use IP addresses, not hostnames.
+
+For the predicted numbers in the questions below, you need to calculate them using theoretical methods.
 
 #### Q1: Link Latency(RTT) and Throughput
 First, you should measure the RTT and bandwidth of each of the four individual links between switches (`L1` - `L4`). You should run ping with 20 packets and store the output of the measurement on each link in a file called `latency_L#.txt`, replacing # with the link number from the topology diagram above. You should run `iperf` for 20 seconds and store the output of the measurement on each link in a file called `throughput_L#.txt`, replacing # with the link number from the topology diagram above.
