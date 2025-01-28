@@ -186,7 +186,7 @@ Hosts (`h1` to `h9`) are represented by squares and switches (`s1` to `s5`) are 
 
 > **NOTE:** When running ping and `iperf` in Mininet, you must use IP addresses, not hostnames.
 
-For the predicted numbers in the questions below, you need to calculate them using theoretical methods.
+For the predicted values in the questions below, you need to calculate them using theoretical methods.
 
 #### Q1: Link Latency(RTT) and Throughput
 First, you should measure the RTT and bandwidth of each of the four individual links between switches (`L1` - `L4`). You should run ping with 20 packets and store the output of the measurement on each link in a file called `latency_L#.txt`, replacing # with the link number from the topology diagram above. You should run `iperf` for 20 seconds and store the output of the measurement on each link in a file called `throughput_L#.txt`, replacing # with the link number from the topology diagram above.
