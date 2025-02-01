@@ -12,7 +12,7 @@
 * [Part 4](#part4): Write your own `iPerfer`
 * [Submission Instructions](#submission-instr)
 * [Autograder](#autograder)
-
+* [Grace Token](#gracetoken)
 ## Learning Outcomes
 
 After completing this programming assignment, students should be able to:
@@ -134,10 +134,6 @@ Once you have successfully booted into the Ubuntu environment, execute the follo
 ### Others
 
 The Ubuntu image mentioned here is a server version, not a desktop version, as Ubuntu Desktop does not fully support ARM CPUs except for version 25.04. Since the Ubuntu server environment does not include a GUI, you may run iperf in background mode for server-side operations.
-
-
-## Grace Token
-A grace token is a single-use token that lets a student or group effectively extend their project deadline by one day. Grace tokens are used automatically when a student attemps to submit after the hard deadline. Once a late day token is used, that student/group will be able to continue submitting for 24 hours after the project hard deadline.
 
 
 ## Part 1: Mininet Tutorial
@@ -406,6 +402,11 @@ Copyright (C) 2021 Free Software Foundation, Inc.
 This is free software; see the source for copying conditions.  There is NO
 warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
 ```
+
+<a name="gracetoken"></a>
+## Grace Token
+A grace token is a single-use token that lets a student or group effectively extend their project deadline by one day. Grace tokens are used automatically when a student attemps to submit after the hard deadline. Once a late day token is used, that student/group will be able to continue submitting for 24 hours after the project hard deadline.
+
 
 ## Acknowledgements
 
