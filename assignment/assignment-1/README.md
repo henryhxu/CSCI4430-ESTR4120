@@ -136,6 +136,10 @@ Once you have successfully booted into the Ubuntu environment, execute the follo
 The Ubuntu image mentioned here is a server version, not a desktop version, as Ubuntu Desktop does not fully support ARM CPUs except for version 25.04. Since the Ubuntu server environment does not include a GUI, you may run iperf in background mode for server-side operations.
 
 
+## Grace Token
+A grace token is a single-use token that lets a student or group effectively extend their project deadline by one day. Grace tokens are used automatically when a student attemps to submit after the hard deadline. Once a late day token is used, that student/group will be able to continue submitting for 24 hours after the project hard deadline.
+
+
 ## Part 1: Mininet Tutorial
 
 First, you will learn how to use Mininet to create virtual networks and run simple experiments. According to the [Mininet website](http://mininet.org/), *Mininet creates a realistic virtual network, running real kernel, switch and application code, on a single machine (VM or native), in seconds, with a single command.* We will use Mininet in programming assignments throughout the semester.
