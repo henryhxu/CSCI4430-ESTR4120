@@ -68,6 +68,17 @@ You may also want to check out this online book:
 | 1 | Jan 8  | [Socket programming](tutorial/T01/) | Yicheng | [Assignment 1](assignment/assignment-1) | 11:59:59 p.m., Sat, Feb. 1st |
 | 2 | Jan 15 |[Performance metrics](tutorial/T02/) | Yicheng |||
 | 3 | Jan 22 | [HTTP](tutorial/T03/) | Yicheng |||
+| 4 | Feb 5 | TBC | Yitao |||
+| 5 | Feb 12 | TBC | Yitao |||
+| 6 | Feb 19 | TBC | Yitao |||
+| 7 | Feb 26 | TBC | Yitao |||
+| 8 | Mar 12 | TBC | Shaofeng |||
+| 9 | Mar 19 | TBC | Shaofeng |||
+| 10 | Mar 26 | TBC | Shaofeng |||
+| 11 | Apr 2 | TBC | Yicheng |||
+| 12 | Apr 9 | TBC | Shaofeng |||
+| 13 | Apr 16 | TBC | TBC |||
+
 
 
 ## Course policies
