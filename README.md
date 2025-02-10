@@ -57,7 +57,7 @@ You may also want to check out this online book:
 |2| Jan 13; 15 | [Layering](lectures/lec2.pptx); <br>[Sockets and HTTP](lectures/lec3.pptx) | 1.5, 2.2, 2.4 | [End-to-end arguments <br>in system design](https://web.mit.edu/Saltzer/www/publications/endtoend/endtoend.pdf)
 |3| Jan 20; 22 | [CDN, DNS](lectures/lec4.pptx) | 2.2, 2.4
 |4| [Jan 27](https://cuhk.zoom.us/rec/share/YWUR_7PZ3Dt5F7VDbfluub58wMF21uAnup5RGDPNhe1YDYuaE1DBPZ6aHhNqreSp.P5r8k4rkzYQijJoP)\*; Feb 5 | [Video, datacenters](lectures/lec5.pptx) |  2.6
-|5| Feb 10; 12 |
+|5| Feb 10; 12 | [Transport layer]((lectures/lec6.pptx)) | 3.1–3.4
 
 
 ### Tutorials and Assignments
