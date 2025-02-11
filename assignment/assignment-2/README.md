@@ -61,11 +61,11 @@ In the real world, IP Addresses disambiguate machines. Typically, a given servic
 For the purposes of this project, as we want you to be able to run everything locally, we will instead distinguish different video servers by their (ip, port) tuple. For instance, you may have two video servers running on (localhost, 8000) and (localhost, 8001). We want to emphasize that this would not make much sense in the real world; you would probably use a DNS server for load balancing, which would point to several IPs where video servers are hosted, each using the same port for a specific service.
 
 ## Getting Started 
-This project has been adapted so that it can be run and tested on your own device, without any need for a virtual machine. Although this leads to a slightly less realism, we hope it makes development faster and easier. Feel free to use your VM from Project 1 to run your code in Mininet for the full experience. 
+This project has been adapted so that it can be run and tested on your own device, without any need for a virtual machine. Although this leads to a slightly less realism, we hope it makes development faster and easier. 
 
 > Note: The only configuration that cannot be tested locally is running a geographic load balancer in conjunction with a load-balancing miProxy. This will have to occur on Mininet. However, you are able to locally test both (1) miProxy with a round-robin load balancer and (2) a geographic load balancer on its own. 
 
-To get started, clone this Github repository. We are using `google drive` to store the video files in the Git repo. You can  use this url `https://drive.google.com/file/d/1odL-aQF9k7aZxiEtwyWktgScUZ0IO_mo/view?usp=sharing` to download the `tears-of-steel` video files, and `https://drive.google.com/file/d/1EIRRG91G2nEjJfKL4A5hU5gBMO2monyu/view?usp=sharing` to download the `Soar with CUHK` video file. The downloaded video file should be placed under the `videoserver/static/videos` folder. The structure of the ``videoserver/static` should be:
+To get started, clone this Github repository. We are using `google drive` to store the video files in the Git repo. You can use this [link](https://drive.google.com/file/d/1odL-aQF9k7aZxiEtwyWktgScUZ0IO_mo/view?usp=sharing) to download the `tears-of-steel` video files, and this [link](https://drive.google.com/file/d/1EIRRG91G2nEjJfKL4A5hU5gBMO2monyu/view?usp=sharing) to download the `Soar with CUHK` video files. The downloaded video file should be placed under the `videoserver/static/videos` folder. The structure of the `videoserver/static` should be:
 
 ```bash
 .
@@ -81,14 +81,12 @@ To get started, clone this Github repository. We are using `google drive` to sto
 ```
 You can then create your own  **private** GitHub repository, and push these files to that repo. Your repository should be shared only with your group members, and should not be publicly accessible. **Making your solution code publicly accessible, even by accident, will be considered a violation of the Honor Code.** You can create a private repository through the GitHub website, and add it as a remote to the cloned repository with 
 ```bash
-$ rm -rf .git
 $ git init
 $ git remote add origin git@github.com:[Your-User:Your-Repo]
 $ git add -A
 $ git commit -m "Initial commit"
 $ git push --set-upstream origin main
 ```
-> Note: We are deleting the entire .git history to prevent our large file history from clogging up your repo. 
 
 The structure of the files is as follows:
 ```
@@ -115,9 +113,9 @@ The structure of the files is as follows:
 |   └── ...
 ```
 ### Your Code
-As in Project 1, we will be using CMake as our build system. The top-level CMake file is at `cpp/CMakeLists.txt`. There are also `CMakeLists.txt` files in every subdirectory. These files have been filled out for you. We encourage you to take a look and see how they work. You may need to modify them if the structure of your code changes. You **may not** use any external packages other than the ones we provide: `spdlog`, `cxxopts`, `pugixml`, and `boost::regex`.
+As in Part 1, we will be using CMake as our build system. The top-level CMake file is at `cpp/CMakeLists.txt`. There are also `CMakeLists.txt` files in every subdirectory. These files have been filled out for you. We encourage you to take a look and see how they work. You may need to modify them if the structure of your code changes. You **may not** use any external packages other than the ones we provide: `spdlog`, `cxxopts`, `pugixml`, and `boost::regex`.
 
-We have also included a `common` folder with a few network utility functions (these are copied over from the Discussion 3 example) as well as the protocol definition for communicating with the load balancer. You can (and should!) add more network utility functions and other code that can be shared between `miProxy` and `loadBalancer` into the common folder. 
+We have also included a `common` folder with a few network utility functions as well as the protocol definition for communicating with the load balancer. You can (and should!) add more network utility functions and other code that can be shared between `miProxy` and `loadBalancer` into the common folder. 
 
 The structure of the project is otherwise self-explanatory; your implementation for `miProxy` should go in the `miProxy` folder, and your implementation of the `loadBalancer` should go in the `loadBalancer` folder. The following commands should allow us to build your code from the base of the project:
 ```bash
@@ -180,7 +178,7 @@ We provide a script `download_deps.sh` to download these libraries, all the down
 ./download_deps.sh
 ```
 
-The structure should be:
+After downloading, the structure of `deps` folder should be:
 
 ```
 .
@@ -225,7 +223,7 @@ For optimization, web browsers may open up several TCP connections for a single 
 
 ### Handling Clients 
 
-In tutorial 04, we will cover an example of using **select polling** to handle multiple incoming client sockets. You should go over the slides, and look through the example code [here](https://github.com/henryhxu/CSCI4430/tree/2025_spring/tutorial/T04/select_example). `miProxy` should handle multiple client sockets in much the same way. 
+In tutorial 04, we covered an example of using **select polling** to handle multiple incoming client sockets. You should go over the slides, and look through the example code [here](https://github.com/henryhxu/CSCI4430/tree/2025_spring/tutorial/T04/select_example). `miProxy` should handle multiple client sockets in much the same way. 
 
 > Note: Feel free to copy/adapt code that we give you. You should understand any code that you put into your project; `select()` is rather unintuitive and you will encounter nasty bugs if you use it without understanding it. 
 
@@ -496,7 +494,7 @@ In this part, you will write a simple load balancing server, `loadBalancer`, tha
 ### Protocol 
 The protocol used by the load balancer is defined in `cpp/src/common/loadBalancerProtocol.h`. `miProxy` should send a `LoadBalancerRequest`, and the load balancer should respond with a `LoadBalancerResponse`. 
 
-Remember to use byte order conversion functions (i.e. `ntohl`, `htonl`, `ntohs`, `htons`) when sending/receiving integers over the network! The port and request ID are both interpreted as integers; the IP address is not. Please see Discussion 1 materials for why these are important. 
+Remember to use byte order conversion functions (i.e. `ntohl`, `htonl`, `ntohs`, `htons`) when sending/receiving integers over the network! The port and request ID are both interpreted as integers; the IP address is not. 
 
 ### Round-Robin Load Balancer
 One of the ways you will implement the load balancer is as a simple round-robin load balancer. It will take a file containing a list of videoserver IP addresses and ports on the command line. Beginning at the start of the list, the load balancer will return the next IP address in the list for each subsequent request, looping back to the top of the list when it reaches the end. 
@@ -631,42 +629,3 @@ This will create a file called `submit.tar.gz` containing the contents of your `
 
 ## Acknowledgements
 This programming assignment is based on Peter Steenkiste's Project 3 from CMU CS 15-441: Computer Networks and Assignment 2 from Umich EECS 489: Computer Networks.
-
-## Misc: Converting Video Files to MPEG DASH
-We have provided two video files for you on the video server. Feel free to import your own video files and modify the videoserver to play them as well! This part explains how you can convert an `mp4` file into the MPEG DASH format. 
-
-To begin, suppose you have a `.mp4` file named `input.mp4`. 
-
-1. Download `ffmpeg` and run the following command once for each bitrate you would like to support. You can change the `scale` to the appropriate resolution, the `-b:v` value to the bitrate you would like to support, and the name of the output (e.g. `vid-500.mp4`) to fit the needed bitrate. 
-```bash
-$ ffmpeg -i input.mp4 -vf scale=512:214 -b:v 500k -c:v libx264 -g 48 -keyint_min 48 -force_key_frames "expr:gte(t,n_forced*2)" -sc_threshold 0 -bf 1 -r 24 -c:a aac -ar 48000 -ac 2 -f mp4 -profile:v main -level 3.1 -movflags +faststart vid-500.mp4
-```
-2. You should now have a few `.mp4 files`, each at a different resolution and with a different name. For instance:
-```
-vid-500.mp4
-vid-800.mp4
-vid-1100.mp4
-vid-1400.mp4
-```
-You can now convert each of these into fragmented `.mp4` files using `mp4fragment`. This command should be run once per `.mp4` file created from the last step. 
-```bash
-$ mp4fragment vid-500.mp4 vid-500-frag.mp4
-```
-3. Now that you have `vid-*-frag.mp4` files, you can use the [Bento4](https://www.bento4.com/downloads/) tool to convert it into the MPEG DASH format. Although the website is somewhat lacking in documentation, you should run the `mp4-dash` script, with a command that looks something like this:
-```bash
-$ mp4dash vid-500-frag.mp4 vid-800-frag.mp4 vid-1100-frag.mp4 vid-1400-frag.mp4
-```
-4. This will create a folder called `output` with the following structure:
-```
-playlist.mpd
-audio/
-	[various audio files, possibly in a subfolder]
-video/
-	1/
-		[init.mp4 and .m4s files for the first video]
-	2/ 
-		[init.mp4 and .m4s files for the second video]
-	3/
-		...
-```
-And you're done! You can move the folders around as you see fit; make sure you make corresponding changes in the `.mpd` file if you change the folder structure. Have fun!
