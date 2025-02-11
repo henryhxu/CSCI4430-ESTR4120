@@ -32,7 +32,7 @@ def check_video_exists(video_name):
 
 class VideoServer:
     def __init__(self):
-        self.app = Sanic("eecs-489-videoserver")
+        self.app = Sanic("csci-4430-videoserver")
         self.init_app()
         
     def init_app(self):        
