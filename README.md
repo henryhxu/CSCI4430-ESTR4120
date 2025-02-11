@@ -70,7 +70,7 @@ You may also want to check out this online book:
 | 2 | Jan 15 |[Performance metrics](tutorial/T02/) | Yicheng |||
 | 3 | Jan 22 | [HTTP](tutorial/T03/) | Yicheng |||
 | 4 | Feb 5 | [Select programming](tutorial/T04/) | Yitao |||
-| 5 | Feb 12 | TBC | Yitao |||
+| 5 | Feb 12 | [Video streaming and proxy](tutorial/T05/) | Yitao | [Assignment 2](assignment/assignment-2) | 11:59:59 p.m., Sun, March. 9th |
 | 6 | Feb 19 | TBC | Yitao |||
 | 7 | Feb 26 | TBC | Yitao |||
 | 8 | Mar 12 | TBC | Shaofeng |||
