@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.30)
 cmake_policy(SET CMP0167 NEW)
-project(eecs489-project2-wn25)
+project(csci4430-assignment2-s25)
 
 # Specify the C++ standard
 set(CMAKE_CXX_STANDARD 20)
