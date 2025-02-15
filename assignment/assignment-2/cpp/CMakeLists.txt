@@ -1,5 +1,4 @@
 cmake_minimum_required(VERSION 3.30)
-cmake_policy(SET CMP0167 NEW)
 project(csci4430-assignment2-s25)
 
 # Specify the C++ standard
