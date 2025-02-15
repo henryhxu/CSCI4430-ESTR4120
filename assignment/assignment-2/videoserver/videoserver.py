@@ -42,6 +42,7 @@ class VideoServer:
         self.app.static('/index.html', WEBSERVER_DIR / 'static/index.html', name='index')
         self.app.static('/favicon.ico', WEBSERVER_DIR / 'static/favicon.ico', name='favicon')
         self.app.static('/css', WEBSERVER_DIR / 'static/css', name='css')
+        self.app.static('/js', WEBSERVER_DIR / 'static/js', name='js')
         
     
         @self.app.get('videos/<video_name:slug>')
