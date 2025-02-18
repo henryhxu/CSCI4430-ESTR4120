@@ -613,9 +613,10 @@ queryLoadBalancer [OPTION...]
 This will send a load balancer query to the specified load balancing server in the same way that `miProxy` should and print the results.
 
 ## Autograder
-The autograder will be released within a week of the assignment being released.
 
-The Autograder is not a debugging tool. You can and should design tests to fully test your proxy server and DNS server. 
+**[Feb.18th update]** The autograder has been released, you can submit your tarball to [Assignment 2 - HTTP Streaming Proxy](http://projgw.cse.cuhk.edu.hk:2913/).
+
+The Autograder is not a debugging tool. You only have **5 submissions** per day. You can and should design tests to fully test your proxy server and DNS server.
 
 You will be submitting a tarball to the Autograder. You can create this tarball by running the following command:
 ```bash
@@ -625,7 +626,24 @@ For instance, if your current working directory is the base of the repo, you cou
 ```bash
 $ bash util/submit.sh .
 ```
-This will create a file called `submit.tar.gz` containing the contents of your `cpp/` folder.  
+This will create a file called `submit.tar.gz` containing the contents of your `cpp/` folder. You can submit this to our autograder.
 
 ## Acknowledgements
 This programming assignment is based on Peter Steenkiste's Project 3 from CMU CS 15-441: Computer Networks and Assignment 2 from Umich EECS 489: Computer Networks.
+
+## Bonus: Improve miProxy to Handle more Concurrent Requests
+
+One major limitation of the current miProxy design lies in how new connections are handled in the `select()` loop. When a new client connects, miProxy immediately tries to establish a connection with the target server. However, the blocking nature of this connection attempt (`connect()`) can cause the entire `select()` loop to stall, leading to delays in handling other client connections and potential connection failures.
+
+For the bonus part, you need to improve miProxy to handle more concurrent client connections efficiently. Some possible approaches include:
+
+1. **Non-blocking socket operations**  
+   Use non-blocking sockets for both the listening socket and client connections to prevent blocking operations from stalling the event loop.
+
+2. **Asynchronous server connection handling**  
+   Implement non-blocking connection establishment to the target server. Use `poll()`, or `epoll()` to efficiently manage connection attempts without blocking other client requests.
+
+3. **Increase file descriptor limits and listen socket backlog**  
+   Increase the maximum number of file descriptors  and enlarge the listen socket backlog  to handle a higher number of concurrent connections efficiently.
+
+By implementing these improvements, miProxy will be able to handle a larger number of simultaneous connections and reduce connection delays.
