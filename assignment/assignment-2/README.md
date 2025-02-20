@@ -527,12 +527,12 @@ NUM_LINKS: <number of links in the network>
 As an example, the network shown above will have the following text file, `sample_geography.txt`:
 ```
 NUM_NODES: 6
-0 CLIENT 10.0.0.1
-1 CLIENT 10.0.0.2
-2 SWITCH NO_IP
-3 SWITCH NO_IP
-4 SERVER 10.0.0.3
-5 SERVER 10.0.0.4
+CLIENT 10.0.0.1
+CLIENT 10.0.0.2
+SWITCH NO_IP
+SWITCH NO_IP
+SERVER 10.0.0.3
+SERVER 10.0.0.4
 NUM_LINKS: 5
 0 2 1
 1 2 1
