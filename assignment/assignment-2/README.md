@@ -8,7 +8,7 @@ latex: true
 
 Video traffic dominates the Internet. In this project, you will explore how video content distribution networks (CDNs) work. In particular, you will implement (1) adaptive bitrate selection through an HTTP proxy server and (2) load balancing. 
 
-This project is divided into Part 1 and Part 2. We recommend that you work on them simultaneously (both of them can be independently tested), and finally integrate both parts together. This is a group project; you may work in groups of up to three people. 
+This project is divided into Part 1 and Part 2. We recommend that you work on them simultaneously (both of them can be independently tested), and finally integrate both parts together. This is a group project; you may work in groups of up to two people. 
 
 This project has the following goals:
  - Understand the HTTP protocol and how it is used in practice to fetch data from the web. 
