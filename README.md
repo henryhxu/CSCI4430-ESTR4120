@@ -75,7 +75,7 @@ You may also want to check out this online book:
 | 5 | Feb 12 | [Video streaming](tutorial/T05/) | Yitao | [Assignment 2](assignment/assignment-2) | 11:59:59 p.m., Sun, March. 9th |
 | 6 | Feb 19 | [HTTP Proxy](tutorial/T06/) | Yitao |||
 | 7 | Feb 26 | [TCP](tutorial/T07/) | Yitao |||
-| 8 | Mar 12 | TBC | Shaofeng |||
+| 8 | Mar 12 | [UDP](tutorial/T08/) | Shaofeng |||
 | 9 | Mar 19 | TBC | Shaofeng |||
 | 10 | Mar 26 | TBC | Shaofeng |||
 | 11 | Apr 2 | TBC | Yicheng |||
