@@ -60,7 +60,7 @@ You may also want to check out this online book:
 |5| Feb 10; 12 | [Transport layer](lectures/lec6.pptx) | 3.1–3.4
 |6| Feb 17; 19 | [TCP Basics](lectures/lec7.pptx) |3.5, 3.6 | RFCs in the ppt
 |7| Feb 24; 26 | [Congestion control](lectures/lec8.pptx) | 3.5, 3.6 | [BBR](https://github.com/google/bbr)
-
+|8| Mar 10; 12 | [More on CC](lectures/lec9.pptx); [Network layer and IP](lectures/lec10.pptx) | 3.7 | [DCTCP](https://people.csail.mit.edu/alizadeh/papers/dctcp-sigcomm10.pdf)
 
 ### Tutorials and Assignments
 <!--  ~~11:59:59 p.m., Sat, Jan 29th~~ 18:00:00 p.m., Mon, Jan 31st -->
@@ -75,7 +75,7 @@ You may also want to check out this online book:
 | 5 | Feb 12 | [Video streaming](tutorial/T05/) | Yitao | [Assignment 2](assignment/assignment-2) | 11:59:59 p.m., Sun, March. 9th |
 | 6 | Feb 19 | [HTTP Proxy](tutorial/T06/) | Yitao |||
 | 7 | Feb 26 | [TCP](tutorial/T07/) | Yitao |||
-| 8 | Mar 12 | TBC | Shaofeng |||
+| 8 | Mar 12 | [UDP](tutorial/T08/) | Shaofeng |[Assignment 3](assignment/assignment-3) | 11:59:59 p.m., Mon, Apr. 14th|
 | 9 | Mar 19 | TBC | Shaofeng |||
 | 10 | Mar 26 | TBC | Shaofeng |||
 | 11 | Apr 2 | TBC | Yicheng |||
