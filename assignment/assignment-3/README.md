@@ -1,6 +1,6 @@
 #  Assignment 3: Static Router & Reliable Transport
 > [!NOTE] 
-> Version: 1.0 
+> Version: 1.1 
 
 > [!IMPORTANT]
 > - Due: Apr. 14, 2025, 11:59 PM HKT
@@ -30,10 +30,11 @@
 
 This assignment project has two independent parts.
 
-For the first part, you will be writing a simple router configured with a static routing table. Your router will receive raw Ethernet frames. It will process the packets just like a real router, then forward them to the correct outgoing interface. Your major task is to implement the forwarding logic so packets go to the correct interface.
-
-For the second part, the objective is to develop a simple reliable transport protocol,`WTP`, which operates **on top of UDP**.
+For the first part, the objective is to develop a simple reliable transport protocol,`WTP`, which operates **on top of UDP**.
 Your implementation of `WTP` must ensure the sequential and reliable delivery of UDP datagrams, even in the face of challenges such as `packet loss, latency, corruption, duplication, and reordering`. Indeed, there are a variety of ways to ensure a message is reliably delivered from a sender to a receiver. Specifically, you are to implement a sender (`wSender`) and a receiver (`wReceiver`) that follows the following `WTP` specification in this assignment.
+The second part has some bonus questions on WTP.
+
+For the third part, you will be writing a simple router configured with a static routing table. Your router will receive raw Ethernet frames. It will process the packets just like a real router, then forward them to the correct outgoing interface. Your major task is to implement the forwarding logic so packets go to the correct interface.
 
 Students are expected to have a deeper understanding of L4 transport protocols and L3 routing respectively by finishing Part 1 and Part 2 of this assignment.
 
