@@ -1,4 +1,4 @@
-#  Assignment 3: Static Router & Reliable Transport
+#  Assignment 3: Reliable Transport & Static Router
 > [!NOTE] 
 > Version: 1.1 
 
