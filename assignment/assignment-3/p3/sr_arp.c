@@ -89,7 +89,7 @@ void sr_add_arp_entry(struct sr_instance *sr, struct in_addr gw, struct ether_ad
 
     arp_walker->next = 0;
     arp_walker->ip   = gw;
-    memcpy(sr->arp_cache->mac_addr, dst_mac_addr->ether_addr_octet, sizeof(struct ether_addr));
+    memcpy(arp_walker->mac_addr, dst_mac_addr->ether_addr_octet, sizeof(struct ether_addr));
 
 } /* -- sr_add_arp_entry -- */
 
