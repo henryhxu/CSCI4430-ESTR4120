@@ -1,6 +1,6 @@
 #  Assignment 3: Reliable Transport & Static Router
 > [!NOTE] 
-> Version: 1.1 
+> Version: 1.2
 
 > [!IMPORTANT]
 > - Due: Apr. 14, 2025, 11:59 PM HKT
