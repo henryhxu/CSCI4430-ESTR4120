@@ -391,7 +391,7 @@ Your submission should contain:
   * The source code of all parts for `WTP`:
     * WTP Base part source code for `wSender` and `wReceiver`. (c or cpp code) All source files should be in the folder called `WTP-base`. Binary executables of `wSender` and `wReceiver` should be in the same directory after running `make`.
   * The submission tarball named `p1.tar.gz` can be created by running the command `tar acvf p1.tar.gz p1`, where `p1` is the name of your code directory.
-  * Example final structure of `p1`
+  * Example final structure of `p1.tar.gz`
     * p1
       * Makefile
       * WTP-base
