@@ -397,9 +397,9 @@ Your submission should contain:
       * WTP-base
         * Makefile
         * [Your source codes]
-        * starter_files
-          * crc32.h
-          * PacketHeader.h
+      * starter_files
+        * crc32.h
+        * PacketHeader.h
 * Part 2: a `p2.txt` that contains your answers.
 * Part 3: `sr_forward.c`.
 
