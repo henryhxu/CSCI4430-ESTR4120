@@ -1,6 +1,6 @@
 #  Assignment 3: Reliable Transport & Static Router
 > [!NOTE] 
-> Version: 1.2
+> Version: 1.3
 
 > [!IMPORTANT]
 > - Due: Apr. 14, 2025, 11:59 PM HKT
@@ -111,7 +111,7 @@ Example: `./wSender 10.0.0.1 8888 10 input.in log.txt`
 
 #### Receiving Method
 
-`wReceiver` should use a finite loop to prepare to receive any file from `wSender` at any time, and for each new file, a new connection should be created. Furthermore, `wReceiver` can only handle one connection in `wSender` at a time and should ignore `START` messages while in the middle of an existing connection. It is responsible for receiving and storing the file sent by the `wSender` on disk completely and accurately, such as it can be played without any errors if we send a video. The stored file should be named `FILE-i.out`, where `i=0` for the file from the first connection, `i=1` for the second, and so on.
+`wReceiver` should use an infinite loop to prepare to receive any file from `wSender` at any time, and for each new file, a new connection should be created. Furthermore, `wReceiver` can only handle one connection in `wSender` at a time and should ignore `START` messages while in the middle of an existing connection. It is responsible for receiving and storing the file sent by the `wSender` on disk completely and accurately, such as it can be played without any errors if we send a video. The stored file should be named `FILE-i.out`, where `i=0` for the file from the first connection, `i=1` for the second, and so on.
 
 #### Packet Corruption Checking
 
