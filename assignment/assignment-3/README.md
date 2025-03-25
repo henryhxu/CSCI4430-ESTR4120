@@ -1,6 +1,6 @@
 #  Assignment 3: Reliable Transport & Static Router
 > [!NOTE] 
-> Version: 1.1 
+> Version: 1.3
 
 > [!IMPORTANT]
 > - Due: Apr. 14, 2025, 11:59 PM HKT
@@ -111,7 +111,7 @@ Example: `./wSender 10.0.0.1 8888 10 input.in log.txt`
 
 #### Receiving Method
 
-`wReceiver` should use a finite loop to prepare to receive any file from `wSender` at any time, and for each new file, a new connection should be created. Furthermore, `wReceiver` can only handle one connection in `wSender` at a time and should ignore `START` messages while in the middle of an existing connection. It is responsible for receiving and storing the file sent by the `wSender` on disk completely and accurately, such as it can be played without any errors if we send a video. The stored file should be named `FILE-i.out`, where `i=0` for the file from the first connection, `i=1` for the second, and so on.
+`wReceiver` should use an infinite loop to prepare to receive any file from `wSender` at any time, and for each new file, a new connection should be created. Furthermore, `wReceiver` can only handle one connection in `wSender` at a time and should ignore `START` messages while in the middle of an existing connection. It is responsible for receiving and storing the file sent by the `wSender` on disk completely and accurately, such as it can be played without any errors if we send a video. The stored file should be named `FILE-i.out`, where `i=0` for the file from the first connection, `i=1` for the second, and so on.
 
 #### Packet Corruption Checking
 
@@ -391,15 +391,15 @@ Your submission should contain:
   * The source code of all parts for `WTP`:
     * WTP Base part source code for `wSender` and `wReceiver`. (c or cpp code) All source files should be in the folder called `WTP-base`. Binary executables of `wSender` and `wReceiver` should be in the same directory after running `make`.
   * The submission tarball named `p1.tar.gz` can be created by running the command `tar acvf p1.tar.gz p1`, where `p1` is the name of your code directory.
-  * Example final structure of `p1`
+  * Example final structure of `p1.tar.gz`
     * p1
       * Makefile
       * WTP-base
         * Makefile
         * [Your source codes]
-        * starter_files
-          * crc32.h
-          * PacketHeader.h
+      * starter_files
+        * crc32.h
+        * PacketHeader.h
 * Part 2: a `p2.txt` that contains your answers.
 * Part 3: `sr_forward.c`.
 
