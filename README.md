@@ -79,7 +79,7 @@ You may also want to check out this online book:
 | 7 | Feb 26 | [TCP](tutorial/T07/) | Yitao |||
 | 8 | Mar 12 | [UDP](tutorial/T08/) | Shaofeng |[Assignment 3](assignment/assignment-3) | 11:59:59 p.m., Mon, Apr. 14th|
 | 9 | Mar 19 | [IP Routing](tutorial/T09/) | Shaofeng |||
-| 10 | Mar 26 | TBC | Shaofeng |||
+| 10 | Mar 26 | [WTP](tutorial/T10/) | Shaofeng |||
 | 11 | Apr 2 | TBC | Yicheng |||
 | 12 | Apr 9 | TBC | Shaofeng |||
 | 13 | Apr 16 | TBC | TBC |||
