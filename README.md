@@ -64,6 +64,7 @@ You may also want to check out this online book:
 |9| Mar 17; 19 | [Routing foundamentals](lectures/lec11.pptx) | 5.1, 5.2, 5.3 | [How Dijkstra's Algorithm Works](https://www.youtube.com/watch?v=EFg3u_E6eHU)
 |10| Mar 24; 26 | [Intra-domain routing](lectures/lec12.pptx); <br>[Inter-domain routing](lectures/lec13.pptx) | 5.1, 5.2, 5.3 |
 |11| Mar 31; no class | [Inter-domain routing](lectures/lec13.pptx) | 5.4
+|12| Apr 7; 9 | [SDN](lectures/lec14.pptx); [Link layer](lectures/lec14.pptx) | 4.4, 5.5, 6.1, 6.3, 6.4
 
 ### Tutorials and Assignments
 <!--  ~~11:59:59 p.m., Sat, Jan 29th~~ 18:00:00 p.m., Mon, Jan 31st -->
