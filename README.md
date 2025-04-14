@@ -61,7 +61,7 @@ You may also want to check out this online book:
 |5| Feb 10; 12 | [Transport layer](lectures/lec6.pptx) | 3.1–3.4
 |6| Feb 17; 19 | [TCP Basics](lectures/lec7.pptx) |3.5, 3.6 | RFCs in the ppt
 |7| Feb 24; 26 | [Congestion control](lectures/lec8.pptx) | 3.5, 3.6 | [BBR](https://github.com/google/bbr)
-|8| Mar 10; 12 | [More on CC](lectures/lec9.pptx); [Network layer and IP](lectures/lec10.pptx) | 3.7, 4.1, 4.3.1, 4.3.2, 4.3.5 | [DCTCP](https://people.csail.mit.edu/alizadeh/papers/dctcp-sigcomm10.pdf)
+|8| Mar 10; 12 | [More on CC](lectures/lec9.pptx); <br>[Network layer](lectures/lec10.pptx) | 3.7, 4.1, 4.3.1, 4.3.2, 4.3.5 | [DCTCP](https://people.csail.mit.edu/alizadeh/papers/dctcp-sigcomm10.pdf)
 |9| Mar 17; 19 | [Routing foundamentals](lectures/lec11.pptx) | 5.1, 5.2, 5.3 | [How Dijkstra's Algorithm Works](https://www.youtube.com/watch?v=EFg3u_E6eHU)
 |10| Mar 24; 26 | [Intra-domain routing](lectures/lec12.pptx); <br>[Inter-domain routing](lectures/lec13.pptx) | 5.1, 5.2, 5.3 |
 |11| Mar 31; no class | [Inter-domain routing](lectures/lec13.pptx) | 5.4
