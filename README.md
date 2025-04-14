@@ -51,6 +51,7 @@ You may also want to check out this online book:
 
 ### Lectures
 \*: Zoom recording is provided for Jan 27 lecture due to CNY holiday
+\*\*: Zoom recording is provided for Apr 16 lecture
 | Week | Date | Topic(s) |  Textbook Readings  | Additional Readings
 | :---: |:----------- | :-----------------: |  :------------: | :------------: |
 |1| Jan 6; 8 | [Intro and Overview](lectures/lec1.pptx) |  1.1, 1.3, 1.4 |
@@ -65,6 +66,7 @@ You may also want to check out this online book:
 |10| Mar 24; 26 | [Intra-domain routing](lectures/lec12.pptx); <br>[Inter-domain routing](lectures/lec13.pptx) | 5.1, 5.2, 5.3 |
 |11| Mar 31; no class | [Inter-domain routing](lectures/lec13.pptx) | 5.4
 |12| Apr 7; 9 | [SDN](lectures/lec14.pptx); [Link layer](lectures/lec15.pptx) | 4.4, 5.5, 6.1, 6.3, 6.4
+|13| Apr 14, [16]()\*\* | [Link layer](lectures/lec15.pptx); <br>[Final review](lectures/review.pptx)| 6.1, 6.3, 6.4
 
 ### Tutorials and Assignments
 <!--  ~~11:59:59 p.m., Sat, Jan 29th~~ 18:00:00 p.m., Mon, Jan 31st -->
