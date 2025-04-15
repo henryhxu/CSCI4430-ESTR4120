@@ -86,7 +86,7 @@ You may also want to check out this online book:
 | 10 | Mar 26 | [WTP](tutorial/T10/) | Shaofeng |||
 | 11 | Apr 2 | [LS/DV Routing](tutorial/T11/) | Yicheng |||
 | 12 | Apr 9 | [BGP](tutorial/T12/) | Shaofeng |||
-| 13 | Apr 16 | TBC | Yicheng |||
+| 13 | Apr 16 | [ARP](tutorial/T13/) | Yicheng |||
 
 
 
