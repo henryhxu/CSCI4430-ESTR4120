@@ -19,8 +19,8 @@
 | [Feng, Yicheng](mailto:yichengfeng@link.cuhk.edu.hk) | TA | Wed 2:30-4:30 pm, SHB 904. |
 
 ### Piazza
-- The Piazza page for this course is: [https://piazza.com/cuhk.edu.hk/spring2025/csci4430](https://piazza.com/cuhk.edu.hk/spring2025/csci4430).
-- The self-signup code is "cuhk_networking". You may associate your account with multiple emails, so you can receive notifications from all of them.
+- The Piazza page for this course is: [https://piazza.com/cuhk.edu.hk/fall2025/csci4430estr4120](https://piazza.com/cuhk.edu.hk/fall2025/csci4430estr4120).
+- The self-signup code is "4430_rocks!". You may associate your account with multiple emails, so you can receive notifications from all of them.
 - All communication about this course is done over Piazza. This includes questions, discussions, announcements, as well as private messages, about all matters of this course. 
 - Please use Piazza for all communication and do NOT email the teaching team directly.
 - No announcements will be made from Blackboard.
