@@ -1,21 +1,21 @@
-# CSCI4430 Computer Networks, Spring 2025
+# CSCI4430/ESTR4120 Computer Networks, Fall 2025 (term 1)
 
 ## Administrivia
 
 ### Schedule
 
 - Lectures: 
-  * Mon 4:30pm – 6:15pm, Y.C. Liang Hall 103
-  * Wed 12:30pm – 1:15pm, LSB LT2
+  * Mon 3:30pm – 5:15pm, Y.C. Liang Hall 103
+  * Tue 10:30am – 11:15am, Lee Shau Kee LT3
+  * Tue 9:30am - 10:15am, Lee Shau Kee LT3 (ESTR)
 - Tutorials:
-  * Wed 1:30pm – 2:15pm, LSB LT2
+  * Tue 11:30am – 12:15pm, Lee Shau Kee LT3
 
 ### Team
 | Member | Role | Office Hours |
 | :---------------- | :--- | :----------- |
 | [Xu, Hong (Henry)](https://henryhxu.github.io/) | Prof | Tue 10-12 pm, SHB 914. **By appointments only.** |
 | [Wu, Shaofeng](mailto:sfwu22@cse.cuhk.edu.hk) | Head TA | Wed 2:30-4:30 pm, SHB 117. |
-| [Yang, Yitao](mailto:ytyang@cse.cuhk.edu.hk) | TA | Fri 2:30-4:30 pm, SHB 117 | 
 | [Feng, Yicheng](mailto:yichengfeng@link.cuhk.edu.hk) | TA | Wed 2:30-4:30 pm, SHB 904. |
 
 ### Piazza
