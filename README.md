@@ -14,7 +14,7 @@
 ### Team
 | Member | Role | Office Hours |
 | :---------------- | :--- | :----------- |
-| [Xu, Hong (Henry)](https://henryhxu.github.io/) | Prof | Tue 10-12 pm, SHB 914. **By appointments only.** |
+| [Xu, Hong (Henry)](https://henryhxu.github.io/) | Prof | Mon 9-10am, Tue 1-2 pm, SHB 914. **By appointments only.** |
 | [Feng, Yicheng](mailto:yichengfeng@link.cuhk.edu.hk)  | Head TA | , SHB 904. |
 | [Wu, Shaofeng](mailto:sfwu22@cse.cuhk.edu.hk) | TA | , SHB 904. |
 | [Deng, Yangtao](mailto:ytdeng25@cse.cuhk.edu.hk) | TA | , SHB 117. |
