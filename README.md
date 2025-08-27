@@ -15,9 +15,9 @@
 | Member | Role | Office Hours |
 | :---------------- | :--- | :----------- |
 | [Xu, Hong (Henry)](https://henryhxu.github.io/) | Prof | Mon 9-10am, Tue 1-2 pm, SHB 914. **By appointments only.** |
-| [Feng, Yicheng](mailto:yichengfeng@link.cuhk.edu.hk)  | Head TA | , SHB 904. |
-| [Wu, Shaofeng](mailto:sfwu22@cse.cuhk.edu.hk) | TA | , SHB 904. |
-| [Deng, Yangtao](mailto:ytdeng25@cse.cuhk.edu.hk) | TA | , SHB 117. |
+| [Feng, Yicheng](mailto:yichengfeng@link.cuhk.edu.hk)  | Head TA | Tue 2:30-4:30 pm, SHB 904. |
+| [Wu, Shaofeng](mailto:sfwu22@cse.cuhk.edu.hk) | TA | Online (Piazza), SHB 904. |
+| [Deng, Yangtao](mailto:ytdeng25@cse.cuhk.edu.hk) | TA | Thu 10-12 am, SHB 117. |
 
 ### Piazza
 - The Piazza page for this course is: [https://piazza.com/cuhk.edu.hk/fall2025/csci4430estr4120](https://piazza.com/cuhk.edu.hk/fall2025/csci4430estr4120).
@@ -75,19 +75,19 @@ You may also want to check out this online book:
 <!-- []() -->
 | Week | Date | Topic | TA | Assignment | Due |
 | :---: | :------------------ | :-----: | :-------------: | :-----: | :-------------: |
-| 1 | Jan 8  | [Socket programming](tutorial/T01/) | Yicheng | [Assignment 1](assignment/assignment-1) | 11:59:59 p.m., Sat, Feb. 1st |
-| 2 | Jan 15 |[Performance metrics](tutorial/T02/) | Yicheng |||
-| 3 | Jan 22 | [HTTP](tutorial/T03/) | Yicheng |||
-| 4 | Feb 5 | [Select programming](tutorial/T04/) | Yitao |||
-| 5 | Feb 12 | [Video streaming](tutorial/T05/) | Yitao | [Assignment 2](assignment/assignment-2) | 11:59:59 p.m., Sun, March. 9th |
-| 6 | Feb 19 | [HTTP Proxy](tutorial/T06/) | Yitao |||
-| 7 | Feb 26 | [TCP](tutorial/T07/) | Yitao |||
-| 8 | Mar 12 | [UDP](tutorial/T08/) | Shaofeng |[Assignment 3](assignment/assignment-3) | 11:59:59 p.m., Mon, Apr. 14th|
-| 9 | Mar 19 | [IP Routing](tutorial/T09/) | Shaofeng |||
-| 10 | Mar 26 | [WTP](tutorial/T10/) | Shaofeng |||
-| 11 | Apr 2 | [LS/DV Routing](tutorial/T11/) | Yicheng |||
-| 12 | Apr 9 | [BGP](tutorial/T12/) | Shaofeng |||
-| 13 | Apr 16 | [ARP](tutorial/T13/) | Yicheng |||
+| 1 | Sep 2  | [Socket programming]() | Yicheng | [Assignment 1](assignment/assignment-1) | 11:59:59 p.m., Fri, Sep. 21th |
+| 2 | Sep 9 |[Performance metrics]() | Yicheng |||
+| 3 | Sep 16 | [HTTP]() | Yicheng |||
+| 4 | Sep 23 | [Select programming]() | Yangtao |[Assignment 2](assignment/assignment-2) | 11:59:59 p.m., Sat, Oct. 26th |
+| 5 | Sep 30 | [Video streaming]() | Yangtao |||
+| 6 | Oct 14 | [HTTP Proxy]() | Yicheng |||
+| 7 | Oct 21 | [TCP]() | Yangtao |||
+| 8 | Oct 28 | [UDP]() | Yicheng |[Assignment 3](assignment/assignment-3) | 11:59:59 p.m., Sun, Nov. 30th|
+| 9 | Nov 4 | [IP Routing]() | Yicheng |||
+| 10 | Nov 11 | [WTP]() | Yangtao |||
+| 11 | Nov 18 | [LS/DV Routing]() | Yangtao |||
+| 12 | Nov 25 | [BGP]() | Yangtao |||
+
 
 
 
