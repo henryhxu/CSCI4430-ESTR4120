@@ -48,31 +48,23 @@ You may also want to check out this online book:
 \*: To encourage tutorial participation, quiz will be conducted at the tutorials randomly. We will randomly pick 5 tutorials and perform a quiz at the end of the tutorial. Each quiz is worth one mark.
 
 ## Schedules
-<!--  Click on the topic to access the slides, and on the date to view the recording. -->
+<!--  Click on the topic to access the slides, and on the date to view the recording if provided. -->
 
 ### Lectures
-\*: Zoom recording is provided for Jan 27 lecture due to CNY holiday, and for Apr 16 lecture.
 
 | Week | Date | Topic(s) |  Textbook Readings  | Additional Readings
 | :---: |:----------- | :-----------------: |  :------------: | :------------: |
-|1| Jan 6; 8 | [Intro and Overview](lectures/lec1.pptx) |  1.1, 1.3, 1.4 |
-|2| Jan 13; 15 | [Layering](lectures/lec2.pptx); <br>[Sockets and HTTP](lectures/lec3.pptx) | 1.5, 2.2, 2.4 | [End-to-end arguments <br>in system design](https://web.mit.edu/Saltzer/www/publications/endtoend/endtoend.pdf)
-|3| Jan 20; 22 | [CDN, DNS](lectures/lec4.pptx) | 2.2, 2.4
-|4| [Jan 27](https://cuhk.zoom.us/rec/share/YWUR_7PZ3Dt5F7VDbfluub58wMF21uAnup5RGDPNhe1YDYuaE1DBPZ6aHhNqreSp.P5r8k4rkzYQijJoP)\*; Feb 5 | [Video, datacenters](lectures/lec5.pptx) |  2.6
-|5| Feb 10; 12 | [Transport layer](lectures/lec6.pptx) | 3.1–3.4
-|6| Feb 17; 19 | [TCP Basics](lectures/lec7.pptx) |3.5, 3.6 | RFCs in the ppt
-|7| Feb 24; 26 | [Congestion control](lectures/lec8.pptx) | 3.5, 3.6 | [BBR](https://github.com/google/bbr)
-|8| Mar 10; 12 | [More on CC](lectures/lec9.pptx); <br>[Network layer](lectures/lec10.pptx) | 3.7, 4.1, 4.3.1, 4.3.2, 4.3.5 | [DCTCP](https://people.csail.mit.edu/alizadeh/papers/dctcp-sigcomm10.pdf)
-|9| Mar 17; 19 | [Routing foundamentals](lectures/lec11.pptx) | 5.1, 5.2, 5.3 | [How Dijkstra's Algorithm Works](https://www.youtube.com/watch?v=EFg3u_E6eHU)
-|10| Mar 24; 26 | [Intra-domain routing](lectures/lec12.pptx); <br>[Inter-domain routing](lectures/lec13.pptx) | 5.1, 5.2, 5.3 |
-|11| Mar 31; no class | [Inter-domain routing](lectures/lec13.pptx) | 5.4
-|12| Apr 7; 9 | [SDN](lectures/lec14.pptx); [Link layer](lectures/lec15.pptx) | 4.4, 5.5, 6.1, 6.3, 6.4
-|13| Apr 14, [16](https://cuhk.zoom.us/rec/share/eWqr3xyJjT2MOSn5JMQuaNLt0GlFNm_Xz00QxnTcsSiGV-Eq7u3GuyC2kMvQMVZm.dCobzzOMTL5uCcFI)\* | [Link layer](lectures/lec15.pptx); <br>[Final review](lectures/review.pptx)| 6.1, 6.3, 6.4 | [CTE](lectures/CSCI4430_CTE.pptx)
+|1| Sep 1; 2 | [Intro and Overview](lectures/lec1.pptx) |  1.1, 1.3, 1.4 |
+|2| Sep 8; 9 | [Layering](lectures/lec2.pptx); <br>[Sockets and HTTP](lectures/lec3.pptx) | 1.5, 2.2, 2.4 | [End-to-end arguments <br>in system design](https://web.mit.edu/Saltzer/www/publications/endtoend/endtoend.pdf)
+|3| Sep 15; 16 | [CDN, DNS](lectures/lec4.pptx) | 2.2, 2.4
+|4| Sep 22; 23 | [Video, datacenters](lectures/lec5.pptx) |  2.6
+|5| Sep 29; 30 | [Transport layer](lectures/lec6.pptx) | 3.1–3.4
+|6| Oct 6; holiday | [TCP Basics](lectures/lec7.pptx) |3.5, 3.6 | RFCs in the ppt
+|7| Oct 13; no class | Midterm | 
+
 
 ### Tutorials and Assignments
-<!--  ~~11:59:59 p.m., Sat, Jan 29th~~ 18:00:00 p.m., Mon, Jan 31st -->
-<!-- assignment-1 -->
-<!-- []() -->
+
 | Week | Date | Topic | TA | Assignment | Due |
 | :---: | :------------------ | :-----: | :-------------: | :-----: | :-------------: |
 | 1 | Sep 2  | [Socket programming]() | Yicheng | [Assignment 1]() | 11:59:59 p.m., Sun, Sep. 21st |
