@@ -16,7 +16,7 @@
 | :---------------- | :--- | :----------- |
 | [Xu, Hong (Henry)](https://henryhxu.github.io/) | Prof | Mon 9-10am, Tue 1-2 pm, SHB 914. **By appointments only.** |
 | [Feng, Yicheng](mailto:yichengfeng@link.cuhk.edu.hk)  | Head TA | Tue 2:30-4:30 pm, SHB 904. |
-| [Wu, Shaofeng](mailto:sfwu22@cse.cuhk.edu.hk) | TA | Online (Piazza), SHB 904. |
+| [Wu, Shaofeng](mailto:sfwu22@cse.cuhk.edu.hk) | TA | Online (Piazza), SHB 117. |
 | [Deng, Yangtao](mailto:ytdeng25@cse.cuhk.edu.hk) | TA | Thu 10-12 am, SHB 117. |
 
 ### Piazza
