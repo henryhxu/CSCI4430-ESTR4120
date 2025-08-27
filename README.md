@@ -75,10 +75,10 @@ You may also want to check out this online book:
 <!-- []() -->
 | Week | Date | Topic | TA | Assignment | Due |
 | :---: | :------------------ | :-----: | :-------------: | :-----: | :-------------: |
-| 1 | Sep 2  | [Socket programming]() | Yicheng | [Assignment 1]() | 11:59:59 p.m., Fri, Sep. 21th |
+| 1 | Sep 2  | [Socket programming]() | Yicheng | [Assignment 1]() | 11:59:59 p.m., Sun, Sep. 21th |
 | 2 | Sep 9 |[Performance metrics]() | Yicheng |||
 | 3 | Sep 16 | [HTTP]() | Yicheng |||
-| 4 | Sep 23 | [Select programming]() | Yangtao |[Assignment 2]() | 11:59:59 p.m., Sat, Oct. 26th |
+| 4 | Sep 23 | [Select programming]() | Yangtao |[Assignment 2]() | 11:59:59 p.m., Sun, Oct. 26th |
 | 5 | Sep 30 | [Video streaming]() | Yangtao |||
 | 6 | Oct 14 | [HTTP Proxy]() | Yicheng |||
 | 7 | Oct 21 | [TCP]() | Yangtao |||
