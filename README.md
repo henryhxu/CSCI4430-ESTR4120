@@ -102,7 +102,6 @@ You may also want to check out this online book:
   * Be respectiful and considerate to other partipants of the class, including all students, and members of the teaching team.
   * Feel free to ask questions and raise comments during the lecture.
   * Longer and deeper discussion and questions can happen in tutorials.
-  * Follow University's regulations on COVID, including use of masks, hand sanitization, seating with social distance, etc.
 - Use of AI tools
   * This course adopts **Approach 1 – Prohibit all use of AI tools**.
   * This means that, "Students are **not** allowed to use any AI tools in any kind of learning activity or assessment that will be counted towards students’ final grade of the course, or used for evaluating students’ attainment of the desired learning outcomes. Students are expected to produce their own work independently without any collaboration or use of AI tools. Such information should be spelt out clearly in the course outline or learning activity/assessment guide.", from CUHK's Guidelines on the Use of Artificial Intelligence Tools in Teaching, Learning and Assessments.
