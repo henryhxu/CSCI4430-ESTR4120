@@ -39,11 +39,13 @@ You may also want to check out this online book:
 - [Computer Networks: A Systems Approach](https://book.systemsapproach.org/index.html), by Larry Peterson and Bruce Davie.
 
 ### Grading
-| Assessment item | CSCI Weight | 
-| :---------------- | :--- | 
-| Assignments | 45% | 
-| Tutorial Quizzes* | 5% |
-| Final Exam | 50% | 
+| Assessment item | CSCI Weight | ESTR Weight | 
+| :---------------- | :--- | :--- |
+| Assignments | 45% | 45% | 
+| Tutorial Quizzes* | 5% | 0%
+| Midterm Exam | 10% | 10%
+| Final Exam | 40% | 40%
+| Project | 0% | 5% |
 
 \*: To encourage tutorial participation, quiz will be conducted at the tutorials randomly. We will randomly pick 5 tutorials and perform a quiz at the end of the tutorial. Each quiz is worth one mark.
 
