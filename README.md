@@ -94,7 +94,7 @@ You may also want to check out this online book:
 |4| Sep 23 | [Video, datacenters](lec/lec5.pptx)  |
 |5| Sep 30 | [Transport layer](lec/lec6.pptx) | 
 |6| holiday | [TCP Basics](lec/lec7.pptx) |  
-|7| no class |  
+|7| no class | Travel to SOSP'25 
 
 
 ## Course policies
