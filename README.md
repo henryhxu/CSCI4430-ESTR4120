@@ -86,15 +86,15 @@ You may also want to check out this online book:
 
 ### ESTR Lectures
 
-| Week | Date | Topic(s) |  Textbook Readings  | Additional Readings
-| :---: |:----------- | :-----------------: |  :------------: | :------------: |
-|1| Sep 2 | [Internet](lec/estr/lec1.pptx) |   | [How to read a paper](lec/estr/HowtoReadPaper.pdf)
-|2| Sep 9 | [Layering](lec/lec2.pptx) |  | 
-|3| Sep 16 | [CDN, DNS](lec/lec4.pptx) | |
-|4| Sep 23 | [Video, datacenters](lec/lec5.pptx) |  |
-|5| Sep 30 | [Transport layer](lec/lec6.pptx) | |
-|6| holiday | [TCP Basics](lec/lec7.pptx) |  | 
-|7| no class |  | 
+| Week | Date | Topic(s) |   Additional Readings
+| :---: |:----------- |  :------------: | :------------: |
+|1| Sep 2 | [Internet](lec/estr/lec1.pptx) |    [How to read a paper](lec/estr/HowtoReadPaper.pdf), [A Brief History of the Internet](lec/estr/L2-brief-history.pdf)
+|2| Sep 9 | [Layering](lec/lec2.pptx) |  
+|3| Sep 16 | [CDN, DNS](lec/lec4.pptx) |
+|4| Sep 23 | [Video, datacenters](lec/lec5.pptx)  |
+|5| Sep 30 | [Transport layer](lec/lec6.pptx) | 
+|6| holiday | [TCP Basics](lec/lec7.pptx) |  
+|7| no class |  
 
 
 ## Course policies
