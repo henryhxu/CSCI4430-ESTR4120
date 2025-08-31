@@ -25,7 +25,7 @@ After completing this programming assignment, students should be able to:
 
 ## VM System and Tools Versions (Windows, Linux (amd64), and Intel-based macOS)
 
-This is the highly recommended approach.
+**This is the highly recommended approach.**
 - Download and install [VirtualBox](https://www.virtualbox.org/).
 - Download the provided [VM image](https://drive.google.com/file/d/15yiMqmsdN9P8O_H_M_DrURkETPwPpxZF/view?usp=sharing),login password:csci4430)
 - Import the image into VirtualBox to get started.
