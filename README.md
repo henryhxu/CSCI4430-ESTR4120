@@ -56,12 +56,12 @@ You may also want to check out this online book:
 
 | Week | Date | Topic(s) |  Textbook Readings  | Additional Readings
 | :---: |:----------- | :-----------------: |  :------------: | :------------: |
-|1| Sep 1; 2 | [Intro and Overview](lectures/lec1.pptx) |  1.1, 1.3, 1.4 |
-|2| Sep 8; 9 | [Layering](lectures/lec2.pptx); <br>[Sockets and HTTP](lectures/lec3.pptx) | 1.5, 2.2, 2.4 | [End-to-end arguments <br>in system design](https://web.mit.edu/Saltzer/www/publications/endtoend/endtoend.pdf)
-|3| Sep 15; 16 | [CDN, DNS](lectures/lec4.pptx) | 2.2, 2.4
-|4| Sep 22; 23 | [Video, datacenters](lectures/lec5.pptx) |  2.6
-|5| Sep 29; 30 | [Transport layer](lectures/lec6.pptx) | 3.1–3.4
-|6| Oct 6; holiday | [TCP Basics](lectures/lec7.pptx) |3.5, 3.6 | RFCs in the ppt
+|1| Sep 1; 2 | [Intro and Overview](lec/lec1.pptx) |  1.1, 1.3, 1.4 |
+|2| Sep 8; 9 | [Layering](lec/lec2.pptx); <br>[Sockets and HTTP](lec/lec3.pptx) | 1.5, 2.2, 2.4 | [End-to-end arguments <br>in system design](https://web.mit.edu/Saltzer/www/publications/endtoend/endtoend.pdf)
+|3| Sep 15; 16 | [CDN, DNS](lec/lec4.pptx) | 2.2, 2.4
+|4| Sep 22; 23 | [Video, datacenters](lec/lec5.pptx) |  2.6
+|5| Sep 29; 30 | [Transport layer](lec/lec6.pptx) | 3.1–3.4
+|6| Oct 6; holiday | [TCP Basics](lec/lec7.pptx) |3.5, 3.6 | RFCs in the ppt
 |7| Oct 13; no class | Midterm | 
 
 
