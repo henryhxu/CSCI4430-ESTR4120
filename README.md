@@ -70,18 +70,19 @@ You may also want to check out this online book:
 
 | Week | Date | Topic | TA | Assignment | Due |
 | :---: | :------------------ | :-----: | :-------------: | :-----: | :-------------: |
-| 1 | Sep 2  | [Socket programming]() | Yicheng | [Assignment 1]() | 11:59:59 p.m., Sun, Sep. 21st |
+| 1 | Sep 2 | [Socket programming]() | Yicheng | [Assignment 1]() | 11:59:59 p.m., Sun, Sep. 21st |
 | 2 | Sep 9 |[Performance metrics]() | Yicheng |||
 | 3 | Sep 16 | [HTTP]() | Yicheng |||
 | 4 | Sep 23 | [Select programming]() | Yangtao |[Assignment 2]() | 11:59:59 p.m., Sun, Oct. 26th |
 | 5 | Sep 30 | [Video streaming]() | Yangtao |||
-| 6 | Oct 14 | [HTTP Proxy]() | Yicheng |||
-| 7 | Oct 21 | [TCP]() | Yangtao |||
-| 8 | Oct 28 | [UDP]() | Yicheng |[Assignment 3]() | 11:59:59 p.m., Sun, Nov. 30th|
-| 9 | Nov 4 | [IP Routing]() | Yicheng |||
-| 10 | Nov 11 | [WTP]() | Yangtao |||
-| 11 | Nov 18 | [LS/DV Routing]() | Yangtao |||
-| 12 | Nov 25 | [BGP]() | Yangtao |||
+| 6 | Oct 7 | holiday | | | |
+| 7 | Oct 14 | [HTTP Proxy]() | Yicheng |||
+| 8 | Oct 21 | [TCP]() | Yangtao |||
+| 9 | Oct 28 | [UDP]() | Yicheng |[Assignment 3]() | 11:59:59 p.m., Sun, Nov. 30th|
+| 10 | Nov 4 | [IP Routing]() | Yicheng |||
+| 11 | Nov 11 | [WTP]() | Yangtao |||
+| 12 | Nov 18 | [LS/DV Routing]() | Yangtao |||
+| 13 | Nov 25 | [BGP]() | Yangtao |||
 
 
 
