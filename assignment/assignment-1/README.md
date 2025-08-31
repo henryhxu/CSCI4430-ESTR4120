@@ -23,24 +23,17 @@ After completing this programming assignment, students should be able to:
 
 <a name="part1"></a>
 
-## VM System and Tools Versions
+## VM System and Tools Versions (Windows, Linux (amd64), and Intel-based macOS)
 
-The following table lists the versions of the system and tools pre-installed in the VM ([VirtualBox](https://www.virtualbox.org/), [VM image](https://drive.google.com/file/d/15yiMqmsdN9P8O_H_M_DrURkETPwPpxZF/view?usp=sharing),login password:csci4430). Students who are not using the provided VM should ensure their system matches these versions as closely as possible to maintain compatibility.
+**This is the highly recommended approach.**
+- Download and install [VirtualBox](https://www.virtualbox.org/).
+- Download the provided [VM image](https://drive.google.com/file/d/15yiMqmsdN9P8O_H_M_DrURkETPwPpxZF/view?usp=sharing),login password:csci4430)
+- Import the image into VirtualBox to get started.
 
-| Software/Tool | Version                                | Notes                                           |
-|---------------|----------------------------------------|------------------------------------------------|
-| **OS**        | Ubuntu 18.04.5 LTS (Bionic Beaver)    |                                                 |
-| **GCC**       | 7.5.0                                 | gcc (Ubuntu 7.5.0-3ubuntu1~18.04)              |
-| **G++**       | 7.5.0                                 | g++ (Ubuntu 7.5.0-3ubuntu1~18.04)              |
-| **Make**      | 4.1                                   | Built for x86_64-pc-linux-gnu                  |
-| **Mininet**   | 2.3.0d6                               |                                                |
-| **openvswitch-switch**   | 2.9.5-0ubuntu0.18.04.1     | amd64                                          |
-| **Python**    | 2.7.17                                | Ensure compatibility with Python 2.7           |
-| **Ping**      | iputils-s20161105                     | Version included in Ubuntu 18.04               |
-| **Iperf**     | 2.0.10                                | With pthreads support                          |
+ Students who are not using the provided VM should ensure their system matches these versions as closely as possible to maintain compatibility.
 
 
-## Docker images (supporting  amd64)
+## Docker images (Windows, Linux (amd64), and Intel-based macOS)
 
 We also provide a Docker image to help you to start the measurement test in asg1 for those who cannot well use VM image afore-mentioned. Here is the instruction to use the Docker image.
 
