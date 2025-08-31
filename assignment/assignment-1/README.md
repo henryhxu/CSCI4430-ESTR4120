@@ -23,7 +23,7 @@ After completing this programming assignment, students should be able to:
 
 <a name="part1"></a>
 
-## VM System and Tools Versions (Windows, Linux (amd64), and Intel-based macOS)
+## VM System and Tools (Windows, Linux (amd64), and Intel-based macOS)
 
 **This is the highly recommended approach.**
 - Download and install [VirtualBox](https://www.virtualbox.org/).
