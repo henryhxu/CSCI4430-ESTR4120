@@ -58,7 +58,7 @@ fengyicheng/csci4430-asg1
 
 ### Run mininet script
 
-Within the container, please note that Python 3 is used instead of Python 2. This is due to configuration upgrades, but it will not affect the autograding process.
+Within the container, you may need to use Python 3 is used instead of Python 2. This is due to configuration upgrades, but it will not affect the autograding process.
 ```bash
 cd /root/
 python3 assignment1_topology.py
@@ -166,8 +166,6 @@ A python script to run Mininet with the topology described below is provided alo
 To run Mininet with the provided topology, run the Python script `assignment1_topology.py` using sudo:
 
 `sudo python assignment1_topology.py`
-
-> Note: You should use **Python 2.7** in this assignment.
 
 This will create a network with the following topology:
 
