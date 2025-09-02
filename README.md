@@ -44,8 +44,8 @@ You may also want to check out this online book:
 | Assignments | 45% | 45% | 
 | Tutorial Quizzes* | 5% | 0%
 | Midterm Exam | 10% | 10%
-| Final Exam | 40% | 40%
-| Project | 0% | 5% |
+| Final Exam | 40% | 35%
+| Project | 0% | 10% |
 
 \*: To encourage tutorial participation, quiz will be conducted at the tutorials randomly. We will randomly pick 5 tutorials and perform a quiz at the end of the tutorial. Each quiz is worth one mark.
 
