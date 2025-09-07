@@ -71,7 +71,7 @@ You may also want to check out this online book:
 | Week | Date | Topic | TA | Assignment | Due |
 | :---: | :------------------ | :-----: | :-------------: | :-----: | :-------------: |
 | 1 | Sep 2 | [Socket programming](tutorial/T01) | Yicheng | [Assignment 1](assignment/assignment-1) | 11:59:59 p.m., Sun, Sep. 21st |
-| 2 | Sep 9 |[Performance metrics]() | Yicheng |||
+| 2 | Sep 9 |[Performance metrics](tutorial/T02) | Yicheng |||
 | 3 | Sep 16 | [HTTP]() | Yicheng |||
 | 4 | Sep 23 | [Select programming]() | Yangtao |[Assignment 2]() | 11:59:59 p.m., Sun, Oct. 26th |
 | 5 | Sep 30 | [Video streaming]() | Yangtao |||
