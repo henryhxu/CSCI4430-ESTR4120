@@ -90,7 +90,7 @@ You may also want to check out this online book:
 | :---: |:----------- |  :------------: | :------------: |
 |1| Sep 2 | [Internet](lec/estr/estr1.pptx) (more from [IERG5090](lec/estr/ierg5090_lecture_notes_2.pdf)) |  [How to read a paper](lec/estr/HowtoReadPaper.pdf), [A Brief History of the Internet](lec/estr/L2-brief-history.pdf)
 |2| Sep 9 | [P2P, security](lec/estr/estr2.pptx) |  
-|3| Sep 16 | [Consistent hashing, Chord](lec/estr/estr3.pptx) |
+|3| Sep 16 | [Consistent hashing, Chord](lec/estr/estr3.pptx) | [Consistent hashing, STOC97](https://dl.acm.org/doi/10.1145/258533.258660), [Chord, Sigcomm01](https://pdos.csail.mit.edu/papers/chord:sigcomm01/chord_sigcomm.pdf)
 |4| Sep 23 | [Video, datacenters](lec/lec5.pptx)  |
 |5| Sep 30 | [Transport layer](lec/lec6.pptx) | 
 |6| holiday | [TCP Basics](lec/lec7.pptx) |  
