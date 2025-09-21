@@ -1,6 +1,6 @@
 # Assignment 1: Sockets, Mininet, & Performance
 
-### Due: 11:59:59 p.m., Sun, Sep. 21st, 2025
+### Due: 11:59:59 p.m., Wed, Sep. 24th, 2025 (Already Extending)
 
 ***Note: please stay tuned for any update announced in Piazza for the assignment.*** 
 
