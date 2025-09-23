@@ -73,7 +73,7 @@ You may also want to check out this online book:
 | 1 | Sep 2 | [Socket programming](tutorial/T01) | Yicheng | [Assignment 1](assignment/assignment-1) | 11:59:59 p.m., Wed, Sep. 24th |
 | 2 | Sep 9 |[Performance metrics](tutorial/T02) | Yicheng |||
 | 3 | Sep 16 | [HTTP](tutorial/T03) | Yicheng |||
-| 4 | Sep 23 | [Select programming]() | Yangtao |[Assignment 2]() | 11:59:59 p.m., Sun, Oct. 26th |
+| 4 | Sep 23 | [Select programming](tutorial/T04) ([Recording](https://drive.google.com/file/d/1gocGr0SARpiupDL6Hxlbo5kTqPSpH8pP/view?usp=sharing)) | Yangtao |[Assignment 2]() | 11:59:59 p.m., Sun, Oct. 26th |
 | 5 | Sep 30 | [Video streaming]() | Yangtao |||
 | 6 | Oct 7 | holiday | | | |
 | 7 | Oct 14 | [HTTP Proxy]() | Yicheng |||
