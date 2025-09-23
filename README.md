@@ -59,7 +59,7 @@ You may also want to check out this online book:
 |1| Sep 1; 2 | [Intro and Overview](lec/lec1.pptx) |  1.1, 1.3, 1.4 |
 |2| Typhoon; Sep 9 | [Layering](lec/lec2.pptx) | 1.5, 2.2, 2.4 | [End-to-end arguments <br>in system design](https://web.mit.edu/Saltzer/www/publications/endtoend/endtoend.pdf)
 |3| Sep 15; 16 | [Sockets and HTTP](lec/lec3.pptx); <br>[CDN, DNS](lec/lec4.pptx) | 2.2, 2.4
-|4| Sep 22; 23 | [Video, datacenters](lec/lec5.pptx) |  2.6
+|4| Sep 22; [23](https://cuhk.zoom.us/rec/share/QeGUpNGskwXn7lCegbbjcBMJ6u43wFLFSSUeC1J0YTktktenpdR03aQ7ifjXIRHG.jfKHRYTSLQy6rfm1) | [Video, datacenters](lec/lec5.pptx) |  2.6
 |5| Sep 29; 30 | [Transport layer](lec/lec6.pptx) | 3.1–3.4
 |6| Oct 6; holiday | [TCP Basics](lec/lec7.pptx) |3.5, 3.6 | RFCs in the ppt
 |7| Oct 13; no class | Midterm | 
@@ -91,7 +91,7 @@ You may also want to check out this online book:
 |1| Sep 2 | [Internet](lec/estr/estr1.pptx) (more from [IERG5090](lec/estr/ierg5090_lecture_notes_2.pdf)) |  [How to read a paper](lec/estr/HowtoReadPaper.pdf), [A Brief History of the Internet](lec/estr/L2-brief-history.pdf)
 |2| Sep 9 | [P2P, security](lec/estr/estr2.pptx) |  
 |3| Sep 16 | [Consistent hashing](lec/estr/estr3.pptx); [Chord](lec/estr/estr3_chord.pdf) | [STOC'97](https://dl.acm.org/doi/10.1145/258533.258660), [SIGCOMM'01](https://pdos.csail.mit.edu/papers/chord:sigcomm01/chord_sigcomm.pdf)
-|4| Sep 23 | [Video ABR](lec/estr/estr4.pptx); [puffer](lec/estr/estr4-puffer.pdf) | [Pensieve](https://dl.acm.org/doi/10.1145/3098822.3098843), [puffer](https://puffer.stanford.edu/)
+|4| [Sep 23](https://cuhk.zoom.us/rec/share/spyyJ0Gk6ASdabs3bzlDwJnqhBpyoXNe6NzkGODdEg_IHNFoz9_Nb9oMM7TBZoOX.qyyWOXwSSACTolZO) | [Video ABR](lec/estr/estr4.pptx); [puffer](lec/estr/estr4-puffer.pdf) | [Pensieve](https://dl.acm.org/doi/10.1145/3098822.3098843), [puffer](https://puffer.stanford.edu/)
 |5| Sep 30 | [Transport layer](lec/lec6.pptx) | 
 |6| holiday | [TCP Basics](lec/lec7.pptx) |  
 |7| no class | Travel to SOSP'25 
