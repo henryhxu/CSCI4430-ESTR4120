@@ -92,7 +92,7 @@ You may also want to check out this online book:
 |2| Sep 9 | [P2P, security](lec/estr/estr2.pptx) |  
 |3| Sep 16 | [Consistent hashing](lec/estr/estr3.pptx); [Chord](lec/estr/estr3_chord.pdf) | [STOC'97](https://dl.acm.org/doi/10.1145/258533.258660), [SIGCOMM'01](https://pdos.csail.mit.edu/papers/chord:sigcomm01/chord_sigcomm.pdf)
 |4| [Sep 23](https://cuhk.zoom.us/rec/share/spyyJ0Gk6ASdabs3bzlDwJnqhBpyoXNe6NzkGODdEg_IHNFoz9_Nb9oMM7TBZoOX.qyyWOXwSSACTolZO) | [Video ABR](lec/estr/estr4.pptx); [puffer](lec/estr/estr4-puffer.pdf) | [Pensieve](https://dl.acm.org/doi/10.1145/3098822.3098843), [puffer](https://puffer.stanford.edu/)
-|5| Sep 30 | [Parallelisms in LLM training](lec/estr/estr5.pptx) | 
+|5| Sep 30 | [Parallelisms in LLM training](lec/estr/estr5.pptx) | [Megatron-LM paper](https://arxiv.org/pdf/1909.08053), [code](https://github.com/NVIDIA/Megatron-LM)
 |6| holiday |  |  
 |7| no class | Travel to SOSP'25 
 
