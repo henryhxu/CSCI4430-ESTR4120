@@ -614,9 +614,7 @@ This will send a load balancer query to the specified load balancing server in t
 
 ## Autograder
 
-**[Feb.18th update]** The autograder has been released, you can submit your tarball to [Assignment 2 - HTTP Streaming Proxy](http://projgw.cse.cuhk.edu.hk:2913/).
-
-The Autograder is not a debugging tool. You only have **5 submissions** per day. You can and should design tests to fully test your proxy server and DNS server.
+The Autograder is not a debugging tool. You only have **10 submissions** per day. You can and should design tests to fully test your proxy server and DNS server.
 
 You will be submitting a tarball to the Autograder. You can create this tarball by running the following command:
 ```bash
