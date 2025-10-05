@@ -96,6 +96,20 @@ You may also want to check out this online book:
 |6| holiday |  |  
 |7| no class | Travel to SOSP'25 
 
+### ESTR Individual Projects
+- Proposal [1 mark]
+  * Due: 23:59, Oct 22, 2025 HKT
+  * 1 page, 12-pt Times New Roman, single column, single spacing
+  * LaTeX strongly encouraged, using the article class
+  * Submit by emailing Henry directly with a title "[ESTR4120] Proposal - Student_name"
+- Presentation [5 marks]
+  * Due: Nov 18 & 25 lectures
+  * Schedule to be announced
+- Report [4 marks]
+  * Due: 23:59, Dec 2, 2025 HKT
+  * 5 pages, 12-pt Times New Roman, single column, single spacing
+  * LaTeX strongly encouraged, using the article class
+  * Submit by emailing Henry directly with a title "[ESTR4120] Report - Student_name"
 
 ## Course policies
 - Assignments:
