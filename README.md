@@ -5,7 +5,7 @@
 ### Schedule
 
 - Lectures: 
-  * Mon 3:30pm – 5:15pm, Y.C. Liang Hall 103
+  * Mon 2:30pm – 5:15pm, Y.C. Liang Hall 103
   * Tue 10:30am – 11:15am, Lee Shau Kee LT3
   * Tue 9:30am - 10:15am, Lee Shau Kee LT3 (ESTR)
 - Tutorials:
