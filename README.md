@@ -74,10 +74,10 @@ You may also want to check out this online book:
 | 2 | Sep 9 |[Performance metrics](tutorial/T02) | Yicheng |||
 | 3 | Sep 16 | [HTTP](tutorial/T03) | Yicheng |||
 | 4 | Sep 23 | [Select programming](tutorial/T04) ([Recording](https://drive.google.com/file/d/1gocGr0SARpiupDL6Hxlbo5kTqPSpH8pP/view?usp=sharing)) | Yangtao |[Assignment 2]() | 11:59:59 p.m., Sun, Oct. 26th |
-| 5 | Sep 30 | [Video streaming]() | Yangtao |||
+| 5 | Sep 30 | [Video streaming](tutorial/T05) | Yangtao |||
 | 6 | Oct 7 | holiday | | | |
-| 7 | Oct 14 | [HTTP Proxy]() | Yicheng |||
-| 8 | Oct 21 | [TCP]() | Yangtao |||
+| 7 | Oct 14 | [HTTP Proxy](tutorial/T06) | Yicheng |||
+| 8 | Oct 21 | [TCP](tutorial/T07) | Yangtao |||
 | 9 | Oct 28 | [UDP]() | Yicheng |[Assignment 3]() | 11:59:59 p.m., Sun, Nov. 30th|
 | 10 | Nov 4 | [IP Routing]() | Yicheng |||
 | 11 | Nov 11 | [WTP]() | Yangtao |||
