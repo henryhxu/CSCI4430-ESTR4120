@@ -63,7 +63,8 @@ You may also want to check out this online book:
 |5| Sep 29; 30 | [Transport layer](lec/lec6.pptx) | 3.1–3.4
 |6| Oct 6; holiday | [TCP Basics](lec/lec7.pptx) |3.5, 3.6 | RFCs in the ppt
 |7| Oct 13; no class | Midterm | 
-|8| Oct 20; 21 | [Congestion control](lectures/lec8.pptx) | 3.5, 3.6 | [BBR](https://github.com/google/bbr)
+|8| Oct 20; 21 | [Congestion control](lec/lec8.pptx) | 3.5, 3.6 | [BBR](https://github.com/google/bbr)
+|9| Oct 27; 28 | [More on CC](lec/lec9.pptx); <br>[Network layer](lec/lec10.pptx) | 3.7, 4.1, 4.3.1, 4.3.2, 4.3.5 | [DCTCP](https://people.csail.mit.edu/alizadeh/papers/dctcp-sigcomm10.pdf)
 
 
 ### Tutorials and Assignments
