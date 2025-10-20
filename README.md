@@ -97,7 +97,7 @@ You may also want to check out this online book:
 |5| Sep 30 | [Parallelisms in LLM training](lec/estr/parallelism.pdf) | [Megatron-LM paper](https://arxiv.org/pdf/1909.08053), [code](https://github.com/NVIDIA/Megatron-LM)
 |6| holiday |  |  
 |7| no class | Travel to SOSP'25 
-|8| Oct 20 | [Pantheon: An Arena for CC](https://www.usenix.org/sites/default/files/conference/protected-files/atc18_slides_yan.pdf) | [Project site](https://pantheon.stanford.edu/)
+|8| Oct 20 | [Pantheon: An Arena for CC](https://www.usenix.org/sites/default/files/conference/protected-files/atc18_slides_yan.pdf) | [Pantheon site](https://pantheon.stanford.edu/); [Congestion-control throwdown on HotNets'17](https://www.youtube.com/watch?v=T1DCoNoVvRM&t=1s)
 
 ### ESTR Individual Projects
 - Proposal [1 mark]
