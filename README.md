@@ -101,7 +101,7 @@ You may also want to check out this online book:
 
 ### ESTR Individual Projects
 - Proposal [1 mark]
-  * Due: 23:59, Oct 22, 2025 HKT
+  * Due: 23:59, Oct ~~22~~24, 2025 HKT
   * 1 page, 12-pt Times New Roman, single column, single spacing
   * LaTeX strongly encouraged, using the article class
   * Submit by emailing Henry directly with a title "[ESTR4120] Proposal - Student_name"
