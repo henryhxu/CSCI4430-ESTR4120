@@ -65,6 +65,7 @@ You may also want to check out this online book:
 |7| Oct 13; no class | Midterm | 
 |8| Oct 20; 21 | [Congestion control](lec/lec8.pptx) | 3.5, 3.6 | [BBR](https://github.com/google/bbr)
 |9| Oct 27; 28 | [More on CC](lec/lec9.pptx); <br>[Network layer](lec/lec10.pptx) | 3.7, 4.1, 4.3.1, 4.3.2, 4.3.5 | [DCTCP](https://people.csail.mit.edu/alizadeh/papers/dctcp-sigcomm10.pdf)
+|10| Nov 3; 4 | [Routing fundamentals](lec/lec11.ppt) | 5.1, 5.2, 5.3 | [How Dijkstra's Algorithm Works](https://www.youtube.com/watch?v=EFg3u_E6eHU)
 
 
 ### Tutorials and Assignments
@@ -99,6 +100,7 @@ You may also want to check out this online book:
 |7| no class | Travel to SOSP'25 
 |8| Oct 20 | [Pantheon: An Arena for CC](https://www.usenix.org/sites/default/files/conference/protected-files/atc18_slides_yan.pdf) | [Pantheon site](https://pantheon.stanford.edu/); [Congestion-control throwdown on HotNets'17](https://www.youtube.com/watch?v=T1DCoNoVvRM&t=1s)
 |9| Oct 27 | [DCTCP](lec/estr/estr7-dctcp.pptx) | [BBR repo](https://github.com/google/bbr)
+|10| Nov 4 | [VPN]
 
 ### ESTR Individual Projects
 - Proposal [1 mark]
