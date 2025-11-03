@@ -65,7 +65,7 @@ You may also want to check out this online book:
 |7| Oct 13; no class | Midterm | 
 |8| Oct 20; 21 | [Congestion control](lec/lec8.pptx) | 3.5, 3.6 | [BBR](https://github.com/google/bbr)
 |9| Oct 27; 28 | [More on CC](lec/lec9.pptx); <br>[Network layer](lec/lec10.pptx) | 3.7, 4.1, 4.3.1, 4.3.2, 4.3.5 | [DCTCP](https://people.csail.mit.edu/alizadeh/papers/dctcp-sigcomm10.pdf)
-|10| Nov 3; 4 | [Routing fundamentals](lec/lec11.ppt) | 5.1, 5.2, 5.3 | [How Dijkstra's Algorithm Works](https://www.youtube.com/watch?v=EFg3u_E6eHU)
+|10| Nov 3; 4 | [Routing fundamentals](lec/lec11.ppt); <br>[Intra-domain routing](lec/lec12.pptx) | 5.1, 5.2, 5.3 | [How Dijkstra's Algorithm Works](https://www.youtube.com/watch?v=EFg3u_E6eHU)
 
 
 ### Tutorials and Assignments
