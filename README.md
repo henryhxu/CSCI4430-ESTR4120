@@ -119,6 +119,7 @@ You may also want to check out this online book:
   * 5 pages, 12-pt Times New Roman, single column, single spacing
   * LaTeX strongly encouraged, using the article class
   * Submit by emailing Henry directly with a title "[ESTR4120] Report - Student_name"
+- List of topics is [here](estr.md)
 
 ## Course policies
 - Assignments:
