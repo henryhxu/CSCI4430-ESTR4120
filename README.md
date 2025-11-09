@@ -104,6 +104,7 @@ You may also want to check out this online book:
 |8| Oct 20 | [Pantheon: An Arena for CC](https://www.usenix.org/sites/default/files/conference/protected-files/atc18_slides_yan.pdf) | [Pantheon site](https://pantheon.stanford.edu/); [Congestion-control throwdown on HotNets'17](https://www.youtube.com/watch?v=T1DCoNoVvRM&t=1s)
 |9| Oct 27 | [DCTCP](lec/estr/estr7-dctcp.pptx) | [BBR repo](https://github.com/google/bbr)
 |10| Nov 4 | [NAT & VPN](lec/estr/estr8-vpn.ppt)
+|11| Nov 10 | [Secure BGP](lec/estr/estr9-sbgp.pdf)
 
 ### ESTR Individual Projects
 - Proposal [1 mark]
