@@ -14,3 +14,5 @@
 | Ngan Chon Wai | A client-server modeled voice chat application
 
 ### Schedule
+
+Use this [Google sheet](https://docs.google.com/spreadsheets/d/1KygfY2tR3biFiUaujjFZP2q8HVzMcdwTuBcqiAOPDrw/edit?usp=sharing) to access the presentation schedule.
