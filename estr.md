@@ -11,5 +11,6 @@
 | Raiyan Mohammed Shah | Mesh network and security
 | Chan Cheuk Man | A Survey of Entanglement Distribution Techniques for the Quantum Internet
 | Poonyapat Sriroth | Distributed Judge System for OI-Style Contests
+| Ngan Chon Wai | A client-server modeled voice chat application
 
 ### Schedule
