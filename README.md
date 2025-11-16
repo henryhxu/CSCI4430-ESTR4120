@@ -67,8 +67,8 @@ You may also want to check out this online book:
 |9| Oct 27; 28 | [More on CC](lec/lec9.pptx); <br>[Network layer](lec/lec10.pptx) | 3.7, 4.1, 4.3.1, 4.3.2, 4.3.5 | [DCTCP](https://people.csail.mit.edu/alizadeh/papers/dctcp-sigcomm10.pdf)
 |10| Nov 3; 4 | [Routing fundamentals](lec/lec11.pptx); <br>[Intra-domain routing](lec/lec12.pptx) | 5.1, 5.2, 5.3 | [How Dijkstra's Algorithm Works](https://www.youtube.com/watch?v=EFg3u_E6eHU)
 |11| Nov 10; 11 | [Intra-domain routing](lec/lec12.pptx); <br>[Inter-domain routing](lec/lec13.pptx) | 5.1, 5.2, 5.3, 5.4 |
-|12| Nov 17; 18 | [Inter-domain routing](lec/lec13.pptx); <br>[SDN](lectures/lec14.pptx) | 4.4, 5.5
-|13| Nov 24; 25 | [Link layer](lectures/lec15.pptx); <br>[Final review](lectures/review.pptx) | 6.1, 6.3, 6.4
+|12| Nov 17; 18 | [Inter-domain routing](lec/lec13.pptx); <br>[SDN](lec/lec14.pptx) | 4.4, 5.5
+|13| Nov 24; 25 | [Link layer](lec/lec15.pptx); <br>[Final review](lec/review.pptx) | 6.1, 6.3, 6.4
 
 
 ### Tutorials and Assignments
