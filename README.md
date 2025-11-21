@@ -117,7 +117,8 @@ You may also want to check out this online book:
   * Schedule to be announced
 - Report [4 marks]
   * Due: 23:59, Dec 2, 2025 HKT
-  * 5 pages, 12-pt Times New Roman, single column, single spacing
+  * 5 pages, 12-pt Times New Roman, single column, single spacing.
+  * References don't count into page limit.
   * LaTeX strongly encouraged, using the article class
   * Submit by emailing Henry directly with a title "[ESTR4120] Report - Student_name"
 - List of topics is [here](estr.md)
