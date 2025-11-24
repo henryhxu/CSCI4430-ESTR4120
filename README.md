@@ -88,7 +88,7 @@ You may also want to check out this online book:
 | 10 | Nov 4 | [IP Routing](tutorial/T09) | Yicheng |||
 | 11 | Nov 11 | [WTP](tutorial/T10) | Yangtao |||
 | 12 | Nov 18 | [LS/DV Routing](tutorial/T11) | Yangtao |||
-| 13 | Nov 25 | [BGP]() | Yangtao |||
+| 13 | Nov 25 | [BGP](tutorial/T12) | Yangtao |||
 
 ### ESTR Lectures
 
